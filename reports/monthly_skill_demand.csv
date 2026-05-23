@@ -1,0 +1,1082 @@
+month,skill,mentions,postings
+2024-01,APIs,3,3
+2024-01,Airflow,5,5
+2024-01,Business Recommendations,15,15
+2024-01,Data Visualization,9,9
+2024-01,Data Warehousing,3,3
+2024-01,Docker,3,3
+2024-01,ETL,8,8
+2024-01,Econometrics,5,5
+2024-01,Economic Analysis,1,1
+2024-01,Excel,4,4
+2024-01,Future of Work,15,15
+2024-01,Information Extraction,4,4
+2024-01,KPI Reporting,1,1
+2024-01,LLM,6,6
+2024-01,Labor Market Analytics,15,15
+2024-01,MLOps,3,3
+2024-01,Machine Learning,8,8
+2024-01,Market Research,1,1
+2024-01,Model Evaluation,11,11
+2024-01,Natural Language Processing,4,4
+2024-01,Power BI,6,6
+2024-01,Prompt Engineering,1,1
+2024-01,Python,14,14
+2024-01,RAG,5,5
+2024-01,SQL,12,12
+2024-01,Scikit-learn,8,8
+2024-01,Semantic Search,5,5
+2024-01,Sentence Transformers,4,4
+2024-01,Spark,5,5
+2024-01,Stakeholder Communication,15,15
+2024-01,Statistics,6,6
+2024-01,Tableau,4,4
+2024-01,Vector Database,2,2
+2024-02,APIs,4,4
+2024-02,Airflow,5,5
+2024-02,Business Recommendations,15,15
+2024-02,Data Visualization,12,12
+2024-02,Data Warehousing,3,3
+2024-02,Docker,1,1
+2024-02,ETL,7,7
+2024-02,Econometrics,7,7
+2024-02,Economic Analysis,2,2
+2024-02,Excel,8,8
+2024-02,Future of Work,15,15
+2024-02,Gemini API,2,2
+2024-02,Information Extraction,2,2
+2024-02,KPI Reporting,5,5
+2024-02,LLM,3,3
+2024-02,Labor Market Analytics,15,15
+2024-02,LangChain,1,1
+2024-02,MLOps,1,1
+2024-02,Machine Learning,7,7
+2024-02,Market Research,2,2
+2024-02,Model Evaluation,6,6
+2024-02,Natural Language Processing,2,2
+2024-02,OpenAI API,1,1
+2024-02,Power BI,5,5
+2024-02,Prompt Engineering,1,1
+2024-02,Python,11,11
+2024-02,RAG,2,2
+2024-02,SQL,13,13
+2024-02,Scikit-learn,7,7
+2024-02,Semantic Search,3,3
+2024-02,Sentence Transformers,2,2
+2024-02,Spark,8,8
+2024-02,Stakeholder Communication,15,15
+2024-02,Statistics,7,7
+2024-02,Tableau,5,5
+2024-03,APIs,6,6
+2024-03,Airflow,6,6
+2024-03,Business Recommendations,15,15
+2024-03,Data Visualization,14,14
+2024-03,Data Warehousing,1,1
+2024-03,Docker,1,1
+2024-03,ETL,2,2
+2024-03,Econometrics,10,10
+2024-03,Economic Analysis,3,3
+2024-03,Excel,6,6
+2024-03,Future of Work,15,15
+2024-03,Gemini API,2,2
+2024-03,KPI Reporting,5,5
+2024-03,LLM,3,3
+2024-03,Labor Market Analytics,15,15
+2024-03,LangChain,1,1
+2024-03,MLOps,1,1
+2024-03,Machine Learning,10,10
+2024-03,Market Research,3,3
+2024-03,Model Evaluation,9,9
+2024-03,OpenAI API,3,3
+2024-03,Power BI,8,8
+2024-03,Python,8,8
+2024-03,RAG,3,3
+2024-03,SQL,14,14
+2024-03,Scikit-learn,9,9
+2024-03,Semantic Search,1,1
+2024-03,Spark,4,4
+2024-03,Stakeholder Communication,15,15
+2024-03,Statistics,13,13
+2024-03,Tableau,7,7
+2024-03,Vector Database,1,1
+2024-04,APIs,7,7
+2024-04,Airflow,6,6
+2024-04,Business Recommendations,15,15
+2024-04,Data Visualization,12,12
+2024-04,Data Warehousing,3,3
+2024-04,Docker,3,3
+2024-04,ETL,6,6
+2024-04,Econometrics,3,3
+2024-04,Economic Analysis,2,2
+2024-04,Excel,7,7
+2024-04,Future of Work,15,15
+2024-04,Gemini API,2,2
+2024-04,KPI Reporting,4,4
+2024-04,LLM,2,2
+2024-04,Labor Market Analytics,15,15
+2024-04,LangChain,1,1
+2024-04,MLOps,3,3
+2024-04,Machine Learning,8,8
+2024-04,Market Research,2,2
+2024-04,Model Evaluation,10,10
+2024-04,OpenAI API,5,5
+2024-04,Power BI,6,6
+2024-04,Prompt Engineering,3,3
+2024-04,Python,11,11
+2024-04,RAG,4,4
+2024-04,SQL,13,13
+2024-04,Scikit-learn,11,11
+2024-04,Semantic Search,4,4
+2024-04,Spark,5,5
+2024-04,Stakeholder Communication,15,15
+2024-04,Statistics,11,11
+2024-04,Tableau,6,6
+2024-04,Vector Database,2,2
+2024-05,APIs,5,5
+2024-05,Airflow,5,5
+2024-05,Business Recommendations,15,15
+2024-05,Data Visualization,11,11
+2024-05,Data Warehousing,2,2
+2024-05,ETL,6,6
+2024-05,Econometrics,7,7
+2024-05,Economic Analysis,4,4
+2024-05,Excel,5,5
+2024-05,Future of Work,15,15
+2024-05,Gemini API,2,2
+2024-05,Information Extraction,4,4
+2024-05,KPI Reporting,2,2
+2024-05,LLM,7,7
+2024-05,Labor Market Analytics,15,15
+2024-05,LangChain,3,3
+2024-05,Machine Learning,5,5
+2024-05,Market Research,4,4
+2024-05,Model Evaluation,7,7
+2024-05,Natural Language Processing,4,4
+2024-05,OpenAI API,3,3
+2024-05,Power BI,4,4
+2024-05,Prompt Engineering,5,5
+2024-05,Python,11,11
+2024-05,RAG,6,6
+2024-05,SQL,10,10
+2024-05,Scikit-learn,5,5
+2024-05,Semantic Search,9,9
+2024-05,Sentence Transformers,4,4
+2024-05,Spark,7,7
+2024-05,Stakeholder Communication,15,15
+2024-05,Statistics,8,8
+2024-05,Tableau,8,8
+2024-05,Vector Database,3,3
+2024-06,APIs,10,10
+2024-06,Airflow,3,3
+2024-06,Business Recommendations,15,15
+2024-06,Data Visualization,9,9
+2024-06,Data Warehousing,2,2
+2024-06,Docker,3,3
+2024-06,ETL,7,7
+2024-06,Econometrics,3,3
+2024-06,Economic Analysis,1,1
+2024-06,Excel,3,3
+2024-06,Future of Work,15,15
+2024-06,Gemini API,1,1
+2024-06,Information Extraction,1,1
+2024-06,KPI Reporting,2,2
+2024-06,LLM,6,6
+2024-06,Labor Market Analytics,15,15
+2024-06,LangChain,5,5
+2024-06,MLOps,3,3
+2024-06,Machine Learning,9,9
+2024-06,Market Research,1,1
+2024-06,Model Evaluation,10,10
+2024-06,Natural Language Processing,1,1
+2024-06,OpenAI API,6,6
+2024-06,Power BI,6,6
+2024-06,Prompt Engineering,5,5
+2024-06,Python,12,12
+2024-06,RAG,7,7
+2024-06,SQL,10,10
+2024-06,Scikit-learn,8,8
+2024-06,Semantic Search,6,6
+2024-06,Sentence Transformers,1,1
+2024-06,Spark,9,9
+2024-06,Stakeholder Communication,15,15
+2024-06,Statistics,7,7
+2024-06,Tableau,9,9
+2024-06,Vector Database,4,4
+2024-07,APIs,6,6
+2024-07,Airflow,6,6
+2024-07,Business Recommendations,15,15
+2024-07,Data Visualization,10,10
+2024-07,ETL,5,5
+2024-07,Econometrics,8,8
+2024-07,Economic Analysis,3,3
+2024-07,Excel,9,9
+2024-07,Future of Work,15,15
+2024-07,Gemini API,1,1
+2024-07,Information Extraction,4,4
+2024-07,KPI Reporting,5,5
+2024-07,LLM,8,8
+2024-07,Labor Market Analytics,15,15
+2024-07,LangChain,2,2
+2024-07,Machine Learning,8,8
+2024-07,Market Research,3,3
+2024-07,Model Evaluation,6,6
+2024-07,Natural Language Processing,4,4
+2024-07,OpenAI API,4,4
+2024-07,Power BI,5,5
+2024-07,Prompt Engineering,6,6
+2024-07,Python,9,9
+2024-07,RAG,7,7
+2024-07,SQL,10,10
+2024-07,Scikit-learn,8,8
+2024-07,Semantic Search,10,10
+2024-07,Sentence Transformers,4,4
+2024-07,Spark,3,3
+2024-07,Stakeholder Communication,15,15
+2024-07,Statistics,11,11
+2024-07,Tableau,7,7
+2024-07,Vector Database,3,3
+2024-08,APIs,9,9
+2024-08,Airflow,7,7
+2024-08,Business Recommendations,15,15
+2024-08,Data Visualization,8,8
+2024-08,Data Warehousing,2,2
+2024-08,Docker,1,1
+2024-08,ETL,4,4
+2024-08,Econometrics,4,4
+2024-08,Excel,8,8
+2024-08,Future of Work,15,15
+2024-08,Gemini API,6,6
+2024-08,Information Extraction,1,1
+2024-08,KPI Reporting,4,4
+2024-08,LLM,11,11
+2024-08,Labor Market Analytics,15,15
+2024-08,LangChain,8,8
+2024-08,MLOps,1,1
+2024-08,Machine Learning,7,7
+2024-08,Model Evaluation,7,7
+2024-08,Natural Language Processing,1,1
+2024-08,OpenAI API,3,3
+2024-08,Power BI,8,8
+2024-08,Prompt Engineering,7,7
+2024-08,Python,13,13
+2024-08,RAG,7,7
+2024-08,SQL,10,10
+2024-08,Scikit-learn,6,6
+2024-08,Semantic Search,3,3
+2024-08,Sentence Transformers,1,1
+2024-08,Spark,5,5
+2024-08,Stakeholder Communication,15,15
+2024-08,Statistics,6,6
+2024-08,Tableau,10,10
+2024-08,Vector Database,7,7
+2024-09,APIs,12,12
+2024-09,Airflow,4,4
+2024-09,Business Recommendations,15,15
+2024-09,Data Visualization,10,10
+2024-09,Docker,1,1
+2024-09,ETL,1,1
+2024-09,Econometrics,10,10
+2024-09,Economic Analysis,3,3
+2024-09,Excel,9,9
+2024-09,Future of Work,15,15
+2024-09,Gemini API,8,8
+2024-09,Information Extraction,4,4
+2024-09,KPI Reporting,3,3
+2024-09,LLM,11,11
+2024-09,Labor Market Analytics,15,15
+2024-09,LangChain,5,5
+2024-09,MLOps,1,1
+2024-09,Machine Learning,9,9
+2024-09,Market Research,3,3
+2024-09,Model Evaluation,6,6
+2024-09,Natural Language Processing,4,4
+2024-09,OpenAI API,4,4
+2024-09,Power BI,3,3
+2024-09,Prompt Engineering,6,6
+2024-09,Python,9,9
+2024-09,RAG,7,7
+2024-09,SQL,12,12
+2024-09,Scikit-learn,5,5
+2024-09,Semantic Search,7,7
+2024-09,Sentence Transformers,4,4
+2024-09,Spark,6,6
+2024-09,Stakeholder Communication,15,15
+2024-09,Statistics,11,11
+2024-09,Tableau,6,6
+2024-09,Vector Database,5,5
+2024-10,APIs,10,10
+2024-10,Airflow,8,8
+2024-10,Business Recommendations,15,15
+2024-10,Data Visualization,8,8
+2024-10,Docker,1,1
+2024-10,ETL,5,5
+2024-10,Econometrics,9,9
+2024-10,Economic Analysis,3,3
+2024-10,Excel,10,10
+2024-10,Future of Work,15,15
+2024-10,Gemini API,3,3
+2024-10,Information Extraction,2,2
+2024-10,KPI Reporting,3,3
+2024-10,LLM,9,9
+2024-10,Labor Market Analytics,15,15
+2024-10,LangChain,7,7
+2024-10,MLOps,1,1
+2024-10,Machine Learning,4,4
+2024-10,Market Research,3,3
+2024-10,Model Evaluation,6,6
+2024-10,Natural Language Processing,2,2
+2024-10,OpenAI API,7,7
+2024-10,Power BI,2,2
+2024-10,Prompt Engineering,8,8
+2024-10,Python,10,10
+2024-10,RAG,7,7
+2024-10,SQL,12,12
+2024-10,Scikit-learn,8,8
+2024-10,Semantic Search,5,5
+2024-10,Sentence Transformers,2,2
+2024-10,Spark,1,1
+2024-10,Stakeholder Communication,15,15
+2024-10,Statistics,8,8
+2024-10,Tableau,7,7
+2024-10,Vector Database,8,8
+2024-11,APIs,11,11
+2024-11,Airflow,4,4
+2024-11,Business Recommendations,15,15
+2024-11,Data Visualization,10,10
+2024-11,Data Warehousing,2,2
+2024-11,Docker,1,1
+2024-11,ETL,8,8
+2024-11,Econometrics,9,9
+2024-11,Economic Analysis,4,4
+2024-11,Excel,7,7
+2024-11,Future of Work,15,15
+2024-11,Gemini API,2,2
+2024-11,Information Extraction,1,1
+2024-11,KPI Reporting,5,5
+2024-11,LLM,8,8
+2024-11,Labor Market Analytics,15,15
+2024-11,LangChain,7,7
+2024-11,MLOps,1,1
+2024-11,Machine Learning,6,6
+2024-11,Market Research,4,4
+2024-11,Model Evaluation,8,8
+2024-11,Natural Language Processing,1,1
+2024-11,OpenAI API,7,7
+2024-11,Power BI,4,4
+2024-11,Prompt Engineering,7,7
+2024-11,Python,10,10
+2024-11,RAG,5,5
+2024-11,SQL,13,13
+2024-11,Scikit-learn,8,8
+2024-11,Semantic Search,7,7
+2024-11,Sentence Transformers,1,1
+2024-11,Spark,5,5
+2024-11,Stakeholder Communication,15,15
+2024-11,Statistics,7,7
+2024-11,Tableau,8,8
+2024-11,Vector Database,5,5
+2024-12,APIs,12,12
+2024-12,Airflow,7,7
+2024-12,Business Recommendations,15,15
+2024-12,Data Visualization,8,8
+2024-12,Data Warehousing,2,2
+2024-12,Docker,2,2
+2024-12,ETL,8,8
+2024-12,Econometrics,7,7
+2024-12,Economic Analysis,2,2
+2024-12,Excel,6,6
+2024-12,Future of Work,15,15
+2024-12,Gemini API,6,6
+2024-12,Information Extraction,1,1
+2024-12,KPI Reporting,4,4
+2024-12,LLM,8,8
+2024-12,Labor Market Analytics,15,15
+2024-12,LangChain,7,7
+2024-12,MLOps,2,2
+2024-12,Machine Learning,6,6
+2024-12,Market Research,2,2
+2024-12,Model Evaluation,7,7
+2024-12,Natural Language Processing,1,1
+2024-12,OpenAI API,6,6
+2024-12,Power BI,4,4
+2024-12,Prompt Engineering,8,8
+2024-12,Python,11,11
+2024-12,RAG,8,8
+2024-12,SQL,11,11
+2024-12,Scikit-learn,6,6
+2024-12,Semantic Search,3,3
+2024-12,Sentence Transformers,1,1
+2024-12,Spark,8,8
+2024-12,Stakeholder Communication,15,15
+2024-12,Statistics,8,8
+2024-12,Tableau,3,3
+2024-12,Vector Database,11,11
+2025-01,APIs,10,10
+2025-01,Airflow,4,4
+2025-01,Business Recommendations,15,15
+2025-01,Data Visualization,8,8
+2025-01,Docker,2,2
+2025-01,ETL,3,3
+2025-01,Econometrics,8,8
+2025-01,Economic Analysis,1,1
+2025-01,Excel,8,8
+2025-01,Future of Work,15,15
+2025-01,Gemini API,5,5
+2025-01,Information Extraction,6,6
+2025-01,KPI Reporting,3,3
+2025-01,LLM,9,9
+2025-01,Labor Market Analytics,15,15
+2025-01,LangChain,5,5
+2025-01,MLOps,2,2
+2025-01,Machine Learning,8,8
+2025-01,Market Research,1,1
+2025-01,Model Evaluation,8,8
+2025-01,Natural Language Processing,6,6
+2025-01,OpenAI API,8,8
+2025-01,Power BI,8,8
+2025-01,Prompt Engineering,6,6
+2025-01,Python,14,14
+2025-01,RAG,10,10
+2025-01,SQL,8,8
+2025-01,Scikit-learn,9,9
+2025-01,Semantic Search,8,8
+2025-01,Sentence Transformers,6,6
+2025-01,Spark,4,4
+2025-01,Stakeholder Communication,15,15
+2025-01,Statistics,6,6
+2025-01,Tableau,6,6
+2025-01,Vector Database,5,5
+2025-02,APIs,9,9
+2025-02,Airflow,5,5
+2025-02,Business Recommendations,15,15
+2025-02,Data Visualization,11,11
+2025-02,Docker,1,1
+2025-02,ETL,5,5
+2025-02,Econometrics,6,6
+2025-02,Economic Analysis,1,1
+2025-02,Excel,12,12
+2025-02,Future of Work,15,15
+2025-02,Gemini API,6,6
+2025-02,Information Extraction,1,1
+2025-02,KPI Reporting,6,6
+2025-02,LLM,11,11
+2025-02,Labor Market Analytics,15,15
+2025-02,LangChain,6,6
+2025-02,MLOps,1,1
+2025-02,Machine Learning,8,8
+2025-02,Market Research,1,1
+2025-02,Model Evaluation,6,6
+2025-02,Natural Language Processing,1,1
+2025-02,OpenAI API,4,4
+2025-02,Power BI,4,4
+2025-02,Prompt Engineering,7,7
+2025-02,Python,9,9
+2025-02,RAG,11,11
+2025-02,SQL,12,12
+2025-02,Scikit-learn,9,9
+2025-02,Semantic Search,8,8
+2025-02,Sentence Transformers,1,1
+2025-02,Spark,4,4
+2025-02,Stakeholder Communication,15,15
+2025-02,Statistics,9,9
+2025-02,Tableau,7,7
+2025-02,Vector Database,7,7
+2025-03,APIs,11,11
+2025-03,Airflow,3,3
+2025-03,Business Recommendations,14,14
+2025-03,Data Visualization,8,8
+2025-03,Data Warehousing,1,1
+2025-03,Docker,2,2
+2025-03,ETL,5,5
+2025-03,Econometrics,4,4
+2025-03,Economic Analysis,1,1
+2025-03,Excel,7,7
+2025-03,Future of Work,14,14
+2025-03,Gemini API,6,6
+2025-03,Information Extraction,3,3
+2025-03,KPI Reporting,2,2
+2025-03,LLM,10,10
+2025-03,Labor Market Analytics,14,14
+2025-03,LangChain,5,5
+2025-03,MLOps,2,2
+2025-03,Machine Learning,7,7
+2025-03,Market Research,1,1
+2025-03,Model Evaluation,7,7
+2025-03,Natural Language Processing,3,3
+2025-03,OpenAI API,6,6
+2025-03,Power BI,5,5
+2025-03,Prompt Engineering,10,10
+2025-03,Python,11,11
+2025-03,RAG,9,9
+2025-03,SQL,7,7
+2025-03,Scikit-learn,9,9
+2025-03,Semantic Search,8,8
+2025-03,Sentence Transformers,3,3
+2025-03,Spark,7,7
+2025-03,Stakeholder Communication,14,14
+2025-03,Statistics,7,7
+2025-03,Tableau,7,7
+2025-03,Vector Database,9,9
+2025-04,APIs,12,12
+2025-04,Airflow,2,2
+2025-04,Business Recommendations,14,14
+2025-04,Data Visualization,10,10
+2025-04,ETL,1,1
+2025-04,Econometrics,4,4
+2025-04,Excel,4,4
+2025-04,Future of Work,14,14
+2025-04,Gemini API,9,9
+2025-04,Information Extraction,5,5
+2025-04,KPI Reporting,2,2
+2025-04,LLM,11,11
+2025-04,Labor Market Analytics,14,14
+2025-04,LangChain,10,10
+2025-04,Machine Learning,6,6
+2025-04,Model Evaluation,9,9
+2025-04,Natural Language Processing,5,5
+2025-04,OpenAI API,9,9
+2025-04,Power BI,5,5
+2025-04,Prompt Engineering,7,7
+2025-04,Python,13,13
+2025-04,RAG,9,9
+2025-04,SQL,9,9
+2025-04,Scikit-learn,5,5
+2025-04,Semantic Search,9,9
+2025-04,Sentence Transformers,5,5
+2025-04,Spark,3,3
+2025-04,Stakeholder Communication,14,14
+2025-04,Statistics,8,8
+2025-04,Tableau,6,6
+2025-04,Vector Database,8,8
+2025-05,APIs,9,9
+2025-05,Airflow,5,5
+2025-05,Business Recommendations,14,14
+2025-05,Data Visualization,8,8
+2025-05,Data Warehousing,1,1
+2025-05,Docker,3,3
+2025-05,ETL,4,4
+2025-05,Econometrics,6,6
+2025-05,Economic Analysis,2,2
+2025-05,Excel,5,5
+2025-05,Future of Work,14,14
+2025-05,Gemini API,6,6
+2025-05,Information Extraction,2,2
+2025-05,KPI Reporting,3,3
+2025-05,LLM,9,9
+2025-05,Labor Market Analytics,14,14
+2025-05,LangChain,8,8
+2025-05,MLOps,3,3
+2025-05,Machine Learning,8,8
+2025-05,Market Research,2,2
+2025-05,Model Evaluation,10,10
+2025-05,Natural Language Processing,2,2
+2025-05,OpenAI API,2,2
+2025-05,Power BI,9,9
+2025-05,Prompt Engineering,7,7
+2025-05,Python,13,13
+2025-05,RAG,9,9
+2025-05,SQL,10,10
+2025-05,Scikit-learn,4,4
+2025-05,Semantic Search,7,7
+2025-05,Sentence Transformers,2,2
+2025-05,Spark,7,7
+2025-05,Stakeholder Communication,14,14
+2025-05,Statistics,5,5
+2025-05,Tableau,4,4
+2025-05,Vector Database,9,9
+2025-06,APIs,11,11
+2025-06,Airflow,5,5
+2025-06,Business Recommendations,14,14
+2025-06,Data Visualization,7,7
+2025-06,Docker,2,2
+2025-06,ETL,9,9
+2025-06,Econometrics,5,5
+2025-06,Economic Analysis,1,1
+2025-06,Excel,5,5
+2025-06,Future of Work,14,14
+2025-06,Gemini API,5,5
+2025-06,Information Extraction,1,1
+2025-06,KPI Reporting,2,2
+2025-06,LLM,11,11
+2025-06,Labor Market Analytics,14,14
+2025-06,LangChain,9,9
+2025-06,MLOps,2,2
+2025-06,Machine Learning,6,6
+2025-06,Market Research,1,1
+2025-06,Model Evaluation,6,6
+2025-06,Natural Language Processing,1,1
+2025-06,OpenAI API,5,5
+2025-06,Power BI,5,5
+2025-06,Prompt Engineering,13,13
+2025-06,Python,11,11
+2025-06,RAG,12,12
+2025-06,SQL,6,6
+2025-06,Scikit-learn,10,10
+2025-06,Semantic Search,6,6
+2025-06,Sentence Transformers,1,1
+2025-06,Spark,5,5
+2025-06,Stakeholder Communication,14,14
+2025-06,Statistics,8,8
+2025-06,Tableau,6,6
+2025-06,Vector Database,10,10
+2025-07,APIs,13,13
+2025-07,Airflow,3,3
+2025-07,Business Recommendations,14,14
+2025-07,Data Visualization,10,10
+2025-07,Data Warehousing,1,1
+2025-07,ETL,7,7
+2025-07,Econometrics,4,4
+2025-07,Economic Analysis,3,3
+2025-07,Excel,3,3
+2025-07,Future of Work,14,14
+2025-07,Gemini API,6,6
+2025-07,Information Extraction,3,3
+2025-07,LLM,9,9
+2025-07,Labor Market Analytics,14,14
+2025-07,LangChain,11,11
+2025-07,Machine Learning,9,9
+2025-07,Market Research,3,3
+2025-07,Model Evaluation,7,7
+2025-07,Natural Language Processing,3,3
+2025-07,OpenAI API,7,7
+2025-07,Power BI,2,2
+2025-07,Prompt Engineering,13,13
+2025-07,Python,12,12
+2025-07,RAG,11,11
+2025-07,SQL,12,12
+2025-07,Scikit-learn,6,6
+2025-07,Semantic Search,9,9
+2025-07,Sentence Transformers,3,3
+2025-07,Spark,8,8
+2025-07,Stakeholder Communication,14,14
+2025-07,Statistics,9,9
+2025-07,Vector Database,9,9
+2025-08,APIs,13,13
+2025-08,Airflow,5,5
+2025-08,Business Recommendations,14,14
+2025-08,Data Visualization,8,8
+2025-08,Data Warehousing,2,2
+2025-08,ETL,5,5
+2025-08,Econometrics,3,3
+2025-08,Excel,10,10
+2025-08,Future of Work,14,14
+2025-08,Gemini API,7,7
+2025-08,Information Extraction,3,3
+2025-08,KPI Reporting,5,5
+2025-08,LLM,12,12
+2025-08,Labor Market Analytics,14,14
+2025-08,LangChain,9,9
+2025-08,Machine Learning,7,7
+2025-08,Model Evaluation,6,6
+2025-08,Natural Language Processing,3,3
+2025-08,OpenAI API,9,9
+2025-08,Power BI,5,5
+2025-08,Prompt Engineering,11,11
+2025-08,Python,12,12
+2025-08,RAG,8,8
+2025-08,SQL,9,9
+2025-08,Scikit-learn,3,3
+2025-08,Semantic Search,9,9
+2025-08,Sentence Transformers,3,3
+2025-08,Spark,5,5
+2025-08,Stakeholder Communication,14,14
+2025-08,Statistics,3,3
+2025-08,Tableau,4,4
+2025-08,Vector Database,9,9
+2025-09,APIs,11,11
+2025-09,Airflow,5,5
+2025-09,Business Recommendations,14,14
+2025-09,Data Visualization,10,10
+2025-09,Data Warehousing,1,1
+2025-09,ETL,7,7
+2025-09,Econometrics,9,9
+2025-09,Economic Analysis,3,3
+2025-09,Excel,4,4
+2025-09,Future of Work,14,14
+2025-09,Gemini API,8,8
+2025-09,Information Extraction,2,2
+2025-09,KPI Reporting,1,1
+2025-09,LLM,11,11
+2025-09,Labor Market Analytics,14,14
+2025-09,LangChain,8,8
+2025-09,Machine Learning,7,7
+2025-09,Market Research,3,3
+2025-09,Model Evaluation,7,7
+2025-09,Natural Language Processing,2,2
+2025-09,OpenAI API,8,8
+2025-09,Power BI,4,4
+2025-09,Prompt Engineering,12,12
+2025-09,Python,10,10
+2025-09,RAG,10,10
+2025-09,SQL,11,11
+2025-09,Scikit-learn,7,7
+2025-09,Semantic Search,9,9
+2025-09,Sentence Transformers,2,2
+2025-09,Spark,3,3
+2025-09,Stakeholder Communication,14,14
+2025-09,Statistics,9,9
+2025-09,Tableau,3,3
+2025-09,Vector Database,11,11
+2025-10,APIs,14,14
+2025-10,Airflow,5,5
+2025-10,Business Recommendations,14,14
+2025-10,Data Visualization,8,8
+2025-10,Data Warehousing,1,1
+2025-10,Docker,2,2
+2025-10,ETL,4,4
+2025-10,Econometrics,5,5
+2025-10,Excel,8,8
+2025-10,Future of Work,14,14
+2025-10,Gemini API,7,7
+2025-10,Information Extraction,4,4
+2025-10,KPI Reporting,1,1
+2025-10,LLM,11,11
+2025-10,Labor Market Analytics,14,14
+2025-10,LangChain,9,9
+2025-10,MLOps,2,2
+2025-10,Machine Learning,8,8
+2025-10,Model Evaluation,6,6
+2025-10,Natural Language Processing,4,4
+2025-10,OpenAI API,8,8
+2025-10,Power BI,3,3
+2025-10,Prompt Engineering,7,7
+2025-10,Python,13,13
+2025-10,RAG,12,12
+2025-10,SQL,9,9
+2025-10,Scikit-learn,7,7
+2025-10,Semantic Search,8,8
+2025-10,Sentence Transformers,4,4
+2025-10,Spark,5,5
+2025-10,Stakeholder Communication,14,14
+2025-10,Statistics,10,10
+2025-10,Tableau,3,3
+2025-10,Vector Database,7,7
+2025-11,APIs,12,12
+2025-11,Airflow,5,5
+2025-11,Business Recommendations,14,14
+2025-11,Data Visualization,9,9
+2025-11,Data Warehousing,1,1
+2025-11,Docker,1,1
+2025-11,ETL,3,3
+2025-11,Econometrics,3,3
+2025-11,Economic Analysis,1,1
+2025-11,Excel,9,9
+2025-11,Future of Work,14,14
+2025-11,Gemini API,7,7
+2025-11,Information Extraction,4,4
+2025-11,KPI Reporting,3,3
+2025-11,LLM,10,10
+2025-11,Labor Market Analytics,14,14
+2025-11,LangChain,11,11
+2025-11,MLOps,1,1
+2025-11,Machine Learning,9,9
+2025-11,Market Research,1,1
+2025-11,Model Evaluation,7,7
+2025-11,Natural Language Processing,4,4
+2025-11,OpenAI API,9,9
+2025-11,Power BI,5,5
+2025-11,Prompt Engineering,13,13
+2025-11,Python,12,12
+2025-11,RAG,12,12
+2025-11,SQL,8,8
+2025-11,Scikit-learn,7,7
+2025-11,Semantic Search,11,11
+2025-11,Sentence Transformers,4,4
+2025-11,Spark,4,4
+2025-11,Stakeholder Communication,14,14
+2025-11,Statistics,8,8
+2025-11,Tableau,7,7
+2025-11,Vector Database,8,8
+2025-12,APIs,12,12
+2025-12,Airflow,5,5
+2025-12,Business Recommendations,14,14
+2025-12,Data Visualization,9,9
+2025-12,Data Warehousing,1,1
+2025-12,Docker,1,1
+2025-12,ETL,6,6
+2025-12,Econometrics,6,6
+2025-12,Economic Analysis,1,1
+2025-12,Excel,5,5
+2025-12,Future of Work,14,14
+2025-12,Gemini API,11,11
+2025-12,Information Extraction,5,5
+2025-12,KPI Reporting,3,3
+2025-12,LLM,10,10
+2025-12,Labor Market Analytics,14,14
+2025-12,LangChain,10,10
+2025-12,MLOps,1,1
+2025-12,Machine Learning,5,5
+2025-12,Market Research,1,1
+2025-12,Model Evaluation,6,6
+2025-12,Natural Language Processing,5,5
+2025-12,OpenAI API,8,8
+2025-12,Power BI,8,8
+2025-12,Prompt Engineering,11,11
+2025-12,Python,11,11
+2025-12,RAG,10,10
+2025-12,SQL,10,10
+2025-12,Scikit-learn,5,5
+2025-12,Semantic Search,11,11
+2025-12,Sentence Transformers,5,5
+2025-12,Spark,2,2
+2025-12,Stakeholder Communication,14,14
+2025-12,Statistics,7,7
+2025-12,Tableau,3,3
+2025-12,Vector Database,12,12
+2026-01,APIs,14,14
+2026-01,Airflow,8,8
+2026-01,Business Recommendations,14,14
+2026-01,Data Visualization,8,8
+2026-01,Data Warehousing,1,1
+2026-01,Docker,2,2
+2026-01,ETL,4,4
+2026-01,Econometrics,7,7
+2026-01,Economic Analysis,1,1
+2026-01,Excel,6,6
+2026-01,Future of Work,14,14
+2026-01,Gemini API,11,11
+2026-01,Information Extraction,4,4
+2026-01,KPI Reporting,3,3
+2026-01,LLM,12,12
+2026-01,Labor Market Analytics,14,14
+2026-01,LangChain,9,9
+2026-01,MLOps,2,2
+2026-01,Machine Learning,5,5
+2026-01,Market Research,1,1
+2026-01,Model Evaluation,5,5
+2026-01,Natural Language Processing,4,4
+2026-01,OpenAI API,8,8
+2026-01,Power BI,8,8
+2026-01,Prompt Engineering,11,11
+2026-01,Python,10,10
+2026-01,RAG,11,11
+2026-01,SQL,10,10
+2026-01,Scikit-learn,8,8
+2026-01,Semantic Search,9,9
+2026-01,Sentence Transformers,4,4
+2026-01,Spark,6,6
+2026-01,Stakeholder Communication,14,14
+2026-01,Statistics,8,8
+2026-01,Tableau,4,4
+2026-01,Vector Database,9,9
+2026-02,APIs,13,13
+2026-02,Airflow,6,6
+2026-02,Business Recommendations,14,14
+2026-02,Data Visualization,4,4
+2026-02,Data Warehousing,2,2
+2026-02,Docker,1,1
+2026-02,ETL,4,4
+2026-02,Econometrics,4,4
+2026-02,Excel,4,4
+2026-02,Future of Work,14,14
+2026-02,Gemini API,5,5
+2026-02,Information Extraction,3,3
+2026-02,LLM,12,12
+2026-02,Labor Market Analytics,14,14
+2026-02,LangChain,12,12
+2026-02,MLOps,1,1
+2026-02,Machine Learning,9,9
+2026-02,Model Evaluation,5,5
+2026-02,Natural Language Processing,3,3
+2026-02,OpenAI API,11,11
+2026-02,Power BI,2,2
+2026-02,Prompt Engineering,10,10
+2026-02,Python,14,14
+2026-02,RAG,13,13
+2026-02,SQL,7,7
+2026-02,Scikit-learn,6,6
+2026-02,Semantic Search,10,10
+2026-02,Sentence Transformers,3,3
+2026-02,Spark,4,4
+2026-02,Stakeholder Communication,14,14
+2026-02,Statistics,6,6
+2026-02,Tableau,6,6
+2026-02,Vector Database,12,12
+2026-03,APIs,13,13
+2026-03,Airflow,4,4
+2026-03,Business Recommendations,14,14
+2026-03,Data Visualization,12,12
+2026-03,ETL,7,7
+2026-03,Econometrics,3,3
+2026-03,Economic Analysis,1,1
+2026-03,Excel,6,6
+2026-03,Future of Work,14,14
+2026-03,Gemini API,8,8
+2026-03,Information Extraction,1,1
+2026-03,KPI Reporting,4,4
+2026-03,LLM,10,10
+2026-03,Labor Market Analytics,14,14
+2026-03,LangChain,14,14
+2026-03,Machine Learning,11,11
+2026-03,Market Research,1,1
+2026-03,Model Evaluation,11,11
+2026-03,Natural Language Processing,1,1
+2026-03,OpenAI API,9,9
+2026-03,Power BI,6,6
+2026-03,Prompt Engineering,8,8
+2026-03,Python,10,10
+2026-03,RAG,11,11
+2026-03,SQL,11,11
+2026-03,Scikit-learn,12,12
+2026-03,Semantic Search,9,9
+2026-03,Sentence Transformers,1,1
+2026-03,Spark,4,4
+2026-03,Stakeholder Communication,14,14
+2026-03,Statistics,10,10
+2026-03,Tableau,5,5
+2026-03,Vector Database,10,10
+2026-04,APIs,14,14
+2026-04,Airflow,5,5
+2026-04,Business Recommendations,14,14
+2026-04,Data Visualization,8,8
+2026-04,Docker,1,1
+2026-04,ETL,7,7
+2026-04,Econometrics,6,6
+2026-04,Economic Analysis,1,1
+2026-04,Excel,5,5
+2026-04,Future of Work,14,14
+2026-04,Gemini API,9,9
+2026-04,Information Extraction,4,4
+2026-04,KPI Reporting,2,2
+2026-04,LLM,13,13
+2026-04,Labor Market Analytics,14,14
+2026-04,LangChain,11,11
+2026-04,MLOps,1,1
+2026-04,Machine Learning,9,9
+2026-04,Market Research,1,1
+2026-04,Model Evaluation,7,7
+2026-04,Natural Language Processing,4,4
+2026-04,OpenAI API,11,11
+2026-04,Power BI,6,6
+2026-04,Prompt Engineering,7,7
+2026-04,Python,11,11
+2026-04,RAG,13,13
+2026-04,SQL,6,6
+2026-04,Scikit-learn,7,7
+2026-04,Semantic Search,10,10
+2026-04,Sentence Transformers,4,4
+2026-04,Spark,5,5
+2026-04,Stakeholder Communication,14,14
+2026-04,Statistics,5,5
+2026-04,Tableau,5,5
+2026-04,Vector Database,11,11
+2026-05,APIs,213,213
+2026-05,AWS,203,203
+2026-05,Agile,87,87
+2026-05,Airflow,48,48
+2026-05,Azure,179,179
+2026-05,Bash,41,41
+2026-05,BigQuery,18,18
+2026-05,Business Recommendations,15,15
+2026-05,CI/CD,74,74
+2026-05,Causal Inference,1,1
+2026-05,Clustering,2,2
+2026-05,Compensation Analytics,1,1
+2026-05,Dashboarding,15,15
+2026-05,Data Visualization,35,35
+2026-05,Data Warehousing,43,43
+2026-05,Databricks,33,33
+2026-05,Docker,67,67
+2026-05,ETL,97,97
+2026-05,Econometrics,7,7
+2026-05,Economic Analysis,4,4
+2026-05,Excel,59,59
+2026-05,FastAPI,15,15
+2026-05,Feature Engineering,4,4
+2026-05,Future of Work,14,14
+2026-05,GCP,128,128
+2026-05,Gemini API,10,10
+2026-05,Git,104,104
+2026-05,Hypothesis Testing,2,2
+2026-05,Information Extraction,5,5
+2026-05,Java,177,177
+2026-05,Jira,35,35
+2026-05,KPI Reporting,72,72
+2026-05,Kafka,77,77
+2026-05,Kubernetes,80,80
+2026-05,LLM,36,36
+2026-05,Labor Market Analytics,15,15
+2026-05,LangChain,24,24
+2026-05,Linux,46,46
+2026-05,LlamaIndex,3,3
+2026-05,MLOps,14,14
+2026-05,Machine Learning,98,98
+2026-05,Market Research,8,8
+2026-05,Matplotlib,2,2
+2026-05,Model Evaluation,6,6
+2026-05,MySQL,40,40
+2026-05,Natural Language Processing,30,30
+2026-05,OpenAI API,11,11
+2026-05,Plotly,1,1
+2026-05,PostgreSQL,43,43
+2026-05,Power BI,75,75
+2026-05,Probability,4,4
+2026-05,Prompt Engineering,15,15
+2026-05,PySpark,63,63
+2026-05,Python,361,361
+2026-05,R,15,15
+2026-05,RAG,24,24
+2026-05,Regression,7,7
+2026-05,Regression Analysis,1,1
+2026-05,SQL,395,395
+2026-05,Scala,59,59
+2026-05,Scikit-learn,16,16
+2026-05,Semantic Search,9,9
+2026-05,Sentence Transformers,7,7
+2026-05,Snowflake,28,28
+2026-05,Spark,82,82
+2026-05,Stakeholder Communication,14,14
+2026-05,Statistics,22,22
+2026-05,Streamlit,1,1
+2026-05,Tableau,39,39
+2026-05,Time Series,5,5
+2026-05,Vector Database,11,11
+2026-05,Workforce Planning,2,2
+2026-05,dbt,3,3
+,APIs,4,4
+,AWS,9,9
+,Agile,1,1
+,Airflow,2,2
+,Azure,12,12
+,BigQuery,3,3
+,Business Recommendations,1,1
+,CI/CD,3,3
+,Classification,1,1
+,Dashboarding,4,4
+,Data Visualization,3,3
+,Data Warehousing,3,3
+,Databricks,11,11
+,Docker,1,1
+,ETL,14,14
+,Excel,8,8
+,FastAPI,1,1
+,Feature Engineering,3,3
+,GCP,9,9
+,KPI Reporting,10,10
+,Kafka,4,4
+,Kubernetes,3,3
+,LLM,7,7
+,LangChain,4,4
+,LlamaIndex,1,1
+,MLOps,6,6
+,Machine Learning,54,54
+,Matplotlib,2,2
+,MySQL,1,1
+,Named Entity Recognition,2,2
+,Natural Language Processing,17,17
+,PostgreSQL,2,2
+,Power BI,5,5
+,Prompt Engineering,5,5
+,PySpark,4,4
+,Python,23,23
+,R,5,5
+,RAG,17,17
+,SQL,18,18
+,Scikit-learn,2,2
+,Seaborn,2,2
+,Sentence Transformers,4,4
+,Snowflake,2,2
+,Spark,4,4
+,Statistics,5,5
+,Tableau,2,2
+,Vector Database,6,6

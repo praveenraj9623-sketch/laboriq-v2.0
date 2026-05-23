@@ -1,0 +1,9 @@
+project_name: Labor Market Intelligence & Skills Demand Analytics Platform
+forecast_periods: 6
+modeling:
+  role_classifier: tfidf_logistic_regression
+  salary_model: tfidf_categorical_ridge_regression
+data_sources:
+  primary: Kaggle/local CSV job-posting dataset
+  optional_live: Adzuna official jobs API
+  avoid: Restricted scraping of LinkedIn/Indeed without permission

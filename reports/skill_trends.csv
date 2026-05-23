@@ -1,0 +1,61 @@
+skill,total_mentions,early_avg_mentions,recent_avg_mentions,linear_slope,growth_score,trend_label,last_observed_month
+Economic Analysis,49,2.111,1.286,-0.0414,0.7347,Declining,2026-05
+AWS,203,0.0,29.0,1.4,30.0,Emerging,2026-05
+Azure,179,0.0,25.571,1.2345,26.5714,Emerging,2026-05
+Java,177,0.0,25.286,1.2207,26.2857,Emerging,2026-05
+GCP,128,0.0,18.286,0.8828,19.2857,Emerging,2026-05
+Git,104,0.0,14.857,0.7172,15.8571,Emerging,2026-05
+Agile,87,0.0,12.429,0.6,13.4286,Emerging,2026-05
+Kubernetes,80,0.0,11.429,0.5517,12.4286,Emerging,2026-05
+Kafka,77,0.0,11.0,0.531,12.0,Emerging,2026-05
+CI/CD,74,0.0,10.571,0.5103,11.5714,Emerging,2026-05
+PySpark,63,0.0,9.0,0.4345,10.0,Emerging,2026-05
+Scala,59,0.0,8.429,0.4069,9.4286,Emerging,2026-05
+Linux,46,0.0,6.571,0.3172,7.5714,Emerging,2026-05
+PostgreSQL,43,0.0,6.143,0.2966,7.1429,Emerging,2026-05
+Bash,41,0.0,5.857,0.2828,6.8571,Emerging,2026-05
+MySQL,40,0.0,5.714,0.2759,6.7143,Emerging,2026-05
+Jira,35,0.0,5.0,0.2414,6.0,Emerging,2026-05
+Databricks,33,0.0,4.714,0.2276,5.7143,Emerging,2026-05
+APIs,499,6.889,41.571,1.6877,5.3964,Emerging,2026-05
+Python,676,10.889,61.286,2.4365,5.239,Emerging,2026-05
+SQL,680,11.556,63.857,2.5158,5.1656,Emerging,2026-05
+Snowflake,28,0.0,4.0,0.1931,5.0,Emerging,2026-05
+Docker,102,1.444,10.429,0.4261,4.6753,Emerging,2026-05
+LangChain,218,2.889,13.0,0.4862,3.6,Emerging,2026-05
+BigQuery,18,0.0,2.571,0.1241,3.5714,Emerging,2026-05
+ETL,245,5.111,18.286,0.6266,3.1558,Emerging,2026-05
+Dashboarding,15,0.0,2.143,0.1034,3.1429,Emerging,2026-05
+FastAPI,15,0.0,2.143,0.1034,3.1429,Emerging,2026-05
+R,15,0.0,2.143,0.1034,3.1429,Emerging,2026-05
+KPI Reporting,155,3.444,12.429,0.4182,3.0214,Emerging,2026-05
+Vector Database,208,3.0,10.429,0.3557,2.8571,Emerging,2026-05
+Data Warehousing,75,1.778,6.857,0.2404,2.8286,Emerging,2026-05
+Gemini API,161,2.667,8.714,0.3,2.6494,Emerging,2026-05
+Natural Language Processing,105,2.222,7.286,0.2409,2.5714,Emerging,2026-05
+Power BI,221,5.667,15.714,0.4695,2.5071,Emerging,2026-05
+OpenAI API,182,3.222,9.571,0.2901,2.5038,Emerging,2026-05
+Machine Learning,307,7.889,20.857,0.6409,2.4589,Emerging,2026-05
+Prompt Engineering,225,3.778,10.714,0.3493,2.4518,Emerging,2026-05
+Spark,224,5.778,15.286,0.4793,2.4028,Emerging,2026-05
+RAG,263,5.333,13.429,0.3995,2.2782,Emerging,2026-05
+LLM,289,6.333,14.714,0.4305,2.1429,Emerging,2026-05
+Airflow,189,5.222,11.571,0.2877,2.0204,Emerging,2026-05
+Regression,7,0.0,1.0,0.0483,2.0,Emerging,2026-05
+Excel,242,6.556,13.429,0.3266,1.9097,Emerging,2026-05
+Semantic Search,213,5.333,9.857,0.2192,1.7143,Emerging,2026-05
+Time Series,5,0.0,0.714,0.0345,1.7143,Emerging,2026-05
+MLOps,49,1.444,2.857,0.0606,1.5779,Emerging,2026-05
+Sentence Transformers,82,2.222,4.0,0.0823,1.5517,Emerging,2026-05
+Information Extraction,80,2.222,3.714,0.0685,1.4631,Stable,2026-05
+Tableau,195,6.889,9.857,0.1291,1.3763,Stable,2026-05
+Scikit-learn,219,7.444,8.714,0.0355,1.1504,Stable,2026-05
+Data Visualization,294,10.556,12.143,0.0778,1.1374,Stable,2026-05
+Statistics,243,8.889,9.429,0.0389,1.0546,Stable,2026-05
+Business Recommendations,421,15.0,14.143,-0.0448,0.9464,Stable,2026-05
+Labor Market Analytics,421,15.0,14.143,-0.0448,0.9464,Stable,2026-05
+Future of Work,420,15.0,14.0,-0.0517,0.9375,Stable,2026-05
+Stakeholder Communication,420,15.0,14.0,-0.0517,0.9375,Stable,2026-05
+Market Research,53,2.111,1.857,-0.0138,0.9184,Stable,2026-05
+Model Evaluation,212,8.0,6.714,-0.0675,0.8571,Stable,2026-05
+Econometrics,172,6.333,5.143,-0.065,0.8377,Stable,2026-05

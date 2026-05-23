@@ -1,0 +1,9 @@
+occupation_family,role_label,role_keywords,core_skills
+Data Science,Data Scientist,data scientist|machine learning|statistical model|predictive model|classification|regression|nlp|experiment,Python|SQL|Machine Learning|Statistics|Scikit-learn|Model Evaluation|Data Visualization
+Data Analytics,Data Analyst,data analyst|business analyst|dashboard|reporting|power bi|tableau|excel|sql,SQL|Excel|Power BI|Tableau|Data Visualization|Statistics|KPI Reporting
+Machine Learning Engineering,ML Engineer,ml engineer|machine learning engineer|model deployment|mlops|production ml|feature store|docker|api,Python|Machine Learning|MLOps|Docker|APIs|Scikit-learn|Model Evaluation
+NLP & GenAI,NLP Engineer,nlp engineer|natural language processing|text mining|entity extraction|semantic search|rag|llm,Natural Language Processing|Information Extraction|Sentence Transformers|RAG|LLM|Semantic Search|Python
+AI Product Engineering,AI Engineer,ai engineer|llm|genai|prompt engineering|langchain|rag|agent|openai|gemini,LLM|RAG|Prompt Engineering|LangChain|Vector Database|Python|APIs
+Data Engineering,Data Engineer,data engineer|etl|pipeline|spark|airflow|kafka|warehouse|snowflake|databricks,SQL|ETL|Spark|Airflow|Data Warehousing|Python|Data Engineering
+Business Analytics,Business Analyst,business analyst|requirements|stakeholder|process|reporting|insights|kpi,SQL|Excel|Stakeholder Communication|Data Visualization|Business Recommendations|KPI Reporting
+Research & Economics,Research Analyst,research analyst|economic analysis|labor market|market research|survey|forecasting|econometrics,Statistics|Econometrics|Economic Analysis|Market Research|Data Visualization|SQL

@@ -1,0 +1,719 @@
+{
+  "results": [
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM4Nzc5NTI3In0.q1czW3DssKgPIUHgEkChmgsW3C6K6TH0B9NoTg_y8_c",
+      "description": "About Position: The Developer will design, build, and deploy agentic AI solutions using Azure Agent Builder Studio, .NET, Python and AI-assisted development tools. Role: GenAI/Agentic AI Engineer Job Location: Hyderabad, Bangalore Experience: 8 to 12 Years Job Type: Full Time Employment What You'll Do: Build scalable and reusable AI services using Python and FastAPI/Flask. Design, build, and deploy GenAI applications using leading LLMs such as OpenAI, Azure OpenAI, Claude, Gemini, and Llama. De…",
+      "created": "2026-05-23T17:55:13Z",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "id": "5738779527",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "company": {
+        "display_name": "Persistent Systems",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5738779527?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=A0C02511E80D0F4AEC4AF191D3EBD83F282DD63F",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Agentic AI Engineer"
+    },
+    {
+      "title": "Agentic AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5738770079?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=A3EB0FBC03DC9B67715C0C2F795F1C30191FAC9F",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Persistent Systems"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "India",
+        "area": [
+          "India"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5738770079",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "description": "About Position: The Developer will design, build, and deploy agentic AI solutions using Azure Agent Builder Studio, .NET, Python and AI-assisted development tools. Role: GenAI/Agentic AI Engineer Job Location: Hyderabad, Bangalore Experience: 8-12 Years Job Type: Full Time Employment What You'll Do: Build scalable and reusable AI services using Python and FastAPI/Flask. Design, build, and deploy GenAI applications using leading LLMs such as OpenAI, Azure OpenAI, Claude, Gemini, and Llama. Devel…",
+      "created": "2026-05-23T17:52:58Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM4NzcwMDc5In0.aoXeUHPNvEVC_Ig9R561DG4mDKWe3SmVDlwwBNG3pa8"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "id": "5654934769",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Senior AI Engineer",
+      "company": {
+        "display_name": "Arcana",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5654934769?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=552174F0DB90BD07BEC919262CD86F93638318C7",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NjU0OTM0NzY5In0.EPiMf376Ra487YDE-8bvD07dgRfff9o9QUHLRMpdKnw",
+      "created": "2026-03-05T17:41:15Z",
+      "description": "Title: Senior AI Engineer — Inference & Agent Systems Location: - BLR/Remote India What We're Building Arcana is building AI agents that synthesize information across heterogeneous sources and deliver structured, reasoned answers in real time. The product only works if the agents are fast, reliable, and correct, not approximately correct. Our stack: Go  Temporal for orchestration, a Plan-Execute-Synthesize agent architecture, and an evaluation harness we use to measure every regression. The pro…"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "R Systems"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5734682804?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=766012505A67005C3303FE2530B617091E49026B",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Generative AI Engineer",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "id": "5734682804",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad"
+      },
+      "longitude": 77.3225,
+      "latitude": 28.56579,
+      "created": "2026-05-20T07:23:28Z",
+      "description": "About the Company : At R Systems we are shaping the future of technology by designing cutting-edge software products, platforms, and digital experiences that drive business growth for our clients. Our product mindset and advanced engineering capabilities in Cloud, Data, AI, and Customer Experience empower us to deliver innovative solutions to key players across the high-tech industry. This includes ISVs, SaaS, and Internet companies, as well as leading organizations in telecom, media, healthcar…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM0NjgyODA0In0.Na28rUm_B41D0FLHGwefByft-xua8vYtqgytJRQLpU0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzMyMzIwNTIwIn0.Y3XaXwqSIMp6p9ExedK08smnGyfypAWkH1w4KUqX57A",
+      "created": "2026-05-17T15:42:32Z",
+      "description": "AI Platform Engineer Location: India Remote Pay : INR 45 - INR 50 LPA Experience - 10–14 years overall, operating at Lead / Principal level Employment Type - Full time We are seeking a Lead Azure GenAIOps / LLMOps Engineer to design, build, and operate a secure, observable, governed Azure GenAI platform that can be reused by multiple product and business teams. This role is not focused on model training or fine-tuning . Instead, it owns LLM operationalization, governance, observability, safety,…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "India",
+        "area": [
+          "India"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5732320520",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Generative AI Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5732320520?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=920CCA212118866D710F4AFB3AA518B716DDE54B",
+      "company": {
+        "display_name": "Qantra",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "description": "ABOUT AURIGO Aurigo Software is a leading provider of capital planning and project management software for infrastructure and public sector organizations. Our Masterworks platform empowers agencies and organizations to plan, deliver, and maintain their capital programs effectively. We are now investing in enterprise-wide AI adoption to supercharge developer productivity and transform every business function—Marketing, Sales, HR, Finance, Presales, and Business Analysis—with intelligent, autonom…",
+      "created": "2026-05-20T07:27:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM0Njg4MzUwIn0.ONsQ2o9LJBePS2-l7tv8WwC-q6geQcwwZQjlQINH7dE",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Senior AI Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aurigo Software Technologies"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5734688350?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=3B4827CF5F9D8802E714E6B45FEA6C8A8A59361A",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "id": "5734688350",
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/land/ad/5724827404?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=A7C890AE72DFCEF387AE7395DE610FECF4691556",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Firstsource"
+      },
+      "title": "Generative AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5724827404",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "India",
+        "area": [
+          "India"
+        ]
+      },
+      "description": "About Firstsource Firstsource Solutions Limited, an RP-Sanjiv Goenka Group company (NSE: FSL, BSE: 532809, Reuters: FISO.BO, Bloomberg: FSOL:IN), is a specialized global business process services partner, providing transformational solutions and services spanning the customer lifecycle across Healthcare, Banking and Financial Services, Communications, Media and Technology, Retail, and other diverse industries. With an established presence in the US, the UK, India, Mexico, Australia, South Afric…",
+      "created": "2026-05-10T08:54:09Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNDgyNzQwNCIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.SkGlJmr02KWHrxDopuy6XUZlASr6peoDvhrQ_BKyWkk"
+    },
+    {
+      "title": "Generative AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5737564256?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=C2F66C92494B6BCF7F5767EB9C251BBFE2330079",
+      "company": {
+        "display_name": "Tata Consultancy Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5737564256",
+      "salary_is_predicted": "0",
+      "description": "Job Title: GenAI / LLM Engineer Key Skills: LLM frameworks: LangChain, LangGraph, LlamaIndex, AWS Bedrock Vector DBs: Pinecone, FAISS, OpenSearch, Kendra Python (mandatory), SQL/NoSQL (Postgres, DynamoDB, MongoDB), Graph DB ML/DL: Scikit-learn, TensorFlow/PyTorch Embeddings: BERT, Sentence Transformers Web frameworks: Flask, FastAPI (plus Streamlit/Gradio for UI) Cloud: AWS (preferred), Azure Responsibilities: Build and optimize LLM solutions using RAG, prompt engineering, fine-tuning Develop A…",
+      "created": "2026-05-22T17:48:11Z",
+      "longitude": 78.50806,
+      "latitude": 17.40275,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM3NTY0MjU2In0.Aqlgj2MyhWcDvOstzRskBQTAZLZ84WWq28ovW3N845s"
+    },
+    {
+      "salary_is_predicted": "0",
+      "id": "5724227773",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "C5i"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5724227773?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=B1F3D6D91E070797919F1CA3074CF2A0D8A35CB0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Gen AI Engineer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNDIyNzc3MyIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.EeJpdw6k_IJ90G47iwDlH7f67AIG91f7DvyQfTXh4vY",
+      "description": "Required Skills 4years of experience in machine learning, deep learning, or Al research, With a focus on generative models. Experience With generative models such as GANS (Generative Adversarial Networks), VAEs (Variational Autoencoders), and transformer-based models (e.g., GPT-3/4, BERT, DALL.E). Understanding of model fine-tuning, transfer learning, and prompt engineering in the context Of large language models (LLMS). Knowledge of reinforcement learning (RL) and other advanced machine learni…",
+      "created": "2026-05-09T18:32:01Z"
+    },
+    {
+      "longitude": 78.50806,
+      "latitude": 17.40275,
+      "description": "Responsibilities: Lead with vision – Set the technical direction for our Generative AI team, establish best practices, and inspire high-impact innovation. Drive strategy – Help shape the AI roadmap, identifying the most valuable opportunities to apply generative AI across Xometry’s marketplace. Build cutting-edge models – Develop and deploy large language and generative models for multimodal document processing and structured data extraction. Innovate across modalities – Explore new ways to com…",
+      "created": "2026-05-15T09:19:48Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMDAxMDIyMyIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.0BqfyH4wTtjqkDUgM9a65MrmKS1K7vGuRZbu2lWGkUU",
+      "company": {
+        "display_name": "Canterr, Inc.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5730010223?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=405BC851033B640B5325AC830D499F72AB113656",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Generative AI Engineer",
+      "salary_is_predicted": "0",
+      "id": "5730010223",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2NjA5MTk0NyIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.kCG43-3r-kJN2QkI2KErKwf0lScTFCQ6YaztCKNz2Ug",
+      "latitude": 19.00821,
+      "longitude": 72.84415,
+      "created": "2026-03-15T09:10:09Z",
+      "description": "Role - Generative AI - Architect Experience Range - 7 to 10 years Location of Requirement- Mumbai / Pune / Kolkata Required Technical Skill Set - 1.Generative AI systems, with particular expertise in embeddings, vector space models, and multimodal AI. 2.Python and relevant AI/ML libraries (e.g., PyTorch, TensorFlow, Hugging Face). 3.Azure and OpenAI platforms, including fine-tuning and deploying large models. 4.AI practices, with knowledge of AI ethics and compliance standards Must-Have - 1.Lea…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "Mumbai, Maharashtra",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5666091947",
+      "title": "Generative AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5666091947?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=5DF9C7E58E59CB6C2259DDC9B60BDD8FA98ACAA3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tata Consultancy Services"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM0ODU2NzkzIn0.1fQjpyPoD5D5MtttENjHaRORKABQ5W4dfX3eG71eahc",
+      "created": "2026-05-20T11:25:18Z",
+      "description": "ADP is hiring a highly analytical and detail-oriented Sales Messaging Developer to join our dynamic Sales Messaging team. The ideal candidate will play a crucial role in optimizing our sales messaging strategy through thorough creative messaging skills, technology innovation, data analysis, trend evaluation, and the ability to influence change. This position requires a blend of expertise in messaging trends, data analysis, content management, business intelligence tools, and familiarity with AI…",
+      "longitude": 78.50806,
+      "latitude": 17.40275,
+      "id": "5734856793",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Hyderabad, Telangana",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5734856793?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=5698B67CA105CEDFBEE026F727215178CC973585",
+      "company": {
+        "display_name": "ADP",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Generative AI Engineer"
+    },
+    {
+      "created": "2026-05-20T07:21:26Z",
+      "description": "Greetings from TCS! Job Title: GenAI Developer Location: Pune / Bangalore / Delhi Experience Range: 4-8 yrs Job Description: Responsibilities: Strong Python development experience Hands-on experience with Vertex AI and Gemini models Experience building RAG pipelines on GCP Agent orchestration frameworks (Agent Builder, LangChain) Vector search and embedding techniques Cloud-native development on GCP Minimum Qualification: 15 years of full-time education",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNDY4MjI5OSIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.NitIbcF67g-mRt8gQwaOnKPbxyBDHxnwV3rVmDd-GN4",
+      "redirect_url": "https://www.adzuna.in/land/ad/5734682299?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=622641DD8EB845058B0CA36D9F1784EA40EFDAFA",
+      "company": {
+        "display_name": "Tata Consultancy Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Generative AI Engineer",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5734682299",
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/land/ad/5730010411?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=6454E90719E88DA1D2156E46EF8C29B50AF60111",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Impact Analytics"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Lead AI Engineer",
+      "salary_is_predicted": "0",
+      "id": "5730010411",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-15T09:19:56Z",
+      "description": "About Impact Analytics Impact Analytics™ (Series D Funded) delivers AI-native SaaS solutions and consulting services that help companies maximize profitability and customer satisfaction through deeper data insights and predictive analytics. With a fully integrated, end-to-end platform for planning, forecasting, merchandising, pricing, and promotions, Impact Analytics empowers companies to make smarter decisions based on real-time insights rather than relying on last year’s inputs to forecast an…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzMwMDEwNDExIn0.s9UU7-YGFM6prnRU47Ejk1J9g1fsyNUXwEQfvypvNL4"
+    },
+    {
+      "description": "We are seeking a highly skilled Agentic Al Specialist with years of experience in machine learning, deep learning, & Al research with a focus on generative models. The ideal candidate will have strong expertise in data science, machine learning, and generative Al with specific experience in document detail extraction, feature engineering, data processing using Python, and familiarity with tools such as Streamlit for data app creation. The candidate must also possess advanced skills in prompt en…",
+      "created": "2026-05-16T15:36:12Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMTMxOTU3MyIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.0VWAJZrHGatKYl72qi6BL6oKRhqe9l0RtxTWnZZ8Pfo",
+      "redirect_url": "https://www.adzuna.in/land/ad/5731319573?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=D1F5EC793616B721F193620172480EBD0504FF0E",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "C5i"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Agentic AI Engineer",
+      "salary_is_predicted": "0",
+      "id": "5731319573",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ]
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzE2NjcwNzc1In0.VKqhGnfyMG3vm0TYNAcd2OERrI8YpaocI4pfOg5sVnE",
+      "description": "Hiring for: US-based Construction AI-Robotics company About the Role As a core member of the AI Research team you'll turn cutting-edge, vision-language and diffusion advances into robust real-time systems that see reason and act on dynamic construction sites. Key Responsibilities Research & innovate diffusion-based generative models for photorealistic wall-surface simulation, defect synthesis and domain adaptation. Architect and train Vision-Language Models (VLMs) and Vision-Language Action Mod…",
+      "created": "2026-05-02T11:07:17Z",
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5716670775",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Lead AI Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "datavruti"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5716670775?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=B89E894D75B6821F04541C22616A4764E8BE5BB3"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "area": [
+          "India"
+        ],
+        "display_name": "India",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5737567055",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Generative AI Engineer",
+      "company": {
+        "display_name": "Upcar.ai",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5737567055?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=EF9D5E0E70A1F8F1D9F8A89196FE74DED504CDA7",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNzU2NzA1NSIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.3sn07-asEuAdEMAxhPP6bSZveCB9ZeRhvvYLkRC_CmE",
+      "created": "2026-05-22T17:50:06Z",
+      "description": "Cracked GenAI Full-Stack Engineers — Hyderabad (In-Office) Apply here: https://docs.google.com/forms/d/e/1FAIpQLSdA9_w5qQSCMRFrVZghygFoptZZzl5E5Zrxx4ZlkQPilPK9YQ/viewform?usp=header We're hiring a small number of exceptional full-stack engineers to build GenAI products at Upcar. Mid to senior. In-person, Hyderabad. What you'll do Ship AI-powered products end to end. Models, backend, frontend, evals, infra — whatever it takes. You'll work directly with founders/leadership, move fast, and own wha…"
+    },
+    {
+      "latitude": 30.75395,
+      "longitude": 76.76094,
+      "description": "Key Responsibilities AI/ML & Model Development Develop and implement machine learning and deep learning models for various use cases Work with supervised and unsupervised learning techniques, including model evaluation and optimization Train, fine-tune, and deploy ML models in production environments LLMs & Generative AI Build applications using Large Language Models (LLMs), including OpenAI and open-source models (e.g., LLaMA, Mistral) Design and optimize prompt engineering strategies Develop …",
+      "created": "2026-05-22T17:50:01Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM3NTY2NjU3In0.jx8O9tQchbMfXR6Y2JCJo3ummV8OIl2eqIDLGVqzrks",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TAC Security"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5737566657?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=E01F5845D80B0852BFBA69E84F148ABA33DF7B3F",
+      "title": "Generative AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5737566657",
+      "location": {
+        "area": [
+          "India",
+          "Chandigarh"
+        ],
+        "display_name": "Chandigarh, India",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/land/ad/5737564109?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=B211592204E181BF92C2828C4000815C146A5539",
+      "company": {
+        "display_name": "ThinkVerge",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Lead /Senior AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5737564109",
+      "location": {
+        "display_name": "New Delhi, Delhi",
+        "area": [
+          "India",
+          "Delhi",
+          "New Delhi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": 28.62623,
+      "longitude": 77.21808,
+      "created": "2026-05-22T17:48:05Z",
+      "description": "Role Overview ThinkVerge is looking for a highly technical Senior / Lead AI Engineer to lead the development of production-grade Generative AI and Agentic AI systems for enterprise and government use cases. This role is focused on building scalable AI applications beyond prototypes and demos, including: Enterprise AI copilots Multi-agent workflows RAG systems AI automation pipelines Intelligent workflow orchestration systems The ideal candidate should have strong hands-on expertise in: LLMs & A…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM3NTY0MTA5In0.mWHc2PxkrkNm5CJ0W_OrQQ8BqV0zpA5FzcXs_zhXVkU"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5730011671",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Lead Gen AI Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5730011671?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=9C255DA85B4FA5E72D1A094B4A899AD1CEC8EA4C",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Xebia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMDAxMTY3MSIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.rfzhXmLX3QddNnTIP1svHH-GTMOnmAnhtCG8DVjFVqM",
+      "description": "Job Title : Lead Gen AI Engineer Job location : Bengaluru Exp : 8-14 years Position Overview : We are looking for a highly skilled – AI/LLM Engineer with strong expertise in building and deploying enterprise-grade Generative AI and Agentic AI solutions. The ideal candidate should have deep hands-on experience in Python, LangChain, LangGraph, LangFlow, RAG architectures, LLM deployment, AI agents, MCP servers, tool integrations, and memory orchestration frameworks. This role requires strong engi…",
+      "created": "2026-05-15T09:21:44Z"
+    },
+    {
+      "description": "Company Description Seceon is a next-generation cybersecurity platform dedicated to empowering enterprises, Managed Service Providers (MSPs), and Managed Security Service Providers (MSSPs) to detect, respond, and remediate threats in real-time. Combining innovative technologies like AI, machine learning, and dynamic threat models, Seceon provides a unified solution integrating SIEM, SOAR, UEBA, EDR, and more, effectively replacing dozens of individual tools. Known for scalability, the platform …",
+      "created": "2026-05-16T15:33:28Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMTMxNzM5NSIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.QeDZCVNE8AleyhD3OK7BdwSYPl3Y1eu_qb82TRxrDFA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "AI Engineer (25 Position)",
+      "redirect_url": "https://www.adzuna.in/land/ad/5731317395?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=81FFB72DAD6902F56D5A2CE1C72B3A67FDC926D5",
+      "company": {
+        "display_name": "Seceon Inc.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "scientific-qa-jobs",
+        "label": "Scientific & QA Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": [
+          "India"
+        ],
+        "display_name": "India",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5731317395"
+    },
+    {
+      "location": {
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "id": "5712897474",
+      "salary_is_predicted": "0",
+      "title": "Lead Generative AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5712897474?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=E6CC54565D09445D8E3C2D6A6AC3A72F0FF01327",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Coforge"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMjg5NzQ3NCIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.ii54Cdq-5TL_Hbyyw2CIiuUyJwDtYCW0J8u_gZvMzm4",
+      "description": "Title: Lead Generative AI Engineer Location: Noida, Hyderabad, Pune Years of Experience: 5 Years Technical Expertise Deep, hands‑on experience in AWS‑based application and platform development , with a strong understanding of cloud‑native architecture, scalability, security, and cost optimisation. Proven experience in designing and building LLM‑based AI agents , including real‑world use cases beyond experimentation or PoCs. Strong understanding of agentic workflows , including: Multi‑step plann…",
+      "created": "2026-04-29T00:39:20Z",
+      "latitude": 28.56579,
+      "longitude": 77.3225
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AstraZeneca"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5711046104?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=B693A217D5EB12AFD1948596173E441FC0CF3571",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Director - AI Engineering Lead",
+      "salary_is_predicted": "0",
+      "id": "5711046104",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Chennai, Tamil Nadu",
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Chennai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 13.06041,
+      "longitude": 80.24963,
+      "description": "Role Title: Director - AI Engineering Lead Location: Chennai/Bengaluru - India We are one purpose-led global organisation. The enablers and innovators, ensuring that we can fulfil our mission to push the boundaries of science and discover and develop life-changing medicines. We take pride in working close to the cause, opening the locks to save lives, ultimately making a massive difference to the outside world. AstraZeneca (AZ) is in a period of strong growth and our employees have a united pur…",
+      "created": "2026-04-26T18:26:52Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMTA0NjEwNCIsInMiOiJFRVE1aEtsVzhSR1REZEpLLTdjTDZ3In0.GK_1v0ZUB8crGNaRknQmwPhdNnvjUzw450d-1SzwOiI"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzIxNTY4NTMyIn0.xoCvlbuFqH0WNZqYF9L1iCmHDqF3CwGn-RStabGnqbo",
+      "created": "2026-05-07T16:25:18Z",
+      "description": "Role Overview We are seeking a Senior GenAI Engineer with 5–7 years of experience who has independently built and deployed scalable GenAI systems. You will play a critical role in designing robust architectures and owning end-to-end delivery of production-grade AI applications. Key Responsibilities Design and implement scalable GenAI and RAG-based architectures Lead development using LangChain / LangGraph and advanced orchestration techniques Architect and optimize vector search systems and emb…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5721568532",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Senior Gen AI Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ascendion"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5721568532?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=62ED5F3FA21744ABD868CF0DD6A0B9FCFE202E5E"
+    },
+    {
+      "id": "5724824040",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "alliantgroup"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5724824040?se=EEQ5hKlW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=852EE5848F8E276FC67F612AD31CAD6AD8A3C5C3",
+      "title": "Senior Gen AI Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUVRNWhLbFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI0ODI0MDQwIn0.3N1qmffbLKKJVN_EqKuX4FyxONfZoGeIUGd4WNM_DDU",
+      "description": "Experience : 5 – 6 Years Job Skills : Key Responsibilities Design and develop end‑to‑end AI and GenAI solutions leveraging Azure AI services. Build LLM‑driven applications using Retrieval Augmented Generation (RAG), grounding strategies, and evaluation techniques. Develop agent‑based systems using LangChain, LangGraph, Azure Foundry Agents, and Microsoft Agent Framework. Apply data science fundamentals to feature engineering, data preparation, retrieval relevance, and model evaluation. Develop …",
+      "created": "2026-05-10T08:50:26Z",
+      "longitude": 78.50806,
+      "latitude": 17.40275
+    }
+  ]
+}

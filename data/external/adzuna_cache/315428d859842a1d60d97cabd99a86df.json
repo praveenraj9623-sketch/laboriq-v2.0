@@ -1,0 +1,716 @@
+{
+  "results": [
+    {
+      "created": "2026-04-12T14:59:45Z",
+      "latitude": 14.325172,
+      "company": {
+        "display_name": "Webologix Ltd/ INC",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 76.227524,
+      "description": "Job Position: Machine Learning Engineer Location: PAN Experience: 5 to 10 Years Interview Mode – Virtual Mandatory Skills: Deep Learning - AIOPS, Machine Learning - AIOPS, MLOPS, Python - DataScience Good to Have Skills: GenAI - LLMOps Key Responsibilities: 1. We are looking for a Machine Learning Engineer with following skillset 2. Model Development Design and build machine learning models that can learn from data and make predictions 3. Data Preparation Collect clean and preprocess data to en…",
+      "id": "5697395766",
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5697395766?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=ED6F8A2FF8029E032DCFC3D4DC44A1544898070C",
+      "location": {
+        "display_name": "Karnataka, India",
+        "area": [
+          "India",
+          "Karnataka"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1Njk3Mzk1NzY2In0.3IrGpgwqMVvxDJvIWz2VtHkuqc4zoB1V5iqgieqeTKM",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzMwMjI3OTA2In0.ZhAt17Jck3tenxjau8Nq8Scz-tPS8M-9dZY9HScjgLA",
+      "id": "5730227906",
+      "description": "Job Title: Machine Learning Engineer Location: Hybrid- Bengaluru Employment Type: Permanent with VDart Digital Note: Immediate joiners preferred Job Summary: We are seeking a Machine Learning Engineer with hands-on experience in designing, developing, and deploying ML models for real-world use cases. The ideal candidate will have strong coding skills, deep understanding of machine learning workflows, and the ability to integrate AI solutions into production environments. Key Responsibilities: I…",
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5730227906?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=89F9FBAA1DCC7AC8FD1B55D3ED60E9BC576BCDBA",
+      "title": "Machine Learning Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "created": "2026-05-15T15:23:09Z",
+      "company": {
+        "display_name": "VDart Digital",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzEwMzQ2NDgyIn0.RAdtRq31Qx0EPz8Ah3WJWR5nGeS4Klf9gWsfVh5BHng",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5710346482?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=6E215BF47E9E3763B9F9C76BD0A3DCD3F01E1A0D",
+      "location": {
+        "display_name": "India",
+        "area": [
+          "India"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Job Description: Machine Learning Engineer Duration: Full-Time Work Type: Remote Shift hours: 10am-6pm CET Role Overview We are seeking a skilled Machine Learning Engineer with hands-on experience in Large Language Models (LLMs), backend ML systems, and agentic AI solutions. The role will focus on fine-tuning LLMs, building scalable inference services, and developing intelligent automation to support translation and Virtual Interpreter (VI) tools. Key Responsibilities Write high-quality, produc…",
+      "contract_time": "part_time",
+      "id": "5710346482",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BIG Language Solutions"
+      },
+      "created": "2026-04-25T18:11:12Z"
+    },
+    {
+      "id": "5722874183",
+      "description": "We are seeking a Lead Machine Learning and MLOps Engineer focused on Generative AI to join our ML team within the Data Science Center of Excellence at S&P Global. In this role, you will lead engineering activities to build production-grade generative AI solutions and play a pivotal role in implementing machine learning engineering operations to ensure seamless deployment, monitoring, and management of our machine learning models and data pipelines. The Team: You will work closely with a world-c…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana"
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5722874183?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=808C448C8E720ABC14566A0EAF74D263EA3175E7",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzIyODc0MTgzIn0.V4tMleJJWvsbVHoTapVNKHJ7zs6jseYke478fglJhmw",
+      "latitude": 17.40275,
+      "created": "2026-05-08T16:47:58Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "S&P Global"
+      },
+      "longitude": 78.50806,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMTYwMTk0MSIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.H3okLH7FnYVdYA0xvNts5mSuFZmejz0kNJGtgTeiobA",
+      "id": "5731601941",
+      "description": "Job Title: Machine Learning Engineer - Computer Vision & Multi-Sensor Domain Location: Bengaluru, India Experience: 2-4 years (relevant, hands-on) About iMerit iMerit is a leading data solutions company empowering the AI/ML ecosystem with high-quality, diverse data solutions. We partner with global technology innovators to unlock the value hidden within unstructured data. With over 5,500 iMeriters worldwide, we've built a reputation for accuracy, efficiency, and positive social impact. About th…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5731601941?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=DE86E4BF21775EF09BBD0A14F53D37F0C04684E7",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-05-17T01:39:15Z",
+      "company": {
+        "display_name": "iMerit Technology",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzIwODU0MzY0In0.4S_lX5WPfiZ4HJJEvsagkuE4EZHxvibyGOO-SCi5psM",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "Key responsibilities: Support and monitor weekend batch loads, ensuring timely and accurate execution Perform outlier detection and root cause analysis for issues such as demand forecast drops or anomalies Translate findings into clear insights and communicate them effectively to leads and stakeholders Monitor scheduled jobs and data pipelines to ensure successful execution Validate dashboard outputs and analyze data trends, anomalies, and inconsistencies Support basic model validation and outp…",
+      "id": "5720854364",
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5720854364?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=52D61A796C9EC2EE3A3A4CF940D25C9A544B09ED",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hyderabad, Telangana",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 78.50806,
+      "created": "2026-05-07T02:13:22Z",
+      "latitude": 17.40275,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Grid Dynamics"
+      }
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Luxoft"
+      },
+      "latitude": 17.40275,
+      "created": "2026-05-08T16:46:31Z",
+      "longitude": 78.50806,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5722874106?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=9F12DD32E1567CD409D7F3A24F7A90F69C550FA9",
+      "title": "Machine Learning Engineer",
+      "id": "5722874106",
+      "description": "Project description We're seeking a passionate and skilled Machine Learning Engineer to join our growing team in Hyderabad. You'll play a key role in designing, developing, and deploying scalable ML solutions in Capital Markets. This is a fantastic opportunity to work with cutting-edge technologies and contribute to impactful projects in a collaborative, innovation-driven environment. Responsibilities Design and implement robust machine learning models using modern frameworks and libraries. Col…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMjg3NDEwNiIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.0ozBdPDu51mwSXddovJ33R-jrdP-8ZD31KOfNi41Chk"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-05-01T23:02:29Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "EdgeVerve"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzE2MDY0NDkxIn0.Db0nSvq6T5_3-rk_AnFUAtzzKUg_Q7fE6C69ORmlBuE",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Scientific & QA Jobs",
+        "tag": "scientific-qa-jobs"
+      },
+      "description": "Job title: Machine learning engineer (Gen AI) Location: Bangalore experience: 4 To 7Years Key responsibilities Advise clients on GenAI use cases, strategies, and provide feedback for product roadmap Evaluate and recommend suitable GenAI models and solutions for client’s problem statement Design and prototype GenAI features and applications, focusing on user needs and value Keep up with the latest advancements in AI technologies, including Gen AI and the latest features of popular tools (RAG) Co…",
+      "id": "5716064491",
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5716064491?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=30B7E547679EF9FAC5BE530A1D6E073847D9BCFB",
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "latitude": 17.40275,
+      "created": "2026-05-07T20:22:04Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Luxoft"
+      },
+      "longitude": 78.50806,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5721770237",
+      "description": "Project description We're seeking a passionate and skilled Machine Learning Engineer to join our growing team in Hyderabad. You'll play a key role in designing, developing, and deploying scalable ML solutions in Capital Markets. This is a fantastic opportunity to work with cutting-edge technologies and contribute to impactful projects in a collaborative, innovation-driven environment. Responsibilities Key Responsibilities: Design and implement robust machine learning models using modern framewo…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hyderabad, Telangana",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ]
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5721770237?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=CAEFCAD4CA3D4459BCE69C8AC2FB5E45D3F251EC",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzIxNzcwMjM3In0.sOhoCZ7m7e0Mc9BIXdrAoguDNE85b33ZhI5hJRcbLCg"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-04-27T00:17:53Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "THG Ingenuity"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMTEyNTU5MiIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.JEnc6Nor4dS8d1h3q8Hd19E32dFiYdaBXvIOOUEhxZk",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs"
+      },
+      "description": "About THG Ingenuity THG Ingenuity is a fully integrated digital commerce ecosystem, designed to power brands without limits. Our global end-to-end tech platform is comprised of three products: THG Commerce, THG Studios, THG Fulfilment. Each represents a single, unified solution, overcoming challenges and taking brands direct-to-consumer. Our client portfolio includes globally recognised brands such as Coca-Cola, Nestle, Elemis, Homebase, and Proctor & Gamble. About the Team You will join one of…",
+      "id": "5711125592",
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5711125592?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=47207DE65E0C64154FAEA2C9AFB07AD79E6E7B1E",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      }
+    },
+    {
+      "longitude": 78.50806,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 17.40275,
+      "created": "2026-04-27T00:17:24Z",
+      "company": {
+        "display_name": "Egen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMTEyNTUzNSIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.y8gIjKO8AZaRMx61Wobuz5zyyiuxLEdLDME1v8YGoCs",
+      "id": "5711125535",
+      "description": "Egen is seeking a talented and experienced ML Engineer with a strong background in ML Applications and GCP cloud. The ideal candidate will have 5 years of experience in Production and be proficient in ML Tools. This role requires a dynamic individual who can work effectively in a hybrid environment, collaborating with teams At least 5 years of experience in designing & building AI applications for customer and deploying them into production. Software engineering experience in building Secure, s…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5711125535?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=6F4AE4A659D94DFF8CCCD8F2A4E35AE59165CC80",
+      "title": "Machine Learning Engineer"
+    },
+    {
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Blue Polaris",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-05-10T00:44:58Z",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNDM3MzkwMCIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.8qFkHoqNLGVaFc5rpnRNufygT8AaJ554kfEJi7m7yDk",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5724373900?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=B55F2CD75F9C1EECDAABE2ED8424F0191F748F05",
+      "id": "5724373900",
+      "contract_time": "full_time",
+      "description": "Job Title: AI/ML Developer Location: Pune, Maharashtra Job Type: Full-time, Permanent Company: Blue Polaris Inc. Work Type: Hybrid About Blue Polaris At Blue Polaris, we are redefining how businesses make decisions. As a global leader in decision automation, AI, and business architecture, we partner with Fortune 500 companies to design intelligent and transparent systems using Decision Model and Notation (DMN) and our proprietary Decisions First™ approach. We don’t just solve problems — we mode…"
+    },
+    {
+      "description": "Designation: Senior ML Engineer Experience: 3 years Role: The Technical Architect – ML Engineering will have a clear understanding of building scalable, production-grade machine learning systems and AI-powered applications. The role involves understanding business problems, translating them into ML/AI solutions, and architecting/designing systems that are high-performing, secure, scalable, reproducible, and testable. It is a hands-on role involving building ML pipelines, fine-tuning models, dep…",
+      "id": "5725158511",
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5725158511?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=6501953C269967C13DE3727B6D2A04151FC07F14",
+      "location": {
+        "display_name": "India",
+        "area": [
+          "India"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzI1MTU4NTExIn0.nh7cIc-uSe4P_FzxK0yYN9Ig_t8-xAmBCdNgI3FaV6Q",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-05-10T18:39:30Z",
+      "company": {
+        "display_name": "Simplify Healthcare",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "id": "5710338521",
+      "description": "Total Experience- 4-6 years NP- Immediate-15 days Location- Bangalore A mid-level ML/Deep-Learning engineer who can do model development & training on text data (NLP  deep learning with PyTorch), has strong Python/data-engineering skills, understands MLOps concepts, and can ramp quickly into an existing project and vendor process. Role focus / responsibilities Develop & train deep-learning models on text data (not necessarily LLMs; more classical/deep NLP). End-to-end model lifecycle: data prep…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5710338521?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=95BA5B48574114E9433C8C8956A1A7EAE40877C8",
+      "title": "Machine Learning Engineer",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMDMzODUyMSIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.t-y64gYDkzVxcz2amAEAUuL0ORhawL5wRPATSlCoWAM",
+      "created": "2026-04-25T18:05:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Grid Dynamics"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "contract_time": "full_time",
+      "description": "Greetings from TCS! Job Title: AI/ML Engineer Walk-in Interview Date: 23-May-2026 (Saturday) Walk-in Location: Tata Consultancy Services Ltd, Plot No - 35, SEZ Road, Chandaka Industrial Estate Chandrasekharpur, Infocity, Patia, Bhubaneswar - 751024 Walk-in Time: 9am-1pm Experience Range: 3-12 yrs Job Description: Responsibilities: Strong understanding of supervised and unsupervised ML algorithms Experience with NLP, Computer Vision, or time-series models Feature engineering, hyperparameter tuni…",
+      "id": "5734259186",
+      "redirect_url": "https://www.adzuna.in/land/ad/5734259186?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=B91E87C7E722AE8DFEC47EAE279019906DB146E4",
+      "title": "Machine Learning Engineer",
+      "location": {
+        "display_name": "India",
+        "area": [
+          "India"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNDI1OTE4NiIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.ZUDTqzR02IWM3IXsxnSy5B4ILTEtR-TDLy4oAOGuXQE",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-05-20T01:37:32Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tata Consultancy Services"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 76.93365,
+      "created": "2026-05-21T17:36:14Z",
+      "latitude": 8.49239,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Terveys Technology Solutions Pvt Ltd"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNjM2OTc2NyIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.YtkypSAPuV3UNerWzvIf-y_oUdCCa6Yx_7bKfHkvPBU",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "ML Engineer Location: Hybrid Employment Type: Full-time Roles & Responsibilities Model Development: Design, build, and deploy machine learning models across classical, time-series, and deep learning approaches to solve real business problems. Data Pipelines: Build and maintain reliable data ingestion and transformation pipelines, ensuring data quality, consistency, and reproducibility. Feature Engineering: Engineer high-quality features from structured and unstructured data, and manage them thr…",
+      "contract_time": "full_time",
+      "id": "5736369767",
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5736369767?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=0CEB98AAC1744A5C4CE4387615158C7074EE35F1",
+      "location": {
+        "area": [
+          "India",
+          "Kerala",
+          "Thiruvananthapuram",
+          "Trivandrum"
+        ],
+        "display_name": "Trivandrum, Thiruvananthapuram",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-05-07T20:19:57Z",
+      "company": {
+        "display_name": "Tata Consultancy Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMTc1ODIzOSIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.55DuXjUo4pNiVVc2Jy7x3tYaqvtNjSsaDtd-AORQ-n8",
+      "id": "5721758239",
+      "description": "Greetings from TCS TCS is hiring MLOps Engineer Experience: 4-15 years Location: PAN India, preferably Pune, Chennai, Hyderabad, Kolkata, NCR Mode of interview : Walk in Walk in Location : Bangalore/Vizag Date of walk in : 9th May'26 Job Description:- 4 to 15 years of experience (2 years in AI/Gen AI is must). Required Skills: Degree in computer science, artificial intelligence, or IT. Strong knowledge of MLOps principles and the end-to-end ML lifecycle: data preparation → training → validation…",
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5721758239?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=97CEA25C8D589F1807E8EDC136750E76E85ABCB4"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzA3MzQ1MDE5In0.MxpN667z3DjomHoOnGcKRHQGIMffcbNuL5ygoimoE0s",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5707345019?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=0222F2C8261C7AACD1E6D6BE2524FD174B55067E",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "India",
+        "area": [
+          "India"
+        ]
+      },
+      "description": "About Valiance Valiance is a deeptech AI company building sovereign and mission-critical AI solutions for enterprises, public sector, and government institutions. From predictive maintenance and demand planning to sovereign AI for citizen services, we design systems that thrive in high-stakes environments. Recognized with the NASSCOM AI Game Changers Award and the Aegis Graham Bell Award, and a certified Google Cloud Partner, our 200 engineers and data scientists are shaping the future of indus…",
+      "id": "5707345019",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Valiance Solutions",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-04-22T23:41:06Z"
+    },
+    {
+      "description": "We are looking for a highly skilled MLOps Engineer to design, build, and manage end‑to‑end machine learning pipelines and production‑grade ML infrastructure. This role focuses on scalable ML deployment, monitoring, automation, and lifecycle management, while bridging the gap between Data Science, Engineering, and DevOps teams. If you have strong expertise in ML model deployment, CI/CD for ML, cloud platforms, and Kubernetes, this is an excellent opportunity to work on enterprise‑scale AI/ML sys…",
+      "id": "5712898787",
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5712898787?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=9244D456BCB5843D843793FE58199F03F6C2BE04",
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzEyODk4Nzg3In0.Ev7BCH2cFbGbr47hBYmuO5esOv2OtFbGDxWHGAYaz_U",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "created": "2026-04-29T00:41:03Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Infosys"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzc4MjExNSIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.3ZEqzO4EW98z7HEHq4CVfUSw6OScda7jifZIWRmMOZg",
+      "id": "5703782115",
+      "description": " Location: Pune  Experience: 2 years  Employment Type: Full-Time About Skylark Labs At Skylark Labs, we pioneer embodied artificial intelligence that seamlessly integrates into every physical device, evolving toward true general intelligence. Our mission is to transform the world by creating adaptive AI systems that empower innovation, enhance safety, and redefine connectivity for a smarter, more sustainable future. We are building scalable AI-driven solutions to power next-generation visual in…",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "India",
+        "area": [
+          "India"
+        ]
+      },
+      "title": "Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5703782115?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=837C65457C94D15B5B5DEB47BF3921A4ACFA397D",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-04-19T01:20:47Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Skylark Labs"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Xebia"
+      },
+      "created": "2026-05-09T18:31:59Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzI0MjI3NjE0In0.5LmJ_VQWktD9RGrGds4qW7NPJT9zuG35ASOuo8IdMHs",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Senior Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5724227614?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=CF6A1E6888D62D1705F762787B02C787C7029DE3",
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Job Title : Senior Machine Learning Engineer Job Location : Bengaluru Exp : 6-12 years Position Overview : We are looking for a Machine learning Engineers with strong expertise on ML /AI . Should have good experience working on ML models developments and deploying the ML platforms Roles & Responsibilities : Design, build, and optimize scalable batch and streaming data pipelines using distributed framework like Spark/Databricks/Kafka. Design & Code - robust data models, feature pipelines, and ET…",
+      "id": "5724227614"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVEt4RE9xbFc4Ukd2alBEMjBTYzF3USIsImkiOiI1NzExMDQ0OTY5In0.6-x_CT_kfYSk4-85L191U4gKNyplWj13pHic6v9gpOM",
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Senior Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5711044969?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=756422EF84BD52B6D95EE3A0F575317904FBDBD9",
+      "id": "5711044969",
+      "description": "Senior Machine Learning Engineer (3–6 Years) | Selection process- Screening >> AI Interview>> L1 Discussion>> Offer Join us to build and deploy production-grade AI/ML solutions for Fortune 500 clients on Google Cloud Platform. This hands-on role focuses on developing scalable systems across generative AI, traditional machine learning, and computer vision. Key Responsibilities: Design and implement GenAI solutions (RAG, agentic workflows, multi-agent systems) Build and deploy ML models for forec…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Quantiphi"
+      },
+      "created": "2026-04-26T18:24:50Z"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNDc5MzA1OCIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.NbNItA8QBrCzqTYEsI53kQnwMx-TRv2JcGqhrUmD4Es",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5714793058?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=8CB4CF4AD20652DB66722357C7CB0724F118A17F",
+      "title": "Data and Machine Learning Engineer",
+      "id": "5714793058",
+      "description": "Job Title : Data and Machine Learning Engineer Job Location : Bengaluru Exp : 7-12 years Notice Period : immediate - 15 days Key Responsibilities: Design, build, and optimize scalable batch and streaming data pipelines using distributed framework like Spark/Databricks/Kafka. Data and ML Engineering thought leadership (What, Why & How) ) - Design & Code - robust data models, feature pipelines, and ETL/ELT frameworks for analytics and ML. Ensure data quality, observability, lineage, and performan…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Xebia"
+      },
+      "created": "2026-05-01T00:58:28Z"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 76.24637,
+      "company": {
+        "display_name": "IBS Software",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-05-16T15:36:52Z",
+      "latitude": 9.98011,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMTMxOTk1MSIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.vW_Rwzg50i7U023MbUkgtdgFL8HmTc9Lhhzxn23xgOw",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Senior Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5731319951?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=3AD660740F2C5EE42C8DEB2D914C08C0230C692A",
+      "location": {
+        "display_name": "Kochi, Ernakulam",
+        "area": [
+          "India",
+          "Kerala",
+          "Ernakulam",
+          "Kochi"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Senior Machine Learning Engineer Location - Kochi, Trivandrum, Bangalore Experience - 10 to 15 years This is a strongly hands-on Individual Contributor role — we are specifically looking for engineers who actively design, build, deploy, and scale AI/ML systems in production environments. While candidates may currently hold Lead/Manager titles, the expectation is deep technical ownership rather than people management or task distribution responsibilities. Preferred Domain Experience We strongly …",
+      "id": "5731319951"
+    },
+    {
+      "location": {
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Senior Machine Learning Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5715808679?se=TKxDOqlW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=f82dfe0b&v=D3925642B08457BAC43E9A4258591BC01FA18609",
+      "id": "5715808679",
+      "description": "Project Description: We're seeking a passionate and skilled Machine Learning Engineer to join our growing team in Hyderabad. You'll play a key role in designing, developing, and deploying scalable ML solutions in Capital Markets. This is a fantastic opportunity to work with cutting-edge technologies and contribute to impactful projects in a collaborative, innovation-driven environment. Responsibilities: Key Responsibilities: • Design and implement robust machine learning models using modern fra…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTgwODY3OSIsInMiOiJUS3hET3FsVzhSR3ZqUEQyMFNjMXdRIn0.GDkCQx-_apaVtOMo6DPle3_BtxQkU_C6wzjnzPLME6I",
+      "company": {
+        "display_name": "Luxoft India",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 17.40275,
+      "created": "2026-05-01T16:58:51Z",
+      "longitude": 78.50806,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    }
+  ]
+}

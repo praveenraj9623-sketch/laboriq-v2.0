@@ -1,0 +1,734 @@
+{
+  "results": [
+    {
+      "longitude": 72.84415,
+      "latitude": 19.00821,
+      "description": "Who We Are At Network Solutions, we’ve been trusted for decades to help people get online and stay ahead. We’ve been here since the beginning of the internet, and we’re still building for what comes next. As the original digital identity authority, we help secure domain names, protect brands, and safeguard the infrastructure businesses rely on. We empower our customers to own and manage the assets that define them online, while delivering enterprise-grade security to protect against virtual thr…",
+      "created": "2026-04-30T14:52:25Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzE0NDI5NTUxIn0._gi-XCcgloccv5WSvhonJf4jbzr7xIdNEvsjEPITy7I",
+      "company": {
+        "display_name": "Newfold Digital",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5714429551?se=0J2Ay6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=6CBB2AEAFD7CA8123BC81D09107C067E8370FC36",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "salary_is_predicted": "0",
+      "id": "5714429551",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Mumbai, Maharashtra",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ]
+      }
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "MonetizeMore"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5643675931?utm_medium=api&utm_source=f82dfe0b",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hussainialam, Hyderabad",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad",
+          "Hussainialam"
+        ]
+      },
+      "id": "5643675931",
+      "salary_is_predicted": "0",
+      "created": "2026-02-24T20:31:52Z",
+      "description": "About MonetizeMore MonetizeMore is a leading ad tech company dedicated to empowering publishers with state-of-the-art ad monetization technology and strategies. We are a globally distributed, remote-first team driven by data, innovation, and a passion for helping our partners succeed. The Role We are looking for a highly skilled and communicative Business Intelligence (BI) Analyst to join our growing Data Team. In this role, you will be the bridge between our raw data and our internal business …",
+      "latitude": 17.38848,
+      "longitude": 78.4717,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MzY3NTkzMSIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.lQYBNDd_FzekbiANbRivBdNA-kO3EydYwSAMnppbaA4"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "redirect_url": "https://www.adzuna.in/details/5643675930?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "display_name": "MonetizeMore",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Bazargate, Mumbai",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai",
+          "Bazargate"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5643675930",
+      "salary_is_predicted": "0",
+      "description": "About MonetizeMore MonetizeMore is a leading ad tech company dedicated to empowering publishers with state-of-the-art ad monetization technology and strategies. We are a globally distributed, remote-first team driven by data, innovation, and a passion for helping our partners succeed. The Role We are looking for a highly skilled and communicative Business Intelligence (BI) Analyst to join our growing Data Team. In this role, you will be the bridge between our raw data and our internal business …",
+      "created": "2026-02-24T20:31:52Z",
+      "longitude": 72.83544,
+      "latitude": 18.94206,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MzY3NTkzMCIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.ikBNWTe1c6Yi2TgShtbthKiTJfKse-ci3LzQ93DdOE0"
+    },
+    {
+      "description": "FE fundinfo is a leading financial data provider, connecting the investment industry across the UK, Europe, and Asia-Pacific through an integrated platform. Our skilled team empowers clients with data-driven insights, making the industry Navigate Complexity with Confidence! Join us as a BI Analyst and play a key role in shaping the data insights and reporting processes that drive strategic decision‑making across our global technology organisation. In this role, you will work at the heart of our…",
+      "created": "2026-05-23T14:08:03Z",
+      "latitude": 13.06041,
+      "longitude": 80.24963,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM4NTg4MjM5In0.XfXlKXQ-YkjIGGpT9u67gvnqRpTUsDhdrMjNWh3HEkA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "redirect_url": "https://www.adzuna.in/details/5738588239?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "FE fundinfo"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Chennai"
+        ],
+        "display_name": "Chennai, Tamil Nadu"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "5738588239",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5693904653?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "display_name": "Infor",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5693904653",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 78.50806,
+      "latitude": 17.40275,
+      "created": "2026-04-09T05:28:58Z",
+      "description": "Job Description INFOR is looking for Business Intelligence Analyst to join our dynamic team and embark on a rewarding career journey Architect and lead large-scale data migration programs. Define data migration frameworks, methodologies, and best practices. Serve as the primary point of contact for clients and stakeholders. Manage project timelines, risks, and deliverables. Lead solution design reviews and ensure technical excellence. Drive continuous improvement in data processes and tools. Su…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MzkwNDY1MyIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.FYZLB8lEvzvqkRyr4CRZn7ps4-UH6iqg3rA6EqXb5_s"
+    },
+    {
+      "id": "5708518428",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "category": {
+        "label": "Scientific & QA Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "scientific-qa-jobs"
+      },
+      "location": {
+        "area": [
+          "India"
+        ],
+        "display_name": "India",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Instem"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5708518428?utm_medium=api&utm_source=f82dfe0b",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzA4NTE4NDI4In0.qJO9uXn6rGfdYj-w8NflBuIfroJ9o2LcypLwAXqiMfA",
+      "description": "Business Intelligence Analyst Location: Pune, Hybrid. Status: Permanent, Full Time Package: Competitive Salary (fixed), 5 Day Working Week, Remote/Home Working (with one-off allowance), Flexible Working, Development & Opportunity (Personal & Technical), Group Medical Policy, Group OPD Cover, Personal Accident Cover, Term Life Cover, 26 Days Leave  9 Public Holidays  Buy & Sell Scheme, Referral Scheme. Please Note: This position requires working in line with UK business hours. Why are we hiring …",
+      "created": "2026-04-24T01:55:34Z"
+    },
+    {
+      "created": "2026-04-18T07:44:27Z",
+      "description": "Required Skills and Experience: Bachelor s degree in Business, Economics, Statistics, Computer Science, or a related field. 8 years of professional experience as a Business Intelligence Analyst or in a related role. Strong proficiency in SQL and data manipulation languages. Experience with data visualization tools (e.g., Tableau, Power BI, Qlik Sense). Experience with data warehousing and data lake concepts. Strong analytical and problem-solving skills. Excellent communication and presentation …",
+      "longitude": 77.224601,
+      "latitude": 28.62523,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzAzMTkzMDIzIn0.bWF6f-p4krd61ymRTdOX5deMFoZMA0wUwG6SXfL0Uj8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "redirect_url": "https://www.adzuna.in/details/5703193023?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Digitalxnode"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "display_name": "Delhi, India"
+      },
+      "id": "5703193023",
+      "salary_is_predicted": "0"
+    },
+    {
+      "created": "2026-03-27T09:34:34Z",
+      "description": "About us: We are a highly successful 190-year-old, Fortune 500 commercial property insurance company of 6,000 employees with a unique focus on science and risk engineering. Businesses worldwide trust our expertise to protect their assets, relying on our comprehensive risk assessments and robust, engineering-based insurance solutions to safeguard against fire, natural disasters, and other perils. Serving over a quarter of the Fortune 500 and major corporations globally, we deliver data-driven st…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3OTk2NTcyMSIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.f5Wfm5qBeE4Y01Tx1XkTudWtJjrkQDRo7y-iyh8UF8E",
+      "company": {
+        "display_name": "FM India",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5679965721?utm_medium=api&utm_source=f82dfe0b",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5679965721",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "India",
+        "area": [
+          "India"
+        ]
+      },
+      "id": "5722062199",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5722062199?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "FedEx"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMjA2MjE5OSIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.sn3pjSsf5ZEPWieh1nsR3hLxik8fkzYs1GVAL7MGkDE",
+      "description": "What can you expect as a FedEx team member? Career Mobility and Development : When you join FedEx, you’re joining a team with possibilities that literally span the world—from opportunities for advancement and location transfer, to training and leadership programs. Total Compensation and Benefits Package : We want to keep our employees for a long time, so we offer competitive benefits, opportunities for flexible work arrangements, and programs to support well-being. Equal Opportunities Our great…",
+      "created": "2026-05-08T02:11:30Z"
+    },
+    {
+      "created": "2026-03-28T02:02:34Z",
+      "description": "About Wolters Kluwer: Wolters Kluwer is a global leader in professional information services, combining deep domain knowledge with specialized technology. Our portfolio offers software tools, coupled with content and services, that enable customers to make informed decisions with confidence. Every day, our customers make critical decisions to help save lives, improve the way we do business, and build better judicial and regulatory systems. We help them get it right. Who We Are: Wolters Kluwer -…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDU5NTM1NyIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.pvaPFLhomGSTFGN1zfkdFd6wONG9w72RlLsRw7NeOy0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "company": {
+        "display_name": "Wolters Kluwer",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5680595357?utm_medium=api&utm_source=f82dfe0b",
+      "location": {
+        "area": [
+          "India"
+        ],
+        "display_name": "India",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5680595357"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Delhi"
+        ],
+        "display_name": "Delhi, India",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5645390773",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "redirect_url": "https://www.adzuna.in/details/5645390773?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "MonetizeMore"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NTM5MDc3MyIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.QJN2bLcW7U9CTLEUcp55cBzQiunZcEQieYJ5vpNThPI",
+      "description": "About MonetizeMore MonetizeMore is a leading ad tech company dedicated to empowering publishers with state-of-the-art ad monetization technology and strategies. We are a globally distributed, remote-first team driven by data, innovation, and a passion for helping our partners succeed. The Role We are looking for a highly skilled and communicative Business Intelligence (BI) Analyst to join our growing Data Team. In this role, you will be the bridge between our raw data and our internal business …",
+      "created": "2026-02-26T01:56:39Z"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hyderabad, Telangana",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ]
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5645343356",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "MonetizeMore"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5645343356?utm_medium=api&utm_source=f82dfe0b",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NTM0MzM1NiIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.0XTK7iLkgfwxI2EhGee9-EJnHMDuDk0A33NGFy1b3uM",
+      "created": "2026-02-26T01:53:39Z",
+      "description": "About MonetizeMore MonetizeMore is a leading ad tech company dedicated to empowering publishers with state-of-the-art ad monetization technology and strategies. We are a globally distributed, remote-first team driven by data, innovation, and a passion for helping our partners succeed. The Role We are looking for a highly skilled and communicative Business Intelligence (BI) Analyst to join our growing Data Team. In this role, you will be the bridge between our raw data and our internal business …",
+      "longitude": 78.50806,
+      "latitude": 17.40275
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwOTA3MDU0OCIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.FQAxE5fOhuCdls9FpI2Jv_Wfp1In7mWWMrU1J8DUguM",
+      "created": "2026-04-24T09:49:50Z",
+      "description": "Job Summary NetApp is leading the way in how our customers get the most out of their data with industry-leading cloud data services, storage systems, and software. This strategy has translated into exceptional financial performance and stock price appreciation. The Enterprise Business Operations team, embedded within the Office of the CEO, works closely with NetApp's top executives and our three business units (On-prem storage, Public Cloud Storage, and Data Services) to ensure that the company…",
+      "salary_is_predicted": "0",
+      "id": "5709070548",
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5709070548?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "NetApp"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst"
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5696351755?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "display_name": "Nutanix",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5696351755",
+      "salary_is_predicted": "0",
+      "description": "Hungry, Humble, Honest, with Heart. The Opportunity We are seeking a talented and driven Business-Intelligence Engineer to join our team. This role will be responsible for analysing complex data sets and deriving actionable insights that support data-driven decision making. We are looking for candidates with a strong foundation in Business Intelligence, expertise in AI tools, and strong problem-solving skills. About the Team The GTM BI Team at Nutanix supports the Go-To-Market leadership team w…",
+      "created": "2026-04-11T09:42:11Z",
+      "latitude": 12.95703,
+      "longitude": 77.59837,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NjM1MTc1NSIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.BTkjur9RLspNLx_lPDrBPkGIr65G25PzidNC0yRax8Y"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "id": "5711174628",
+      "salary_is_predicted": "0",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5711174628?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Konovo"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMTE3NDYyOCIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.kW7Eczbz_8m3DoswYB13rKqJRQWATHPQ_NG7xATyqoQ",
+      "created": "2026-04-27T02:26:07Z",
+      "description": "Konovo is a global healthcare intelligence company on a mission to transform research through technology- enabling faster, better, connected insights. Konovo provides healthcare organisations with access to over —the largest network of its kind globally. With a workforce of over 200 employees across 5 countries: India, Bosnia and Herzegovina, the United Kingdom, Mexico, we collaborate to support some of the most prominent names in healthcare. Our customers include over 300 global pharmaceutical…"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NDY0Njk3OSIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.BOcRC31Ry3uGDi02WSnMP82ZoUPiAZ2YDuttr-0Sd70",
+      "description": "BI Development & Visualization • Develop advanced Tableau dashboards and visualizations • Build, enhance, and maintain complex reporting solutions • Deliver executive, operational, and analytical reports • Handle multi-source datasets and large-scale data Tableau Production Support • Monitor dashboards for data accuracy and refresh issues • Debug backend data issues impacting reports • Ensure high reliability and performance of dashboards Tableau Data Modeling • Design efficient backend dataset…",
+      "created": "2026-04-01T06:36:26Z",
+      "latitude": 17.40275,
+      "longitude": 78.50806,
+      "location": {
+        "display_name": "Hyderabad, Telangana",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "id": "5684646979",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "General Electric Ge"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5684646979?utm_medium=api&utm_source=f82dfe0b"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1Njg0NjQ2OTg1In0.3zjfMaXmaKxy5uNqS9VoVhuQAsgzLEaOVQxYv1cgzvI",
+      "description": "BI Development & Visualization • Develop advanced Tableau dashboards and visualizations • Build, enhance, and maintain complex reporting solutions • Deliver executive, operational, and analytical reports • Handle multi-source datasets and large-scale data Tableau Production Support • Monitor dashboards for data accuracy and refresh issues • Debug backend data issues impacting reports • Ensure high reliability and performance of dashboards Tableau Data Modeling • Design efficient backend dataset…",
+      "created": "2026-04-01T06:36:26Z",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5684646985",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5684646985?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "display_name": "General Electric Ge",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Nutanix"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5698365264?utm_medium=api&utm_source=f82dfe0b",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "id": "5698365264",
+      "latitude": 12.95703,
+      "longitude": 77.59837,
+      "description": "Hungry, Humble, Honest, with Heart. The Opportunity We are seeking a talented and driven Business-Intelligence Engineer to join our team. This role will be responsible for analysing complex data sets and deriving actionable insights that support data-driven decision making. We are looking for candidates with a strong foundation in Business Intelligence, expertise in AI tools, and strong problem-solving skills. About the Team The GTM BI Team at Nutanix supports the Go-To-Market leadership team w…",
+      "created": "2026-04-14T01:51:04Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5ODM2NTI2NCIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.abKgR0l846PeKF9cyUiK2g-UQMjH-GeE4QjNqGunCR0"
+    },
+    {
+      "description": "As a businessexperienced business analyst at Avalara in the Global Analytics and Insights team you will be responsible for providing analytical insights and recommendations to enable the application of best practices in customer lifecycle management Your role will involve providing analytical insights for GTM strategy developing scalable models driving new acquisitions product and channel decisions by combining a deep understanding of business concepts with knowledge of statistics and explorato…",
+      "created": "2026-03-26T05:25:28Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1Njc4NjAyNTc2In0.j7wgWHXGBftyYrmH9s_QjmYIqzccYuz9GhN51tKS-kY",
+      "company": {
+        "display_name": "Avalara Inc",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5678602576?utm_medium=api&utm_source=f82dfe0b",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5678602576",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "India",
+        "area": [
+          "India"
+        ]
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "id": "5722549723",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Anywhere Real Estate"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5722549723?utm_medium=api&utm_source=f82dfe0b",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMjU0OTcyMyIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.hk2DL3loqJiGu6trlXTKDGgJqkmZ0lVOK04Ln3YQUe4",
+      "description": "Your Role & Accountabilities: AI Solution Building - Design and build AI-powered agents, workflows, and automations using modern AI platforms -Engineer structured prompts and instructions to produce accurate, business-ready AI outputs -Integrate AI solutions with enterprise systems, databases, and live data sources -Rapidly prototype, test, and iterate solutions based on user feedback and business outcomes -Embed Generative AI into core workflows across Microsoft 365 and Google Workspace -Own d…",
+      "created": "2026-05-08T09:56:14Z"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5726118616?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "display_name": "Equiniti",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5726118616",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "contract_type": "permanent",
+      "description": "Management Level F Company Overview: Equiniti provides comprehensive solutions to support organizations throughout their corporate lifecycle, including managing shareholder engagement, maintaining stock registers, facilitating ownership transfers, enabling shareholder meetings, paying dividends, supporting IPOs, and administering employee equity plans. We are dedicated to revolutionizing shareholder services by developing digital solutions that facilitate dematerialization for issuers and share…",
+      "created": "2026-05-12T02:27:34Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI2MTE4NjE2In0.udd7DaPajN_8sqpxEIHDGgx1PTJ3liPjwCBU9G_nhO4"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "redirect_url": "https://www.adzuna.in/details/5732565381?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "display_name": "Hitachi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Chennai, Tamil Nadu",
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Chennai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Energy, Oil & Gas Jobs",
+        "tag": "energy-oil-gas-jobs"
+      },
+      "id": "5732565381",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "description": "Location: Chennai, Tamil Nadu, India Job ID: R0090365 Date Posted: 2026-05-15 Company Name: HITACHI ENERGY TECHNOLOGY SERVICES PRIVATE LIMITED Profession (Job Category): Data Analytics/Business Intelligence Job Schedule: Full time Remote: No Job Description: The opportunity: As part of the Hub APMEA Strategy organization, this role enables data-driven strategic decision-making by transforming internal and external data into clear insights that support Hitachi Energy’s mid- to long-term growth a…",
+      "created": "2026-05-18T02:05:56Z",
+      "longitude": 80.24963,
+      "latitude": 13.06041,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzMyNTY1MzgxIn0.JTMpd1kUrp8HpllpV1jAR_T639Cv3yXqW3QGnFao-Xc"
+    },
+    {
+      "location": {
+        "display_name": "Mumbai, Maharashtra",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "id": "5727129226",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5727129226?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pplanet HR Services"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzEyOTIyNiIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.qz2ns5BzOYusBasZgya8RSeVGuVgyT1zuixUI6v6iB8",
+      "latitude": 19.00821,
+      "longitude": 72.84415,
+      "description": "Job Description: Develop management reports and dashboards for stakeholders across all business functions: Broking, Distribution, Assets, Marketing, Operations. Perform in-depth analysis to identify key business risks and opportunities and make recommendations to improve overall profitability. Distil complex data and relationships into clear, concise charts and visualizations. Contribute insight to strategic and tactical decisions that impact revenue, cost, analytics, and operations. Implement …",
+      "created": "2026-05-13T02:03:33Z"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Anywhere Integrated Services"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5723319341?utm_medium=api&utm_source=f82dfe0b",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5723319341",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 12.95703,
+      "longitude": 77.59837,
+      "description": "Description Your Role & Accountabilities: AI Solution Building •Design and build AI-powered agents, workflows, and automations using modern AI platforms •Engineer structured prompts and instructions to produce accurate, business-ready AI outputs •Integrate AI solutions with enterprise systems, databases, and live data sources •Rapidly prototype, test, and iterate solutions based on user feedback and business outcomes •Embed Generative AI into core workflows across Microsoft 365 and Google Works…",
+      "created": "2026-05-09T02:04:49Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMzMxOTM0MSIsInMiOiIwSjJBeTZ0VzhSR1REZEpLLTdjTDZ3In0.Xr1W1LvTG1TWC99fMFMkEbMCxnh3gfYzX9ZKhtkh0SM"
+    },
+    {
+      "latitude": 12.95703,
+      "longitude": 77.59837,
+      "description": "Welcome to MultiBank Group , a global financial pioneer established in 2005 in California and now proudly headquartered in Dubai, UAE. We specialize in delivering cutting-edge trading technology, unparalleled liquidity, and exceptional customer service. Our extensive range of financial products includes Forex, Metals, Shares, Indices, Commodities, and Cryptocurrency CFDs. Join our thriving community of over 2 million clients across 100 countries, contributing to a daily trading volume exceeding…",
+      "created": "2026-05-08T02:04:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiMEoyQXk2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzIyMDEyMTE3In0.ansv6N1wzDTujK4gxCZ-_fUKRDOjO8d2lZ0XzKAWxLg",
+      "title": "Business Intelligence Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5722012117?utm_medium=api&utm_source=f82dfe0b",
+      "company": {
+        "display_name": "Multibank Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5722012117"
+    }
+  ]
+}

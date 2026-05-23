@@ -1,0 +1,725 @@
+{
+  "results": [
+    {
+      "id": "5697209647",
+      "created": "2026-04-12T08:35:20Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "About the Company : Simplify Healthcare is a leading healthcare IT company, founded in 2008, dedicated to empowering health insurance providers through cloud-based, automation-driven solutions. Our latest venture — an agentic AI platform — leverages cutting-edge language models and retrieval-augmented generation (RAG) to revolutionize payer operations. About the Role : As a Sr. Software Engineer- AI & ML, you’ll be at the core of designing and building our agentic AI and conversational intellig…",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Simplify Healthcare",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Artificial Intelligence Engineer",
+      "redirect_url": "https://www.adzuna.in/land/ad/5697209647?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=E3E1A995D94D2B05AEEF3DA3F6BB252135BB2373",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIwOTY0NyIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.CxKsxeuaSaN_z0r4hZOCDs6QHPk3O5OcEU1av7OLZKQ"
+    },
+    {
+      "id": "5700910297",
+      "longitude": 73.84735,
+      "created": "2026-04-16T07:37:45Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Pune"
+        ],
+        "display_name": "Pune, Maharashtra"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "description": "Responsibilities: Design, develop, and implement NLP models and algorithms for various applications. Preprocess and clean large volumes of text data for model training. Implement feature extraction and representation techniques from text data. Train, fine-tune, and evaluate NLP models using machine learning frameworks. Develop Named Entity Recognition (NER) systems to extract entities and relationships from unstructured text. Build and optimize sentiment analysis models to classify opinions in …",
+      "company": {
+        "display_name": "Krazy Mantra It",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "NLP Engineer",
+      "redirect_url": "https://www.adzuna.in/details/5700910297?utm_medium=api&utm_source=f82dfe0b",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 18.5062,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzAwOTEwMjk3In0.pKe6dRaV_NJxErQXxGpoee5E9Q2AcuJH6rj7RMPsU-c"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzE5MjkzNTMxIn0.CgGs9UsxyTX83reMKYb5NxCjRhk2tgMP1yk4Gpiz9mA",
+      "redirect_url": "https://www.adzuna.in/land/ad/5719293531?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=F5FFD803C71F636ED2A6CA6B8FD8D25EF643260F",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "description": "6 years of experience in AI and machine learning, out of which 3 years of experience in machine learning engineering, NLP, Generative AI, and LLM technologies. Experience with LLM Agentic workflows and frameworks (Langchain, LangGraph, LlamaIndex, etc.). Knowledge and experience with transformer architectures, prompt engineering, retrieval-augmented generation (RAG), guardrails, and LLM evaluation methodologies. Hands-on experience of MLOps and LLMOps is desired. Knowledge of design, implementa…",
+      "title": "Gen AI Machine Learning Engineer",
+      "company": {
+        "display_name": "Astek",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5719293531",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "created": "2026-05-05T16:18:19Z"
+    },
+    {
+      "id": "5720979659",
+      "longitude": 78.50806,
+      "created": "2026-05-07T05:50:31Z",
+      "location": {
+        "display_name": "Hyderabad, Telangana",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Databuzz",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "description": "Job Description NLP engineer : Exp - 4 yrs We are looking for a skilled NLP/ AI-ML Engineer with hands-on experience in designing, developing, and deploying conversational AI solutions across multiple platforms. Key Responsibilities Design and develop end-to-end chatbot solutions Create and optimize conversation flows, intents, and NLP models Integrate chatbots with APIs, payment gateways, and CRM tools Monitor, enhance, and improve chatbot performance and user experience Pls mail profile to (e…",
+      "title": "Nlp Software Engineer",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.in/details/5720979659?utm_medium=api&utm_source=f82dfe0b",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 17.40275,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMDk3OTY1OSIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.4DfAFzynE_63s9Ev55tJ25DiiVl4MjsdOXvgRhxOhSo"
+    },
+    {
+      "title": "Artificial Intelligence Intern",
+      "salary_is_predicted": "0",
+      "description": "AI Research Intern — Publish With Us at Jetty AI  We are hiring an AI Research Intern to help publish real technical research emerging from Jetty AI systems including memory architectures for LLMs agent workflows and longitudinal personalization platforms like GutBut. This is not a literature review internship. You will help turn working production ideas into publishable research. Current research areas include persistent memory for AI systems agent reasoning architectures evaluation pipelines …",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Jetty AI"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "India",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ]
+      },
+      "created": "2026-04-26T18:23:57Z",
+      "id": "5711044413",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMTA0NDQxMyIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.FcVtEwIeBFxJtb7FPHTd5cX3LYDeXnp8R6ROH5gnGP8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5711044413?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=8E6B03A9098DF41F4B9CF2CC0D7EAEC136DC9451",
+      "contract_type": "contract"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzIwMzAxMTY1In0.kTgLjYb0dItA5cC1ZKngVgCGwWkZBISYLFMWhH8oUzQ",
+      "latitude": 19.00821,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5720301165?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=39F33637052AFF31BFA0C6578B1CB4DE21A2F5A5",
+      "title": "Artificial Intelligence Engineer",
+      "salary_is_predicted": "0",
+      "description": " Join Our Team as an AI Engineer at Helo.ai by VivaConnect  Location: Andheri, Mumbai  Working Days: Monday to Friday  Work Mode: Work from Office  About Helo.ai At Helo.ai by VivaConnect, we enable businesses to connect with their customers through powerful engagement channels at scale. • SMS, WhatsApp, RCS, Voice, and Contact Centre solutions • 24 years of industry expertise • 30 billion engagements handled annually • Partnerships with Meta, Google, and leading telecom operators We power comm…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Helo.ai by VivaConnect"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "created": "2026-05-06T16:16:25Z",
+      "location": {
+        "display_name": "Mumbai, Maharashtra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ]
+      },
+      "longitude": 72.84415,
+      "id": "5720301165"
+    },
+    {
+      "salary_is_predicted": "0",
+      "description": "Job Description Job Summary We are seeking a highly skilled and detail-oriented AI Engineer to join our team. In this role, you will design and implement cutting-edge ML/DL models and leverage NLP techniques for text analytics and conversational AI. You will also develop enterprise-grade generative AI solutions, including RAG optimization, LLM evaluation, and fine-tuning, while ensuring scalability, data quality, and feasibility to deliver robust, high-performance AI applications. Key Responsib…",
+      "title": "Engineer- NLP",
+      "company": {
+        "display_name": "Evalueserve",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "created": "2026-05-08T05:50:51Z",
+      "location": {
+        "area": [
+          "India"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "India"
+      },
+      "id": "5722259879",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzIyMjU5ODc5In0.M8UCkF6tucFWsEgSTURX5WtnXMX9PgVdEptChrtJ_Oo",
+      "redirect_url": "https://www.adzuna.in/details/5722259879?utm_medium=api&utm_source=f82dfe0b",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AiLogic Neural Network Pvt Ltd"
+      },
+      "salary_is_predicted": "0",
+      "description": "About the Role We are looking for highly skilled and motivated Data Scientists / NLP Data Scientists / ML Engineers with strong hands-on experience in Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs) . The ideal candidate should have practical exposure to building and deploying ML/NLP solutions in production environments, especially involving LLM fine-tuning, RAG pipelines, embeddings, and vector databases . Key Responsibilities Design, build, train, and opt…",
+      "title": "Senior Data Scientist",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 78.50806,
+      "created": "2026-05-22T17:52:17Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana"
+      },
+      "id": "5737576338",
+      "latitude": 17.40275,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzM3NTc2MzM4In0.9WBodssqUHTkdF4-CJlxOtg2Pa0LrrMwiUKzqebp6Zc",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5737576338?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=4C4266DCC8188A9A4868F09EA4023D044490B13F"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzMyMzE4NzI2In0.w5mkds5Pwvj165-CZAycPhqWtlNDMh6sGvEZT-S2HMQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5732318726?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=BCDB90DD46CE2A7675D4093BE675C3F3307E8571",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "description": "ABOUT THE ROLE: The TDD's multi-modal expertise capture pipeline and Graph RAG branch of the Hybrid architecture require a dedicated data engineer who builds and operates the document ingestion pipeline, chunking engine, vector database indexing, retrieval/re-ranking pipeline, golden dataset management system, and data pool routing infrastructure. This role executes the data architecture designs produced by the IC6 Data Engineer and operates the data infrastructure throughout the engagement. Pr…",
+      "title": "Remote Data Engineer - 78243",
+      "id": "5732318726",
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-17T15:40:47Z"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5732319444?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=3ED13F5D5D9FF8857BF795C4B162B37687523183",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMjMxOTQ0NCIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.873GWSeQ2AS8VYhzFNzIaNI7ybpddE-gHgBCM2k95Pk",
+      "latitude": 19.00821,
+      "created": "2026-05-17T15:41:16Z",
+      "location": {
+        "display_name": "Mumbai, Maharashtra",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 72.84415,
+      "id": "5732319444",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Turing"
+      },
+      "salary_is_predicted": "0",
+      "description": "ABOUT THE ROLE: The TDD's multi-modal expertise capture pipeline and Graph RAG branch of the Hybrid architecture require a dedicated data engineer who builds and operates the document ingestion pipeline, chunking engine, vector database indexing, retrieval/re-ranking pipeline, golden dataset management system, and data pool routing infrastructure. This role executes the data architecture designs produced by the IC6 Data Engineer and operates the data infrastructure throughout the engagement. Pr…",
+      "title": "Remote Data Engineer - 78243",
+      "category": {
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      }
+    },
+    {
+      "location": {
+        "display_name": "Kolkata, West Bengal",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "West Bengal",
+          "Kolkata"
+        ]
+      },
+      "created": "2026-05-17T15:39:31Z",
+      "longitude": 88.34373,
+      "id": "5732317913",
+      "title": "Remote Data Engineer - 78243",
+      "salary_is_predicted": "0",
+      "description": "ABOUT THE ROLE: The TDD's multi-modal expertise capture pipeline and Graph RAG branch of the Hybrid architecture require a dedicated data engineer who builds and operates the document ingestion pipeline, chunking engine, vector database indexing, retrieval/re-ranking pipeline, golden dataset management system, and data pool routing infrastructure. This role executes the data architecture designs produced by the IC6 Data Engineer and operates the data infrastructure throughout the engagement. Pr…",
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5732317913?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=ABE957A4D18790CB1DA269FB8C45F247CACC6F14",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMjMxNzkxMyIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.wgz5NpCTlLdNE151mharQcDexASP2ZmXR7LX4A0SbnI",
+      "latitude": 22.57285
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMjM4NjM2NyIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.fiw7qws8bgGZnHS3EyvaZMjvYzEzrzWaOeH5xez94uM",
+      "latitude": 13.06041,
+      "redirect_url": "https://www.adzuna.in/land/ad/5732386367?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=0CD5A16E5AE6248BCED9CA7F37FAC9EA02734C24",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Remote Data Engineer - 78243",
+      "description": "ABOUT THE ROLE: The TDD's multi-modal expertise capture pipeline and Graph RAG branch of the Hybrid architecture require a dedicated data engineer who builds and operates the document ingestion pipeline, chunking engine, vector database indexing, retrieval/re-ranking pipeline, golden dataset management system, and data pool routing infrastructure. This role executes the data architecture designs produced by the IC6 Data Engineer and operates the data infrastructure throughout the engagement. Pr…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Turing"
+      },
+      "category": {
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "created": "2026-05-17T17:43:08Z",
+      "location": {
+        "display_name": "Chennai, Tamil Nadu",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Chennai"
+        ]
+      },
+      "longitude": 80.24963,
+      "id": "5732386367"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMjMxNzUzNiIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.WASGLrT3VyNaXAiTbX4Wc6p_TBNOjXmpW_lsJ0Q-K9A",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5732317536?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=43359AF458E78C8B4565F16674447A419D26FB76",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Remote Data Engineer - 78243",
+      "description": "ABOUT THE ROLE: The TDD's multi-modal expertise capture pipeline and Graph RAG branch of the Hybrid architecture require a dedicated data engineer who builds and operates the document ingestion pipeline, chunking engine, vector database indexing, retrieval/re-ranking pipeline, golden dataset management system, and data pool routing infrastructure. This role executes the data architecture designs produced by the IC6 Data Engineer and operates the data infrastructure throughout the engagement. Pr…",
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5732317536",
+      "created": "2026-05-17T15:38:52Z",
+      "location": {
+        "display_name": "India",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ]
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/land/ad/5732318883?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=71ADE35E49D0CB04F42A2420FD5A393C50E6B3C8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMjMxODg4MyIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.XhCkdZ6MEguwSH9Qi_FjHMoMtFC3i2EOE3CfGLoAAdA",
+      "latitude": 17.40275,
+      "created": "2026-05-17T15:40:59Z",
+      "location": {
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hyderabad, Telangana"
+      },
+      "longitude": 78.50806,
+      "id": "5732318883",
+      "title": "Remote Data Engineer - 78243",
+      "salary_is_predicted": "0",
+      "description": "ABOUT THE ROLE: The TDD's multi-modal expertise capture pipeline and Graph RAG branch of the Hybrid architecture require a dedicated data engineer who builds and operates the document ingestion pipeline, chunking engine, vector database indexing, retrieval/re-ranking pipeline, golden dataset management system, and data pool routing infrastructure. This role executes the data architecture designs produced by the IC6 Data Engineer and operates the data infrastructure throughout the engagement. Pr…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Turing"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs"
+      }
+    },
+    {
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-14T02:14:17Z",
+      "id": "5728304938",
+      "salary_is_predicted": "0",
+      "description": "About Us Observe.AI is the AI Agents platform for customer experience, designed to help organizations deliver faster, smarter, and more efficient customer service at scale. The platform enables businesses to deploy specialized AI agents that autonomously execute work across the full CX lifecycle—from handling customer conversations to supporting frontline teams and optimizing operations. Each AI agent is purpose-built for a specific role, equipped to understand context, make decisions, take act…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Observe.AI"
+      },
+      "title": "Senior Machine Learning Engineer - NLP",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.in/details/5728304938?utm_medium=api&utm_source=f82dfe0b",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyODMwNDkzOCIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.wWWMs_yvTs1vRF5uHuJcxONr2EM4mRU_DGrt35RS7d8"
+    },
+    {
+      "description": "Senior Machine Learning Engineer - NLP/Python We are seeking a highly skilled Senior Machine Learning Engineer to join our team and contribute to cutting-edge projects. As a key member of our data science team, you will leverage your expertise in machine learning, natural language processing, and data engineering to develop innovative solutions that drive business value. Key Responsibilities Machine learning model development is a primary responsibility, involving the design, development, and d…",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Maimsd Technology",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Senior Machine Learning Engineer - NLP/Python",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-04-17T07:31:43Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "id": "5702090850",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzAyMDkwODUwIn0.uIjtNKazd1q_wk0JGhrJ0GlerZx7HDdT4Z8vrTYvkMw",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5702090850?utm_medium=api&utm_source=f82dfe0b"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/details/5702090686?utm_medium=api&utm_source=f82dfe0b",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 18.5062,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzAyMDkwNjg2In0.nNnzx7u1gSiBdV_CofgUTkOJZFK_jxMaWw5Cfyceexo",
+      "longitude": 73.84735,
+      "location": {
+        "area": [
+          "India",
+          "Maharashtra",
+          "Pune"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Pune, Maharashtra"
+      },
+      "created": "2026-04-17T07:31:38Z",
+      "id": "5702090686",
+      "salary_is_predicted": "0",
+      "title": "Senior Machine Learning Engineer - NLP/Python",
+      "description": "Senior Machine Learning Engineer - NLP/Python We are seeking a highly skilled Senior Machine Learning Engineer to join our team and contribute to cutting-edge projects. As a key member of our data science team, you will leverage your expertise in machine learning, natural language processing, and data engineering to develop innovative solutions that drive business value. Key Responsibilities Machine learning model development is a primary responsibility, involving the design, development, and d…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Maimsd Technology"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "Client Partner – Technology Staffing & Strategic Accounts",
+      "description": "Job Title: Client Partner – Technology Staffing & Strategic Accounts Department: Recruitment Location: Noida (Onsite) About Apptad Technologies: Apptad Technologies is a global technology consulting, AI transformation, and staff augmentation company helping enterprises build scalable digital and AI-driven capabilities across global markets. Our expertise spans: AI & Generative AI Transformation Data Engineering & Analytics Cloud & Digital Engineering Enterprise Technology Consulting GCC Enablem…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Apptad"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "created": "2026-05-13T18:57:10Z",
+      "longitude": 77.3225,
+      "id": "5728101800",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzI4MTAxODAwIn0.xu7VXSGaRe_yoBwnm4jRVHxsWKlDfhHjcbd1j5AQG4w",
+      "latitude": 28.56579,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5728101800?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=1AF7F1798C668A2FAD1F8B58E195D127A8268353"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzMwMjI4NzA5In0.qXPYcqsdYGLLaNGQLe9lWT6cf1XrdIpeVylEFdg48UE",
+      "latitude": 28.56579,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5730228709?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=4D230CCAB2B49851E663CAAF84FF20FBF0154732",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "description": "About the Company Cyfuture India Pvt. Ltd. is committed to driving innovation and excellence in AI and product development. Our mission is to lead the market in AI-led digital transformation, fostering a culture of collaboration and growth. About the Role We are seeking a highly experienced AI Technology Leader who can drive the strategy, architecture, development, and scaling of AI-powered enterprise products and platforms. Responsibilities AI & Product Leadership Define and execute the organi…",
+      "title": "Vice President of Artificial Intelligence",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cyfuture"
+      },
+      "id": "5730228709",
+      "location": {
+        "display_name": "Noida, Ghaziabad",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-15T15:24:42Z",
+      "longitude": 77.3225
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzE2NjY5ODQzIn0._3mHYv-g-SvNHSKbZSL0dxZ5JJeJkbnexm9_u3zGBLs",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5716669843?se=DvowQqlW8RGWQvEe2bTbLw&utm_medium=api&utm_source=f82dfe0b&v=450323D159D923C3D0C4C8F5FAB81DF5AF380A19",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "description": "Semantic Retrieval / Vector Optimization Engineer CiteWorks Studio is hiring a Semantic Retrieval / Vector Optimization Engineer to build systems that analyze how brands, pages, entities, reviews, competitors, and authority signals sit in embedding space. This technical role focuses on AI search visibility: understanding why some brands are retrieved, cited, surfaced, compared, and recommended by AI systems while others are ignored, underweighted, or semantically misaligned. The engineer will b…",
+      "salary_is_predicted": "0",
+      "title": "Semantic Retrieval / Vector Optimization Engineer",
+      "company": {
+        "display_name": "CiteWorks Studio",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5716669843",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "created": "2026-05-02T11:05:59Z"
+    },
+    {
+      "id": "5715095702",
+      "longitude": 76.983738,
+      "location": {
+        "display_name": "Gurgaon, Haryana",
+        "area": [
+          "India",
+          "Haryana",
+          "Gurgaon"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-01T06:55:38Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "display_name": "GreyOrange",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "description": "Responsibilities: Design and implement backend infrastructure and APIs for complex systems. Write high-quality, scalable, and maintainable code . Troubleshoot and debug applications, addressing root causes. Collaborate with cross-functional teams to discuss and implement solutions. Encourage and support knowledge sharing within teams. Build responsive, robust, and optimized applications . Thrive in ambiguous situations and demonstrate problem-solving as a core approach. Skills: Deep Learning, N…",
+      "title": "Senior Member Technical Staff - Software Development",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5715095702?utm_medium=api&utm_source=f82dfe0b",
+      "latitude": 28.323996,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzE1MDk1NzAyIn0.NCLWVAQ-W8MXrWTmwzeUZq3dxOnE0wi_nO_zyyW9liI"
+    },
+    {
+      "id": "5734180016",
+      "location": {
+        "display_name": "Richmond Town, Bangalore",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore",
+          "Richmond Town"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-19T22:39:36Z",
+      "longitude": 77.60024,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Gen AI Lead",
+      "description": "Job Title: Gen AI Lead (7 Years Experience) Job Summary: We are looking for a Gen AI Lead with 7 years of experience in AI/ML and strong expertise in Generative AI technologies. The candidate will lead the design, development, and deployment of AI-powered solutions using LLMs, NLP, and modern AI frameworks. Key Responsibilities: Lead Gen AI solution development and architecture Build and deploy LLM-based applications Work with cross-functional teams to deliver AI products Optimize AI models for…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TalentOla"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5734180016?utm_medium=api&utm_source=f82dfe0b",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNDE4MDAxNiIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.W6KOsEtcf9o2PLXJn-K6EC5s6i-9Czr0IdicVQldCKs",
+      "latitude": 12.9706
+    },
+    {
+      "company": {
+        "display_name": "Avoma",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "description": "Our Mission Join Avoma and work on some of the most challenging NLP problems in our mission to make every meeting more productive. Our intelligent meeting assistant helps professionals get insights and automate common tasks required for any business meeting. We leverage the latest NLP techniques to summarize meeting notes and extract key topics and action items, so our users can spend more time getting things done. The Opportunity We are looking for a Deep Learning / NLP Engineer to improve and…",
+      "title": "Senior ML Engineer",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-05-14T02:14:50Z",
+      "location": {
+        "area": [
+          "India",
+          "Maharashtra",
+          "Pune"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Pune, Maharashtra"
+      },
+      "longitude": 73.84735,
+      "id": "5728308901",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRHZvd1FxbFc4UkdXUXZFZTJiVGJMdyIsImkiOiI1NzI4MzA4OTAxIn0.HsU661p691z6aLDN5CVcceoni-jLXgtvf53sRhEHct8",
+      "latitude": 18.5062,
+      "redirect_url": "https://www.adzuna.in/details/5728308901?utm_medium=api&utm_source=f82dfe0b",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time"
+    },
+    {
+      "salary_is_predicted": "0",
+      "description": "Who we are We are an organisation that exists to drive progress. That's the “red thread” that connects everyone at The Economist Group (TEG). Our businesses share a devotion to innovation, independence and rigour in their fields of expertise. We empower people to understand and tackle the critical challenges and changes facing the world. Our analytical rigour, global expertise and evidence-based insights enable individuals and organisations to make sense of these shifts and chart a course throu…",
+      "title": "Senior AI Engineer",
+      "company": {
+        "display_name": "The Economist Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-01T02:02:05Z",
+      "id": "5714813639",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNDgxMzYzOSIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.B8rpYBOmd76e-etV4euAV6_OqO7j2gyFdeSD6iLx4u8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/details/5714813639?utm_medium=api&utm_source=f82dfe0b"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Senior AI Engineer",
+      "salary_is_predicted": "0",
+      "description": "Who we are We are an organisation that exists to drive progress. That's the “red thread” that connects everyone at The Economist Group (TEG). Our businesses share a devotion to innovation, independence and rigour in their fields of expertise. We empower people to understand and tackle the critical challenges and changes facing the world. Our analytical rigour, global expertise and evidence-based insights enable individuals and organisations to make sense of these shifts and chart a course throu…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Economist Group"
+      },
+      "id": "5714831294",
+      "location": {
+        "display_name": "India",
+        "area": [
+          "India"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-05-01T02:26:58Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNDgzMTI5NCIsInMiOiJEdm93UXFsVzhSR1dRdkVlMmJUYkx3In0.6HVpq2vFlEsVptMBxvH9A77smC5rUa642Qh9Yb6ao-A",
+      "redirect_url": "https://www.adzuna.in/details/5714831294?utm_medium=api&utm_source=f82dfe0b",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    }
+  ]
+}

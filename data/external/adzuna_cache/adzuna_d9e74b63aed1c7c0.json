@@ -1,0 +1,82 @@
+{
+  "created_at_utc": "2026-05-23T11:20:01.357307+00:00",
+  "country": "in",
+  "results_per_page": 25,
+  "rows": 340,
+  "specs": [
+    {
+      "query": "data scientist",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    },
+    {
+      "query": "data analyst",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    },
+    {
+      "query": "business analyst",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    },
+    {
+      "query": "data engineer",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    },
+    {
+      "query": "machine learning engineer",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    },
+    {
+      "query": "ai engineer",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    },
+    {
+      "query": "nlp engineer",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    },
+    {
+      "query": "business intelligence analyst",
+      "location": "chennai",
+      "pages": 3,
+      "max_days_old": 90,
+      "salary_min": null,
+      "full_time": null,
+      "sort_by": "date"
+    }
+  ],
+  "output_path": "C:\\Users\\admin\\Desktop\\lightcast_flagship_project\\data\\external\\adzuna_jobs.csv",
+  "cache_file": "C:\\Users\\admin\\Desktop\\lightcast_flagship_project\\data\\external\\adzuna_cache\\adzuna_d9e74b63aed1c7c0.csv"
+}

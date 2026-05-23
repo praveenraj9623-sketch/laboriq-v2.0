@@ -1,0 +1,93 @@
+canonical_skill,category,aliases,skill_type,is_emerging_ai_skill
+Python,Programming,python|py,technical,false
+SQL,Programming,sql|structured query language,technical,false
+R,Programming,r programming,technical,false
+Java,Programming,java,technical,false
+Scala,Programming,scala,technical,false
+PySpark,Programming,pyspark|spark python,technical,false
+Bash,Programming,bash|shell scripting,technical,false
+Git,Programming,git|github|version control,technical,false
+APIs,Programming,api|rest api|restful api,technical,false
+Docker,Programming,docker|containerization,technical,false
+Linux,Programming,linux,technical,false
+FastAPI,Programming,fastapi,technical,false
+Streamlit,Programming,streamlit,technical,false
+ETL,Data Engineering,etl|elt|data pipeline,technical,false
+Airflow,Data Engineering,airflow|apache airflow,technical,false
+Spark,Data Engineering,spark|apache spark,technical,false
+Kafka,Data Engineering,kafka|apache kafka,technical,false
+dbt,Data Engineering,dbt,technical,false
+Data Warehousing,Data Engineering,data warehouse|warehouse,technical,false
+BigQuery,Data Engineering,bigquery,technical,false
+Snowflake,Data Engineering,snowflake,technical,false
+Databricks,Data Engineering,databricks,technical,false
+DuckDB,Data Engineering,duckdb,technical,false
+PostgreSQL,Data Engineering,postgresql|postgres,technical,false
+MySQL,Data Engineering,mysql,technical,false
+Statistics,Statistics,statistics|statistical analysis,technical,false
+Probability,Statistics,probability,technical,false
+Hypothesis Testing,Statistics,hypothesis testing|a/b testing|ab testing,technical,false
+Regression Analysis,Statistics,regression analysis|linear regression,technical,false
+Time Series,Statistics,time series,technical,false
+Econometrics,Statistics,econometrics,technical,false
+Bayesian Methods,Statistics,bayesian,technical,false
+Experimental Design,Statistics,experimental design,technical,false
+Causal Inference,Statistics,causal inference,technical,false
+Machine Learning,Machine Learning,machine learning|ml,technical,false
+Classification,Machine Learning,classification,technical,false
+Regression,Machine Learning,regression,technical,false
+Clustering,Machine Learning,clustering,technical,false
+XGBoost,Machine Learning,xgboost,technical,false
+Random Forest,Machine Learning,random forest,technical,false
+LightGBM,Machine Learning,lightgbm,technical,false
+Model Evaluation,Machine Learning,model evaluation|roc auc|f1 score,technical,false
+Feature Engineering,Machine Learning,feature engineering,technical,false
+Scikit-learn,Machine Learning,scikit-learn|sklearn,technical,false
+MLOps,Machine Learning,mlops,technical,false
+SHAP,Machine Learning,shap|explainable ai|model explainability,technical,false
+Natural Language Processing,NLP & GenAI,natural language processing|nlp,technical,false
+Text Classification,NLP & GenAI,text classification,technical,false
+Information Extraction,NLP & GenAI,information extraction,technical,false
+Named Entity Recognition,NLP & GenAI,ner|named entity recognition,technical,false
+Topic Modeling,NLP & GenAI,topic modeling,technical,false
+TF-IDF,NLP & GenAI,tf-idf|tfidf,technical,false
+Sentence Transformers,NLP & GenAI,sentence transformers|embeddings,technical,false
+Vector Database,NLP & GenAI,vector database|faiss|chroma|pinecone,technical,true
+RAG,NLP & GenAI,rag|retrieval augmented generation,technical,true
+LLM,NLP & GenAI,llm|large language model,technical,true
+Prompt Engineering,NLP & GenAI,prompt engineering,technical,true
+LangChain,NLP & GenAI,langchain,technical,true
+LlamaIndex,NLP & GenAI,llamaindex,technical,true
+OpenAI API,NLP & GenAI,openai api,technical,true
+Gemini API,NLP & GenAI,gemini api,technical,true
+Semantic Search,NLP & GenAI,semantic search,technical,true
+Skill Extraction,NLP & GenAI,skill extraction,technical,false
+Occupation Mapping,NLP & GenAI,occupation mapping,technical,false
+Data Visualization,Visualization & BI,data visualization|visualization,technical,false
+Power BI,Visualization & BI,power bi|powerbi,technical,false
+Tableau,Visualization & BI,tableau,technical,false
+Excel,Visualization & BI,excel|microsoft excel,technical,false
+Plotly,Visualization & BI,plotly,technical,false
+Matplotlib,Visualization & BI,matplotlib,technical,false
+Seaborn,Visualization & BI,seaborn,technical,false
+Dashboarding,Visualization & BI,dashboard|dashboarding,technical,false
+KPI Reporting,Visualization & BI,kpi|reporting,technical,false
+AWS,Cloud & Tools,aws|amazon web services,technical,false
+GCP,Cloud & Tools,gcp|google cloud,technical,false
+Azure,Cloud & Tools,azure,technical,false
+Kubernetes,Cloud & Tools,kubernetes|k8s,technical,false
+CI/CD,Cloud & Tools,ci/cd|github actions,technical,false
+Jupyter,Cloud & Tools,jupyter|notebook,technical,false
+VS Code,Cloud & Tools,vs code|visual studio code,technical,false
+Agile,Cloud & Tools,agile|scrum,technical,false
+Jira,Cloud & Tools,jira,technical,false
+Labor Market Analytics,Business & Workforce,labor market|workforce analytics,business,false
+Workforce Planning,Business & Workforce,workforce planning,business,false
+Skills Taxonomy,Business & Workforce,skills taxonomy|skill taxonomy,business,false
+Job Taxonomy,Business & Workforce,job taxonomy|occupation taxonomy,business,false
+Compensation Analytics,Business & Workforce,compensation analytics|salary analysis,business,false
+Stakeholder Communication,Business & Workforce,stakeholder communication,business,false
+Business Recommendations,Business & Workforce,business recommendations|recommendations,business,false
+Future of Work,Business & Workforce,future of work,business,false
+Economic Analysis,Business & Workforce,economic analysis,business,false
+Market Research,Business & Workforce,market research,business,false

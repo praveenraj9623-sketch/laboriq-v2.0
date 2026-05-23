@@ -1,0 +1,75 @@
+{
+  "role_classifier": {
+    "accuracy": 0.7462,
+    "macro_f1": 0.742,
+    "weighted_f1": 0.7565,
+    "classification_report": {
+      "AI Engineer": {
+        "precision": 0.8947368421052632,
+        "recall": 0.5862068965517241,
+        "f1-score": 0.7083333333333334,
+        "support": 58.0
+      },
+      "Business Analyst": {
+        "precision": 0.43636363636363634,
+        "recall": 0.7741935483870968,
+        "f1-score": 0.5581395348837209,
+        "support": 31.0
+      },
+      "Data Analyst": {
+        "precision": 0.8803418803418803,
+        "recall": 0.7410071942446043,
+        "f1-score": 0.8046875,
+        "support": 139.0
+      },
+      "Data Engineer": {
+        "precision": 0.8333333333333334,
+        "recall": 0.7894736842105263,
+        "f1-score": 0.8108108108108109,
+        "support": 57.0
+      },
+      "Data Scientist": {
+        "precision": 0.6904761904761905,
+        "recall": 0.8529411764705882,
+        "f1-score": 0.7631578947368421,
+        "support": 34.0
+      },
+      "ML Engineer": {
+        "precision": 0.5245901639344263,
+        "recall": 0.8648648648648649,
+        "f1-score": 0.6530612244897959,
+        "support": 37.0
+      },
+      "NLP Engineer": {
+        "precision": 1.0,
+        "recall": 0.7391304347826086,
+        "f1-score": 0.85,
+        "support": 23.0
+      },
+      "Research Analyst": {
+        "precision": 0.9285714285714286,
+        "recall": 0.6842105263157895,
+        "f1-score": 0.7878787878787878,
+        "support": 19.0
+      },
+      "accuracy": 0.7462311557788944,
+      "macro avg": {
+        "precision": 0.7735516843907698,
+        "recall": 0.7540035407284753,
+        "f1-score": 0.7420086357666614,
+        "support": 398.0
+      },
+      "weighted avg": {
+        "precision": 0.8010512930188963,
+        "recall": 0.7462311557788944,
+        "f1-score": 0.7564918802206457,
+        "support": 398.0
+      }
+    }
+  },
+  "salary_model": {
+    "mae_lpa": 4.5371,
+    "r2": 0.4107,
+    "prediction_note": "Salary model is a portfolio baseline. Use larger real data before business deployment."
+  }
+}

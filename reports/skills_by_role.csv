@@ -1,0 +1,121 @@
+role_label,skill,mentions
+AI Engineer,Python,163
+AI Engineer,LangChain,133
+AI Engineer,APIs,132
+AI Engineer,RAG,130
+AI Engineer,Stakeholder Communication,127
+AI Engineer,Labor Market Analytics,127
+AI Engineer,Future of Work,127
+AI Engineer,Business Recommendations,127
+AI Engineer,Prompt Engineering,126
+AI Engineer,LLM,124
+AI Engineer,Vector Database,103
+AI Engineer,Machine Learning,93
+AI Engineer,OpenAI API,75
+AI Engineer,SQL,71
+AI Engineer,Gemini API,71
+Business Analyst,Python,17
+Business Analyst,KPI Reporting,11
+Business Analyst,Azure,8
+Business Analyst,Java,6
+Business Analyst,SQL,5
+Business Analyst,APIs,5
+Business Analyst,Data Visualization,4
+Business Analyst,Agile,4
+Business Analyst,MySQL,3
+Business Analyst,PostgreSQL,3
+Business Analyst,AWS,3
+Business Analyst,Kubernetes,2
+Business Analyst,GCP,2
+Business Analyst,Data Warehousing,2
+Business Analyst,ETL,2
+Data Analyst,SQL,420
+Data Analyst,KPI Reporting,148
+Data Analyst,Excel,147
+Data Analyst,APIs,133
+Data Analyst,Power BI,129
+Data Analyst,Python,119
+Data Analyst,Data Visualization,112
+Data Analyst,Future of Work,94
+Data Analyst,Business Recommendations,94
+Data Analyst,Labor Market Analytics,94
+Data Analyst,Stakeholder Communication,94
+Data Analyst,Tableau,93
+Data Analyst,Java,74
+Data Analyst,Statistics,74
+Data Analyst,AWS,63
+Data Engineer,Python,137
+Data Engineer,ETL,107
+Data Engineer,Spark,106
+Data Engineer,SQL,79
+Data Engineer,Airflow,73
+Data Engineer,AWS,68
+Data Engineer,Data Warehousing,66
+Data Engineer,Scala,57
+Data Engineer,PySpark,56
+Data Engineer,Azure,49
+Data Engineer,GCP,47
+Data Engineer,Kafka,44
+Data Engineer,APIs,39
+Data Engineer,Java,38
+Data Engineer,Databricks,31
+Data Scientist,Machine Learning,113
+Data Scientist,Python,70
+Data Scientist,SQL,34
+Data Scientist,Natural Language Processing,32
+Data Scientist,Scikit-learn,30
+Data Scientist,Statistics,28
+Data Scientist,Data Visualization,24
+Data Scientist,Model Evaluation,24
+Data Scientist,Labor Market Analytics,22
+Data Scientist,Future of Work,22
+Data Scientist,Business Recommendations,22
+Data Scientist,Stakeholder Communication,22
+Data Scientist,APIs,18
+Data Scientist,LLM,16
+Data Scientist,Azure,15
+ML Engineer,APIs,96
+ML Engineer,Python,94
+ML Engineer,Docker,76
+ML Engineer,AWS,56
+ML Engineer,Kubernetes,47
+ML Engineer,Azure,47
+ML Engineer,Machine Learning,46
+ML Engineer,CI/CD,43
+ML Engineer,Java,40
+ML Engineer,MLOps,35
+ML Engineer,GCP,34
+ML Engineer,Scikit-learn,30
+ML Engineer,Model Evaluation,28
+ML Engineer,Future of Work,28
+ML Engineer,Business Recommendations,28
+NLP Engineer,Python,81
+NLP Engineer,LLM,80
+NLP Engineer,Natural Language Processing,79
+NLP Engineer,RAG,78
+NLP Engineer,Future of Work,75
+NLP Engineer,Business Recommendations,75
+NLP Engineer,Stakeholder Communication,75
+NLP Engineer,Labor Market Analytics,75
+NLP Engineer,Semantic Search,75
+NLP Engineer,Information Extraction,74
+NLP Engineer,Sentence Transformers,74
+NLP Engineer,APIs,54
+NLP Engineer,Vector Database,39
+NLP Engineer,Gemini API,34
+NLP Engineer,Prompt Engineering,33
+Research Analyst,Statistics,46
+Research Analyst,Labor Market Analytics,46
+Research Analyst,Economic Analysis,46
+Research Analyst,Econometrics,46
+Research Analyst,Business Recommendations,46
+Research Analyst,Data Visualization,46
+Research Analyst,Market Research,46
+Research Analyst,Stakeholder Communication,46
+Research Analyst,Future of Work,46
+Research Analyst,SQL,46
+Research Analyst,APIs,26
+Research Analyst,Prompt Engineering,23
+Research Analyst,Scikit-learn,19
+Research Analyst,ETL,19
+Research Analyst,Python,18

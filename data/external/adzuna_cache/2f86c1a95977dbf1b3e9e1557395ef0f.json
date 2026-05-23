@@ -1,0 +1,737 @@
+{
+  "results": [
+    {
+      "description": "Designation: Business Analyst I/ II – Business Finance Qualification : Graduation – Bachelors in technology from Any Tier I College Core Areas : Analytics, Automation and Problem Solving, SQL, Advanced Excel, Dashboarding, Reporting Our Story Founded in 2021 by Aadit Palicha and Kaivalya Vohra, Zepto is on a mission to save you time —making every second count towards life's real joys. Our platform has revolutionised rapid commerce in India with cutting-edge technology and strategically optimise…",
+      "created": "2026-05-07T16:25:44Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzIxNTY4NzE0In0.GWOzVL3mtEwGmDly8IY6CAwQEX2Mhesh-8QuKdgE-64",
+      "redirect_url": "https://www.adzuna.in/land/ad/5721568714?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=35A8AEC4B32DA053AEBB1DFAB2F8C3601F3C0D1E",
+      "company": {
+        "display_name": "Zepto",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Analyst – Business Finance",
+      "salary_is_predicted": "0",
+      "id": "5721568714",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ]
+      },
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMDAwOTY4MiIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.qSvyi0by4Pszk8foc49ZaRV61qAaFlC-nVQp72lu_N8",
+      "created": "2026-05-15T09:19:17Z",
+      "description": "SAP SD skilled IT Lead Analyst Lead Analyst for SAP SD One focused in logistic, the other in Customer experience / CRM SAP SD Business Analyst, SAP S/4HANA & ERP Management:, Software Design & Architecture, Data Analysis & Visualization, manage the Software Development Lifecycle (SDLC).",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "India",
+        "area": [
+          "India"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5730009682",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "SAP Business Analyst",
+      "company": {
+        "display_name": "RED Global",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5730009682?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=3A60304CE71D7DA9D44420237B4889FACD0673B0"
+    },
+    {
+      "description": "Greetings from TCS TCS is hiring for Siebel CRM Business Analyst Role Exp: 7 to 12 years Location: Hyderabad, Bengaluru, Mumbai Siebel CRM, Siebel Configuration, Siebel EAI, Siebel Development Strong Siebel CRM Functional Knowledge 2. Strong Telecom processes 3. Good in mapping the business requirements to Siebel CRM out of the box vanilla processes 4. Good in communication and able to manage the business team 5. Good in providing the workaround solutions for the critical requirements where van…",
+      "created": "2026-05-23T17:56:40Z",
+      "latitude": 17.40275,
+      "longitude": 78.50806,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczODc4OTAyNyIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.gIsYUgcHjR4-L9r48HvdKmyxdxv-T0l-5xNBtitw9eE",
+      "company": {
+        "display_name": "Tata Consultancy Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5738789027?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=B3AA5714019687A7274102864EC7BDD4DC557981",
+      "title": "Siebel CRM Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5738789027",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "id": "5730011639",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5730011639?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=5B867BEB054EAB2B3259F86BD892C413F0B4DA02",
+      "company": {
+        "display_name": "Mareana",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "ERP/SAP Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzMwMDExNjM5In0.L75rhuOh2xvPuttV62AsqjXLpUFvxE2XBT35AqspE0E",
+      "description": "ERP/SAP Business Analyst Bangalore / Full-Time Job Description Mareana is looking for experienced Business Analyst with a strong data analytics background in Supply Chain Domain and willing to learn new technologies. This role is responsible for developing and enhancing Mareana’s products in supply chain, manufacturing, and unstructured data. What You'll Do Work with customers/SME to understand business processes, brainstorm the functional solution. Discuss with domain SME’s and formulate solut…",
+      "created": "2026-05-15T09:21:44Z"
+    },
+    {
+      "longitude": 77.100203,
+      "latitude": 11.017171,
+      "created": "2026-05-17T15:41:47Z",
+      "description": "As a Senior Accounting Business Analyst, we expect you to collaborate directly with client accounting teams including Controllers, Finance Directors, and CFOs to unlock requirements, optimize processes, and translate business needs into powerful system functionality. You’ll be at the heart of helping insurance organizations modernize how they operate across accounting, billing, payments, and financial reporting. An ideal candidate would have extensive insurance and accounting expertise. If you’…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzMyMzE5ODc4In0.Ixr9dTk2lkXvEQZAjWJbvXcqjkw7rot0lk8t58uTBLs",
+      "redirect_url": "https://www.adzuna.in/land/ad/5732319878?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=56986CC61F6A943B39C1BE524AD5EC295A6523FD",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sikich India"
+      },
+      "title": "Senior Accounting Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5732319878",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Coimbatore, Tamil Nadu",
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Coimbatore"
+        ]
+      }
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mizuho"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5733976576?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=4A73F79096A204250DB70E5A19D0BFC4B400379E",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Analyst - Trade Finance",
+      "id": "5733976576",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Chennai, Tamil Nadu",
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Chennai"
+        ]
+      },
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "created": "2026-05-19T17:29:04Z",
+      "description": "Mizuho Global Services Pvt Ltd (MGS) is a subsidiary company of Mizuho Bank, Ltd, which is one of the largest banks or so called ‘Mega Banks’ of Japan. MGS was established in the year 2020 as part of Mizuho’s long-term strategy of creating a captive global processing center for remotely handling banking and IT related operations of Mizuho Bank’s domestic and overseas offices and Mizuho’s group companies across the globe. At Mizuho we are committed to a culture that is driven by ethical values a…",
+      "latitude": 13.06041,
+      "longitude": 80.24963,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzMzOTc2NTc2In0.kq5xyMvruyZvPgp80c7hycpCSDeBDEc9pQsQqd-C38o"
+    },
+    {
+      "title": "D365 CRM Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5724823968?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=1BAF01B1E3FD18597011394D8F2175F009237D65",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "LTM"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5724823968",
+      "salary_is_predicted": "0",
+      "description": "Role - Business Analyst Experience -8-14 Years relevant Location- PAN India LTIM locations Job Description • Experience must include creating requirement specifications based on Architecture/Design/Detailing of Processes In-depth functional knowledge of Microsoft Dynamics D365 CRM Power platform • Microsoft D365 implementation and Azure integration experience • Possess both functional and technical expertise • Business analysis and process engineering skills a plus • Experience reviewing busine…",
+      "created": "2026-05-10T08:50:22Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI0ODIzOTY4In0.0cGDpu__ItnqT0_YknYfF8BPkughj5tlvVw-NGF6ST8"
+    },
+    {
+      "company": {
+        "display_name": "MSC TECHNOLOGY INDIA",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5721566334?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=020C2EED8766F5D35437D5826C9151D225F8713E",
+      "title": "Business Analyst - CRM Sales",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5721566334",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Chennai"
+        ],
+        "display_name": "Chennai, Tamil Nadu",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Role: Business Analyst / Consultant / Techno-Functional Consultant in CRM Domain Tools & Technologies: Microsoft Dynamics 365 Sales Power Platform: Power Automate, Power BI, Power Apps Administrator Level Access on Dataverse Skills & Knowledge: CRM Expertise: Experience with CRM software (e.g., Salesforce, Microsoft Dynamics) Understanding of basic CRM Sales modules, best practices, and functionality Dynamics 365, PowerApps & Power Platform: In-depth knowledge of Dynamics 365 Sales Proficiency …",
+      "created": "2026-05-07T16:21:38Z",
+      "latitude": 13.06041,
+      "longitude": 80.24963,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMTU2NjMzNCIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.i8O0x2hwSeHZqPzvdfhh6wwVdOcDduT4uDhWlxO9JrY"
+    },
+    {
+      "id": "5681943934",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "display_name": "Bangalore, Karnataka"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5681943934?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=6394EF8D426D8E35CF2A151F2A30E55D2882AA21",
+      "company": {
+        "display_name": "Tata Consultancy Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Oracle Siebel CRM Business Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NjgxOTQzOTM0In0.Aham_8atNyQiIjs981Dhr-JTr9jGSJB54ISV38yHbyk",
+      "created": "2026-03-29T09:55:47Z",
+      "description": "Role - Oracle Siebel CRM Business Analyst Location - Bangalore ,Hyderabad , Mumbai Experience - 7 to 12 years Job Requirements 1. Strong Siebel CRM Functional Knowledge 2. Strong Telecom processes 3. Good in mapping the business requirements to Siebel CRM out of the box vanilla processes 4. Good in communication and able to manage the business team 5. Good in providing the workaround solutions for the critical requirements where vanilla process are NOT fit 6. Strong in creating business require…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Senior Business Analyst - Trade Finance",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Newgen Software"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5721565470?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=F25EDF0161C637C2030506AFE6C9618F1FC04695",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Noida, Ghaziabad",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5721565470",
+      "salary_is_predicted": "0",
+      "created": "2026-05-07T16:19:58Z",
+      "description": "Senior Domain Lead – Trade Finance (Centre of Excellence) Experience 8–10 years of relevant experience in Trade Finance Role Overview Newgen is looking for a senior Trade Finance professional to join its Centre of Excellence (CoE) . This role will drive the Trade Finance product vision and roadmap , bring AI‑led transformation into trade processes, and ensure Newgen’s solutions stay functionally rich, compliant, and ahead of competition . The role is hands‑on across product strategy, demos, POC…",
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzIxNTY1NDcwIn0.4uFR7FCpik9S-jb-v_M3CuNCCqh-asFxQjjbFCpGpfE"
+    },
+    {
+      "location": {
+        "display_name": "Mumbai, Maharashtra",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "id": "5733975618",
+      "title": "Senior Business Analyst (Oracle HCM Cloud)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Luxoft India"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5733975618?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=87DB5E5AE3DD25D7C885A6326812AAD6998574C5",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMzk3NTYxOCIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.ny-MdjoXCpLuPopa3gJLYAxQGk4GYPOHJyD8M5JrNf0",
+      "description": "Project Description: Project team responsible for delivering HR solutions for CIB across AMER, EMEA and APAC. This includes development and maintenance of IT systems which are internally developed, vendor supplied on premise or SaaS products. These cover all HR processes including HR Onboarding and maintaining the employee data. Platform responsible for Employee Journey - Onboarding, Leaves, Allowance, documentation, letter distribution, Exit, capturing audit trails and being golden source for …",
+      "created": "2026-05-19T17:26:22Z"
+    },
+    {
+      "created": "2026-05-14T15:12:15Z",
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI5MDY0NjI0In0.m4Zg0WJn1UVnTyfoyXMtomiOw9_KvDphF_OMtiH4Bj0",
+      "redirect_url": "https://www.adzuna.in/land/ad/5729064624?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=2EE5E96A08C7F345A353A21DE4E093265411E349",
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Remote Business Analyst (Economics/Finance) - 78765",
+      "id": "5729064624",
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "title": "Remote Business Analyst (Economics/Finance) - 78765",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5729064878?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=04D59FF9AAE20127C65D974A8656A2A853B561AD",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Turing"
+      },
+      "contract_type": "contract",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hyderabad, Telangana",
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5729064878",
+      "salary_is_predicted": "0",
+      "created": "2026-05-14T15:12:28Z",
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "longitude": 78.50806,
+      "latitude": 17.40275,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI5MDY0ODc4In0.lDfKJI9JahuQfTcMX2_wqJZnqdrvwq5sE5K6GcEMO1w"
+    },
+    {
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5729067118?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=D95EF67C6BFF4CF21D2F9EAC07A719FD70C08796",
+      "title": "Remote Business Analyst (Economics/Finance) - 78765",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5729067118",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ],
+        "display_name": "Mumbai, Maharashtra"
+      },
+      "contract_type": "contract",
+      "longitude": 72.84415,
+      "latitude": 19.00821,
+      "created": "2026-05-14T15:13:52Z",
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyOTA2NzExOCIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.oL0CqSFhzeNdVC3MTij1yDe0K3gAnbxxGLZLLTGi0vc"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyOTA2NzY5MyIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.Qb7auB_Afel9wU_tr009idE0W9UtzJPaRKttf38PKY0",
+      "created": "2026-05-14T15:14:48Z",
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "longitude": 80.24963,
+      "latitude": 13.06041,
+      "id": "5729067693",
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "location": {
+        "display_name": "Chennai, Tamil Nadu",
+        "area": [
+          "India",
+          "Tamil Nadu",
+          "Chennai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5729067693?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=28E2CAC6D5A3BB77C4E2C66E1A1E30F208AA8C0E",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Turing"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Remote Business Analyst (Economics/Finance) - 78765"
+    },
+    {
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "created": "2026-05-14T15:14:47Z",
+      "latitude": 28.56579,
+      "longitude": 77.3225,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyOTA2NzY3NSIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.9xJyrCH3mfL8GqD9nmyTaVtO36YQa7cayT1gcOvxSUA",
+      "title": "Remote Business Analyst (Economics/Finance) - 78765",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Turing"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5729067675?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=90AE6986A2CB3F36129E4B92D7F826FC08E152F0",
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Uttar Pradesh",
+          "Ghaziabad",
+          "Noida"
+        ],
+        "display_name": "Noida, Ghaziabad"
+      },
+      "id": "5729067675",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "id": "5729067467",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Delhi, India",
+        "area": [
+          "India",
+          "Delhi"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5729067467?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=0E45E55005088F08804D6B12915575910C0099C4",
+      "title": "Remote Business Analyst (Economics/Finance) - 78765",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI5MDY3NDY3In0.5hdp-_qR7z0zHUtsKwWRRi4EXo7JpWyCX6rOkCwuI04",
+      "latitude": 28.62523,
+      "longitude": 77.224601,
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "created": "2026-05-14T15:14:29Z"
+    },
+    {
+      "contract_type": "contract",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "Kolkata, West Bengal",
+        "area": [
+          "India",
+          "West Bengal",
+          "Kolkata"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5729067660",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Remote Business Analyst (Economics/Finance) - 78765",
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5729067660?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=F8BBB8801C676667AFA6F659BFAA7DC43EB6DF60",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyOTA2NzY2MCIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0._H68pnBqyOVaQY6a8t1QAMwBgQQJ9E2uLXMZ7XHtYU4",
+      "created": "2026-05-14T15:14:46Z",
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "longitude": 88.34373,
+      "latitude": 22.57285
+    },
+    {
+      "title": "Remote Business Analyst (Economics/Finance) - 78765",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5729066975?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=86263607DA8E639331DB318841CE25DCC39E1A0F",
+      "company": {
+        "display_name": "Turing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "contract",
+      "location": {
+        "area": [
+          "India"
+        ],
+        "display_name": "India",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5729066975",
+      "salary_is_predicted": "0",
+      "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+      "created": "2026-05-14T15:13:43Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI5MDY2OTc1In0.FyaR21uK4pfa9HZcRCUbj7v7WnZGSG1TFyoxehIYt_s"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzI0ODI2MDY1In0.n7gsEK2aqj0ZGyt3i7PlkjHTQqidswhmXCNSXvMxm9Q",
+      "longitude": 72.84415,
+      "latitude": 19.00821,
+      "created": "2026-05-10T08:52:32Z",
+      "description": "SME/BA - Commercial Lending - 6 to 12 Years - Mumbai/Chennai We are looking for a detail-oriented and strategic Commercial/SME-MSME Lending, Subject Matter Expert/Business Analyst to join our team. The successful candidate will play a vital role in analysing business processes, identifying opportunities for improvement, and supporting the development and implementation of Commercial/SME-MSME lending solutions. This position requires strong analytical skills, industry knowledge, and the ability …",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ],
+        "display_name": "Mumbai, Maharashtra",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5724826065",
+      "title": "Subject Matter Expert / Business Analyst - Commercial Lending",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Intellect Design Arena Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5724826065?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=2FB0BB02B2B7ECE7A08C37E049707CCAF75703A4"
+    },
+    {
+      "longitude": 72.84415,
+      "latitude": 19.00821,
+      "created": "2026-04-30T14:52:25Z",
+      "description": "Who We Are At Network Solutions, we’ve been trusted for decades to help people get online and stay ahead. We’ve been here since the beginning of the internet, and we’re still building for what comes next. As the original digital identity authority, we help secure domain names, protect brands, and safeguard the infrastructure businesses rely on. We empower our customers to own and manage the assets that define them online, while delivering enterprise-grade security to protect against virtual thr…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzE0NDI5NTUxIn0.9bsKA9gsy9PsjidWVb-AOPWW9wp0WvozmfJ5xY2PjoQ",
+      "redirect_url": "https://www.adzuna.in/land/ad/5714429551?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=6CBB2AEAFD7CA8123BC81D09107C067E8370FC36",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Newfold Digital"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Business Intelligence Analyst",
+      "salary_is_predicted": "0",
+      "id": "5714429551",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "Mumbai, Maharashtra",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Mumbai"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "id": "5736367850",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ]
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "display_name": "Luxoft India",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5736367850?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=273F189A5FB4A9365FBCF41E7534CDF1E2A374CD",
+      "title": "Senior Business Analyst (Capital Market/Financial Products is Mandatory)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUtwSHg2dFc4UkdURGRKSy03Y0w2dyIsImkiOiI1NzM2MzY3ODUwIn0.qj4WJVVaEf-nOv1ukIFgrPusWPpVnYM92VgNxMhXggY",
+      "description": "Project Description: The role sits in the Trade Management team focusing on the build out of the in-house strategic cross asset risk platform: SABRE which is the bank's strategic platform for trade processing, valuation and market. It consists in designing and delivering solutions to the users of this platform with an initial focus onboarding new products, driving enhancement solutions, planning project timelines and working with multiple stakeholders such as users and developers to achieve des…",
+      "created": "2026-05-21T17:32:49Z"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bangalore, Karnataka",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "id": "5728103711",
+      "title": "TLM Technical Business Analyst with TLM configuration exp also(Max 60 days notice period)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.in/land/ad/5728103711?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=988667B214A4FDE828D0794CA3F61E3013ED45B9",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Luxoft"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyODEwMzcxMSIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.jwMz2Er_i_uJUohKNwieNHSSws8WMFYk9BLmNhkAVqM",
+      "created": "2026-05-13T18:59:48Z",
+      "description": "Role : Technical Business Analyst - SmartStream's TLM Reconciliations Experience Level: 8 years overall with 5 years exp in FM product lines - Equities/Derivatives and prior Technical Business Analyst exp Location : Bangalore (work from client office) Notice period: 15 days to 60 days max Mandate SKill : • Total 8 years out of which 5 years into FM/Banking Experience • Strong business knowledge of FM product lines - Equities/Derivatives. • SmartStream's TLM Reconciliations configuration exp • R…"
+    },
+    {
+      "longitude": 78.50806,
+      "latitude": 17.40275,
+      "created": "2026-05-09T18:31:15Z",
+      "description": "Project description This role focuses on Workday Business and Systems Analysis Responsibilities Work on Operational items like Incidents, requests, upgrades etc., Work on Enhancements, Projects etc., Support On-Call Work experience on Workday Supply Chain Modules (functional) Work experience on FINSCM Integrations (EIB and STUDIO) Work experience on creating Studio integrations is a must Knowledge on Supply Chain and Finance ancillary applications like GHX Marketplace, Axiom, Strata, Banking ap…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNDIyNjUxOCIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0.qP4wjtESUwTT-pdaemL4pcKl8JjzfYCcD2DlItKCVe4",
+      "title": "Workday Business/System Analyst (FINSCM Integrations)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Luxoft",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5724226518?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=D1BD19D25583FC68740EF2294F4A97ADD734CC2A",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": [
+          "India",
+          "Telangana",
+          "Hyderabad"
+        ],
+        "display_name": "Hyderabad, Telangana",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "id": "5724226518"
+    },
+    {
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "id": "5733641168",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India"
+        ],
+        "display_name": "India"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.in/land/ad/5733641168?se=YKpHx6tW8RGTDdJK-7cL6w&utm_medium=api&utm_source=f82dfe0b&v=492CDECDB870BE7A4D81F58B9826F3AEBA6C3F55",
+      "company": {
+        "display_name": "BENDITO SOFT TECH PVT LTD",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Project Manager (Integrations & Data Migration)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMzY0MTE2OCIsInMiOiJZS3BIeDZ0VzhSR1REZEpLLTdjTDZ3In0._KsVoc_-Vlsa5t0ZRkYQKCTxYSTfDFWiK42H08S01jI",
+      "description": " We’re Hiring: Business Analyst – Project Manager (Integrations & Data Migration) We’re looking for a dynamic Business Analyst / Project Manager to lead impactful HCM integration and data migration projects in a fully remote environment. ✨ What You’ll Work On ✔ HCM Integrations & Data Migrations ✔ Client Discovery & Requirement Gathering ✔ API & System Connectivity Coordination ✔ Agile Project Delivery ✔ Cross-functional Collaboration with Engineering Teams  Preferred Experience • Workday, ADP,…",
+      "created": "2026-05-19T07:15:39Z"
+    }
+  ]
+}

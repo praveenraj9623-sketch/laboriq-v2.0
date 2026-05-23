@@ -1,0 +1,368 @@
+location,postings,companies,avg_salary_lpa
+Hyderabad,113,48,14.55
+Pune,103,56,15.6
+Bengaluru,93,64,17.21
+Chennai,81,45,14.1
+Noida,69,35,15.46
+Remote,58,49,15.77
+Coimbatore,56,15,14.53
+"Bangalore, Karnataka",51,46,
+Remote India,41,10,15.79
+Mumbai,41,17,16.7
+Bangalore,40,10,15.19
+India,37,33,5.0
+Gurugram,37,36,13.22
+Gurgaon,35,10,15.4
+Delhi Ncr,35,10,18.71
+"Hyderabad, Chennai, Bengaluru",30,12,10.33
+"Hyderabad, Telangana",29,24,
+Hybrid - Bengaluru,29,24,21.49
+Hybrid - Hyderabad,20,12,15.44
+Hybrid - Pune,18,14,21.29
+"Mumbai, Maharashtra",14,13,
+Hybrid - Chennai,12,9,23.23
+Ahmedabad,12,11,12.78
+"Chennai, Bengaluru",9,7,18.06
+"Hybrid - Hyderabad, Chennai, Bengaluru",9,9,19.72
+"Chennai, Tamil Nadu",9,8,
+"Noida, Ghaziabad",9,9,
+"Hyderabad, Pune, Bengaluru",8,8,17.28
+"Hyderabad, Bengaluru",8,7,14.27
+Navi Mumbai,7,7,7.66
+Hybrid - Gurugram,6,6,21.17
+Vadodara,6,5,23.03
+"Hybrid - Pune, Chennai, Bengaluru",5,5,21.35
+"Pune, Bengaluru",5,5,18.3
+Mysuru,4,3,19.81
+Vijayapura,4,3,22.19
+"Hybrid - Noida, Pune, Bengaluru",4,3,15.56
+Kochi,4,4,9.81
+Narayanpet,4,3,21.25
+Jaipur,4,4,5.09
+Bidar,4,3,22.19
+"Hyderabad, Bengaluru, Mumbai (All Areas)",4,4,20.63
+"Hybrid - Bengaluru, Mumbai (All Areas)",4,3,18.5
+"Pune, Chennai, Bengaluru",4,4,20.63
+Thane,4,4,12.81
+"Kochi, Ernakulam",3,3,
+Hybrid - Indapur,3,1,16.33
+"Gandhinagar, Ahmedabad",3,2,3.83
+"Delhi, India",3,3,
+Nalgonda,3,3,21.25
+Hybrid - Junnar,3,2,19.17
+Hybrid - Medak,3,2,18.33
+Gandhinagar,3,3,14.67
+"Hybrid - Noida, Hyderabad, Bengaluru",3,3,11.42
+Udupi,3,3,15.38
+"Mumbai, Bengaluru",3,3,12.17
+Davangere,3,3,23.33
+Greater Noida,3,2,14.92
+"Ahmedabad, Gujarat",3,3,
+"Thane, Navi Mumbai, Mumbai (All Areas)",3,3,27.92
+Hyderabad(Madhapur),3,3,5.33
+"Pune, Maharashtra",3,3,
+"Pune, Bengaluru, Mumbai (All Areas)",2,2,11.75
+Hybrid - Ambegaon,2,1,17.5
+"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",2,1,30.0
+Mangaluru,2,2,13.13
+"Hyderabad, Chennai",2,2,15.0
+Kolkata,2,2,6.38
+Mahabubnagar,2,2,20.0
+Hybrid - Velhe,2,1,16.25
+"Hybrid - Noida, Gurugram, Delhi / Ncr",2,1,16.0
+Chamarajanagar,2,1,21.88
+Khammam,2,2,20.0
+Hybrid - Mawal,2,1,17.0
+Bengaluru(Kadubeesanahalli +1),2,2,43.75
+Karimnagar,2,2,20.0
+Mancherial,2,1,16.88
+"Hybrid - Pune, Bengaluru",2,2,16.38
+Noida(Sector 63A),2,2,3.0
+Hybrid - Bengaluru(Marathahalli),2,2,15.25
+Hybrid - Kolkata,2,2,25.0
+Bagalkot,2,2,19.38
+Hybrid - Purandhar,2,2,18.75
+"Hybrid - Kolkata, Hyderabad, Delhi / Ncr",2,2,26.5
+"Pune, Gurugram, Bengaluru",2,2,17.63
+Hybrid - Nagarkurnool,2,2,17.5
+Hybrid - Tiruppur,2,1,3.88
+"Udupi, Mayiladuthurai, Erode",2,1,7.0
+Adilabad,2,2,22.5
+Kamareddy,2,2,22.5
+Pune(Kharadi +2),2,2,4.69
+Jangaon,2,2,22.5
+"Bengaluru, Delhi / Ncr, Mumbai (All Areas)",2,2,9.75
+Shimoga,2,2,21.88
+Nagarkurnool,2,2,22.5
+Hybrid - Mulshi,2,2,15.0
+Kothagudem,2,2,22.5
+Hybrid - Bengaluru(Bellandur),2,2,37.5
+Pune(Viman Nagar),2,2,16.25
+Bengaluru(Jp Nagar),2,2,14.25
+Hybrid - Kheda,2,1,17.5
+Nashik,2,1,4.5
+Halol,2,1,4.5
+Hybrid - Pimpri-Chinchwad,2,2,18.75
+"Hybrid - Hyderabad, Pune, Delhi / Ncr",2,2,43.13
+"Chennai, Thiruvananthapuram",2,2,6.63
+Nagpur,2,2,9.44
+Mohali,2,2,14.25
+Medak,2,1,21.88
+Bangalore Rural,2,2,12.85
+Jagtial,2,2,19.38
+Hybrid - Karimnagar,2,2,17.5
+Daund,2,2,19.38
+"Kolkata, West Bengal",2,1,
+"Noida, Gurugram",2,2,8.5
+Agra,2,2,4.85
+Hybrid - Daund,2,1,14.5
+Pune(Koregaon Park),1,1,3.3
+Kolhapur,1,1,3.5
+Hybrid - Coimbatore,1,1,10.0
+"Puducherry, Chennai, Bengaluru",1,1,12.5
+"Hybrid - Kolkata, Hyderabad, Bengaluru",1,1,22.75
+"Hybrid - Kolkata, Hyderabad, Pune, Ahmedabad, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",1,1,15.0
+Sirhind Fatehgarh Sahib,1,1,5.5
+"Mumbai, Mumbai Suburban, Mumbai (All Areas)",1,1,1.5
+"Hosur, Bengaluru",1,1,5.5
+"Mumbai(Malad), Mumbai (All Areas)",1,1,7.75
+"Hybrid - Chandigarh, Pune, Chennai",1,1,30.0
+"Noida, Greater Noida, Delhi / Ncr",1,1,5.5
+Hybrid - Bengaluru(Bagmane Tech Park),1,1,18.75
+Ludhiana(Model Town),1,1,3.6
+Chennai(Guindy),1,1,12.0
+"Kerala, India",1,1,
+Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),1,1,22.5
+"Mumbai(Andheri East +1), Mumbai Suburban",1,1,5.0
+Bengaluru(Bellandur),1,1,6.25
+Bengaluru(Ramanagara +4),1,1,14.0
+Hyderabad(Mind Space),1,1,1.38
+Hybrid - Narayanpet,1,1,15.0
+Bengaluru(Kengeri),1,1,4.5
+"Hybrid - Hyderabad, Pune, Bengaluru",1,1,11.25
+Haveri,1,1,25.0
+Mumbai(Prabhadevi),1,1,37.5
+"New Delhi, Faridabad, Gurgaon/Gurugram",1,1,6.25
+"Kolkata, Hyderabad, Pune, Chennai, Bengaluru, Delhi / Ncr",1,1,32.5
+Hybrid - Bhor,1,1,14.0
+"Noida, Delhi / Ncr",1,1,12.5
+"Hybrid - Gurugram, Bengaluru",1,1,20.0
+"Noida, Hyderabad, Bengaluru",1,1,11.0
+"Bengaluru, Delhi / Ncr",1,1,27.5
+"Hybrid - Kochi, Ernakulam, Aluva",1,1,22.25
+"Mohali, Chandigarh",1,1,11.0
+Gurugram(Sector 26 +1),1,1,6.75
+"Hyderabad, Bengaluru, Delhi / Ncr",1,1,17.5
+"Hybrid - Noida, Hyderabad, Pune",1,1,42.5
+"Hyderabad, Pune",1,1,12.5
+Hybrid - Thane,1,1,2.75
+"Kanpur, Lucknow",1,1,2.5
+"Hybrid - Gurugram, Chennai, Bengaluru",1,1,22.75
+"Bengaluru, Mumbai (All Areas)",1,1,8.5
+Chirala,1,1,22.5
+Hyderabad(Kondapur),1,1,2.1
+"Hybrid - Pune, Gurugram, Bengaluru",1,1,17.0
+Gurugram(Sector 48),1,1,3.6
+Patiala,1,1,1.63
+Chennai(Saidapet +14),1,1,6.5
+"Hybrid - Hyderabad, Chennai, Coimbatore",1,1,35.0
+"Pune, Chennai",1,1,7.5
+Ernakulam,1,1,2.75
+"Kochi, Thiruvananthapuram",1,1,22.5
+"Hybrid - Indore, Pune",1,1,28.75
+"Mumbai Suburban, Mumbai (All Areas)",1,1,4.5
+"Bangalore Rural, Bengaluru(Kengeri)",1,1,6.5
+"Mumbai(Goregaon), Goregaon",1,1,2.75
+"Nashik, Pune, Aurangabad",1,1,3.0
+Ahmedabad(Bopal),1,1,3.9
+"Hybrid - Noida, Pune, Bangalore Rural",1,1,27.5
+Pune(Sadashiv Peth),1,1,2.1
+Palwal,1,1,4.5
+"Hybrid - Noida, Pune, Gurugram",1,1,15.0
+Ludhiana,1,1,10.2
+"Gandhinagar, Chennai",1,1,15.0
+"Karnataka, India",1,1,
+Visakhapatnam,1,1,6.25
+Velhe,1,1,20.0
+"Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",1,1,13.0
+"Ambattur, Chennai",1,1,15.0
+"Hybrid - Bangalore Rural, Bengaluru",1,1,19.5
+"Hyderabad, Mumbai (All Areas)",1,1,4.25
+"Hybrid - Hyderabad, Chennai",1,1,20.0
+"Hybrid - Indore, Hyderabad, Bengaluru",1,1,22.5
+Gurgaon/Gurugram,1,1,2.5
+"Kolkata, Hyderabad",1,1,14.0
+Mandya,1,1,25.0
+Chennai(Sholinganallur),1,1,12.0
+"Pune, Chennai, Delhi / Ncr",1,1,20.0
+Chennai(Ashok Nagar),1,1,14.0
+Panchkula,1,1,13.0
+Hybrid - Nalgonda,1,1,20.0
+"Ahmedabad, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",1,1,13.5
+Hyderabad(Raidurgam),1,1,12.0
+Bengaluru(Hosur Road),1,1,8.5
+Kodagu,1,1,18.75
+Hybrid - Hyderabad(Nanakramguda),1,1,21.75
+"Vijayawada(Guru Nanak Colony), Hyderabad(Madhapur)",1,1,4.0
+"Hapur, Ghaziabad",1,1,2.75
+"Noida, Pune",1,1,18.5
+"Hybrid - Hyderabad, Gurugram, Bengaluru",1,1,10.0
+Hybrid - Madurai,1,1,12.5
+Bengaluru(Hebbal),1,1,24.0
+Tiruchirapalli,1,1,4.5
+"Noida, Bengaluru",1,1,55.0
+"Kangra, Mandi, Delhi / Ncr",1,1,3.0
+"Hybrid - Kolkata, Chennai, Mumbai (All Areas)",1,1,21.25
+"Indore, Hyderabad",1,1,23.75
+"Kochi, Coimbatore, Thiruvananthapuram",1,1,24.0
+"Hyderabad, Ahmedabad",1,1,20.0
+"Puducherry, Chennai",1,1,8.5
+Bengaluru(Electronic City Phase 2),1,1,6.0
+Raichur,1,1,25.0
+Pune(Baner),1,1,3.5
+"Hyderabad, Pune, Chennai, Bengaluru",1,1,10.25
+Ramanagara,1,1,25.0
+"Hybrid - Pune, Chennai",1,1,20.0
+Manesar,1,1,6.5
+Noida(Sector 57),1,1,6.5
+"Navi Mumbai, Bengaluru, Mumbai (All Areas)",1,1,23.75
+"Pune, Sonipat",1,1,13.5
+"Hybrid - Mumbai Suburban, Bengaluru, Mumbai (All Areas)",1,1,8.5
+"Madurai, Chennai, Coimbatore",1,1,10.0
+Surat(Vesu),1,1,5.5
+Kochi(Kakkanad),1,1,4.2
+Ichalkaranji,1,1,2.0
+Madurai,1,1,6.0
+Gurugram(Golf Course Extension),1,1,11.0
+Jaipur(Ajmer Road),1,1,3.0
+Viluppuram,1,1,3.5
+Tiruppur,1,1,2.1
+"Pune, Ahmedabad",1,1,13.0
+Chennai(Thoraipakkam),1,1,20.0
+"Noida, Bangalore Rural, Gurugram",1,1,22.5
+"Chennai, Coimbatore",1,1,6.5
+"Hybrid - Pune, Bengaluru, Mumbai (All Areas)",1,1,32.5
+Hyderabad(Ida Uppal),1,1,3.13
+Ankleshwar,1,1,20.0
+"Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",1,1,13.0
+"Srinagar, Jammu",1,1,4.75
+Hybrid - Noida,1,1,19.0
+"Kolkata, Chennai, Bengaluru",1,1,25.0
+"Chandigarh, Dadra & Nagar Haveli, Bengaluru",1,1,13.5
+Surat,1,1,5.5
+"Hyderabad, Coimbatore, Bengaluru",1,1,16.0
+Hyderabad(Malakpet),1,1,4.88
+Hybrid - Adilabad,1,1,15.0
+Kolar,1,1,18.75
+"Mumbai, Pune, Bengaluru",1,1,6.25
+Pune(Pune Nashik Highway),1,1,9.0
+Mumbai(Ambernath),1,1,3.0
+"Hyderabad, Kondapur",1,1,17.0
+Hybrid - Mumbai,1,1,15.5
+Lucknow(Gomti Nagar),1,1,4.0
+"Srinagar, Mumbai (All Areas)",1,1,5.5
+"Noida, Mumbai",1,1,3.5
+"Hybrid - Hyderabad, Bengaluru",1,1,6.0
+Noida(Sector 153),1,1,3.0
+Chitradurga,1,1,20.0
+"Guntur, Chennai, Coimbatore",1,1,3.0
+Jaipur(Jhotwara),1,1,7.8
+"Thane, Navi Mumbai",1,1,3.38
+Chennai(Nungambakkam),1,1,6.25
+Pune(Hinjewadi Phase 2),1,1,37.5
+"Pune, Ahmednagar",1,1,25.0
+"Kochi, Chennai, Bengaluru",1,1,32.5
+Hybrid - Pune(Aundh),1,1,18.75
+"Hyderabad, Gurugram, Bengaluru",1,1,27.5
+Chennai(Perungudi),1,1,9.5
+Chennai(Tharamani),1,1,13.0
+Mohali(Phase-8 Industrial Area),1,1,6.5
+Bengaluru(Halasuru),1,1,7.5
+"Chandigarh, Pune",1,1,18.25
+Sankrail,1,1,5.5
+"Thane, Bhiwandi, Navi Mumbai",1,1,3.25
+"Pune, Bengaluru, Delhi / Ncr",1,1,45.0
+"Hyderabad, Pune, Delhi / Ncr",1,1,20.0
+Rewari,1,1,1.5
+Tiruchirapalli(Tiruchirappalli),1,1,3.38
+Kota(Kunhari),1,1,3.0
+"Mohali, Pune",1,1,22.5
+Lucknow,1,1,8.0
+"Coimbatore, Bengaluru",1,1,4.0
+Noida(Sector 63),1,1,5.13
+Hyderabad(Ameerpet),1,1,2.94
+Hyderabad(Hitec City),1,1,20.0
+"Ranchi, Jharkhand",1,1,
+"Trivandrum, Thiruvananthapuram",1,1,
+Hyderabad(Koti +1),1,1,3.38
+"Coimbatore, Tamil Nadu",1,1,
+Thrissur,1,1,3.75
+Surat(Kosamba),1,1,3.5
+"Ahmedabad, Mumbai (All Areas)",1,1,14.0
+Hyderabad(Shaikpet),1,1,3.13
+"Hyderabad, Pune, Greater Noida",1,1,20.0
+"Nashik, Navi Mumbai",1,1,7.0
+"Hyderabad, Delhi / Ncr",1,1,20.5
+"Noida, Kolkata, Delhi / Ncr",1,1,14.0
+Bengaluru(Jalahalli +3),1,1,12.0
+"Hybrid - Noida, New Delhi, Gurugram",1,1,15.0
+Baramati,1,1,20.0
+"Gurugram, Chennai",1,1,6.5
+"Navi Mumbai, Maharashtra",1,1,
+"Chandigarh, India",1,1,
+Hybrid - Pune(Aundh +5),1,1,5.0
+Ghaziabad,1,1,3.38
+"Hybrid - Kochi, Chennai, Coimbatore",1,1,20.0
+"Hybrid - Chennai, Bengaluru",1,1,20.0
+Hybrid - Shirur,1,1,14.0
+"Hybrid - Mumbai(Airoli +2), Navi Mumbai, Mumbai (All Areas)",1,1,10.0
+"Noida, Chandigarh",1,1,27.5
+Chennai(West Mambalam),1,1,2.75
+"Kolkata, Nagpur, Pune, Gurugram, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",1,1,15.0
+Mohali(Sector 66),1,1,11.1
+"Hybrid - Hyderabad, Ahmedabad",1,1,22.5
+Hybrid - Mancherial,1,1,15.0
+Noida(Sector 137),1,1,5.25
+Hybrid - Kamareddy,1,1,15.0
+"Hyderabad, Pune, Gurugram",1,1,37.5
+Pune(Pimple Saudagar),1,1,11.0
+"Hybrid - Mumbai, Thane, Mumbai (All Areas)",1,1,9.5
+"Ahmedabad, Chennai, Bengaluru",1,1,10.5
+Gurugram(Sector 59),1,1,20.0
+"Bhubaneswar, Kolkata, Mysuru",1,1,7.0
+Hybrid - Kothagudem,1,1,15.0
+Hybrid - Khammam,1,1,20.0
+"Warangal, Hyderabad",1,1,31.25
+Chennai(Egmore),1,1,3.75
+"Hybrid - Kolkata, Bengaluru, Delhi / Ncr",1,1,17.0
+Pimpri-Chinchwad,1,1,25.0
+"Hyderabad, Gurugram, Coimbatore",1,1,22.75
+"Gandhinagar, Ahmedabad, Surat",1,1,22.5
+"Udaipur, Gurugram",1,1,13.0
+Ahmedabad(Bopal +2),1,1,2.75
+Mulug,1,1,15.0
+"Kochi(Kakkanad), Bengaluru(Hsr Layout)",1,1,3.5
+Bahadurgarh,1,1,15.0
+"Guwahati, Kolkata",1,1,6.0
+Kolkata(Em Bypass +1),1,1,2.38
+Krishnagiri,1,1,25.0
+Hybrid - Bengaluru(Sarjapur),1,1,15.5
+"Adampur, Punjab",1,1,1.25
+"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",1,1,35.0
+Udaipur,1,1,26.25
+Hybrid - Mulug,1,1,20.0
+"Noida(Sector 63), Ghaziabad(Indirapuram +1)",1,1,4.25
+"India, Chennai",1,1,7.5
+"Noida, Gurugram, Delhi / Ncr",1,1,4.5
+Kolkata(Sector 5 Salt Lake),1,1,6.5
+"Hybrid - Noida, Pune, Gurugram, Bengaluru",1,1,27.5
+Mulshi,1,1,18.75
+Hybrid - Kochi,1,1,8.0
+"Hybrid - Mumbai, Mumbai Suburban, Mumbai (All Areas)",1,1,9.5
+Mumbai(Dadar),1,1,20.5
+"Mohali, Chandigarh, Panchkula",1,1,2.0
+Navsari,1,1,4.5
+"Gurugram, Bengaluru",1,1,32.5
+"Pune, Ahmedabad, Bengaluru",1,1,17.0
+Tambaram,1,1,1.62
+"Noida, Gurugram, Bengaluru",1,1,6.0
