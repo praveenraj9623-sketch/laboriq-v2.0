@@ -1,0 +1,16 @@
+creation_timestamp: 1781175172961
+current_stage: Staging
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1781175173077
+model_id: m-0ecacb8405a54beb92ef368aba4dbd5c
+name: LaborIQRoleClassifier
+run_id: ccb6a19ec54840d9887afd297a95631d
+run_link: null
+source: models:/m-0ecacb8405a54beb92ef368aba4dbd5c
+status: READY
+status_message: null
+storage_location: file:///C:/Users/admin/Desktop/Labour_IQ_Upgrade/mlruns/580241401585395976/models/m-0ecacb8405a54beb92ef368aba4dbd5c/artifacts
+user_id: null
+version: 3
+workspace: default

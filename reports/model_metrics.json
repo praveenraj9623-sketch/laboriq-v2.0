@@ -1,75 +1,75 @@
 {
   "role_classifier": {
-    "accuracy": 0.7462,
-    "macro_f1": 0.742,
-    "weighted_f1": 0.7565,
+    "accuracy": 0.7427,
+    "macro_f1": 0.7275,
+    "weighted_f1": 0.7551,
     "classification_report": {
       "AI Engineer": {
-        "precision": 0.8947368421052632,
-        "recall": 0.5862068965517241,
-        "f1-score": 0.7083333333333334,
-        "support": 58.0
+        "precision": 0.8,
+        "recall": 0.6575342465753424,
+        "f1-score": 0.7218045112781954,
+        "support": 73.0
       },
       "Business Analyst": {
-        "precision": 0.43636363636363634,
-        "recall": 0.7741935483870968,
-        "f1-score": 0.5581395348837209,
-        "support": 31.0
+        "precision": 0.4262295081967213,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.52,
+        "support": 39.0
       },
       "Data Analyst": {
-        "precision": 0.8803418803418803,
-        "recall": 0.7410071942446043,
-        "f1-score": 0.8046875,
-        "support": 139.0
+        "precision": 0.904,
+        "recall": 0.7337662337662337,
+        "f1-score": 0.8100358422939068,
+        "support": 154.0
       },
       "Data Engineer": {
-        "precision": 0.8333333333333334,
-        "recall": 0.7894736842105263,
-        "f1-score": 0.8108108108108109,
-        "support": 57.0
+        "precision": 0.8529411764705882,
+        "recall": 0.8787878787878788,
+        "f1-score": 0.8656716417910447,
+        "support": 66.0
       },
       "Data Scientist": {
-        "precision": 0.6904761904761905,
-        "recall": 0.8529411764705882,
-        "f1-score": 0.7631578947368421,
-        "support": 34.0
+        "precision": 0.8275862068965517,
+        "recall": 0.7619047619047619,
+        "f1-score": 0.7933884297520661,
+        "support": 63.0
       },
       "ML Engineer": {
-        "precision": 0.5245901639344263,
-        "recall": 0.8648648648648649,
-        "f1-score": 0.6530612244897959,
-        "support": 37.0
+        "precision": 0.4492753623188406,
+        "recall": 0.775,
+        "f1-score": 0.5688073394495413,
+        "support": 40.0
       },
       "NLP Engineer": {
-        "precision": 1.0,
-        "recall": 0.7391304347826086,
-        "f1-score": 0.85,
-        "support": 23.0
+        "precision": 0.9,
+        "recall": 0.75,
+        "f1-score": 0.8181818181818182,
+        "support": 24.0
       },
       "Research Analyst": {
-        "precision": 0.9285714285714286,
+        "precision": 0.7647058823529411,
         "recall": 0.6842105263157895,
-        "f1-score": 0.7878787878787878,
+        "f1-score": 0.7222222222222222,
         "support": 19.0
       },
-      "accuracy": 0.7462311557788944,
+      "accuracy": 0.7426778242677824,
       "macro avg": {
-        "precision": 0.7735516843907698,
-        "recall": 0.7540035407284753,
-        "f1-score": 0.7420086357666614,
-        "support": 398.0
+        "precision": 0.7405922670294554,
+        "recall": 0.7384837892520841,
+        "f1-score": 0.7275139756210993,
+        "support": 478.0
       },
       "weighted avg": {
-        "precision": 0.8010512930188963,
-        "recall": 0.7462311557788944,
-        "f1-score": 0.7564918802206457,
-        "support": 398.0
+        "precision": 0.7882247400809063,
+        "recall": 0.7426778242677824,
+        "f1-score": 0.7551170039868756,
+        "support": 478.0
       }
     }
   },
   "salary_model": {
-    "mae_lpa": 4.5371,
-    "r2": 0.4107,
+    "mae_lpa": 4.4169,
+    "r2": 0.448,
     "prediction_note": "Salary model is a portfolio baseline. Use larger real data before business deployment."
   }
 }

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Desktop/Labour_IQ_Upgrade/mlruns/580241401585395976/f6ed055cad58482dae77a5500e25c194/artifacts
+end_time: 1781173986238
+entry_point_name: ''
+experiment_id: '580241401585395976'
+lifecycle_stage: active
+run_id: f6ed055cad58482dae77a5500e25c194
+run_name: role_classifier_training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781173981680
+status: 3
+tags: []
+user_id: admin

@@ -1033,50 +1033,66 @@ month,skill,mentions,postings
 2026-05,Vector Database,11,11
 2026-05,Workforce Planning,2,2
 2026-05,dbt,3,3
-,APIs,4,4
-,AWS,9,9
-,Agile,1,1
-,Airflow,2,2
-,Azure,12,12
-,BigQuery,3,3
-,Business Recommendations,1,1
-,CI/CD,3,3
-,Classification,1,1
-,Dashboarding,4,4
-,Data Visualization,3,3
-,Data Warehousing,3,3
-,Databricks,11,11
-,Docker,1,1
-,ETL,14,14
-,Excel,8,8
-,FastAPI,1,1
-,Feature Engineering,3,3
-,GCP,9,9
-,KPI Reporting,10,10
-,Kafka,4,4
-,Kubernetes,3,3
-,LLM,7,7
-,LangChain,4,4
-,LlamaIndex,1,1
-,MLOps,6,6
-,Machine Learning,54,54
-,Matplotlib,2,2
-,MySQL,1,1
-,Named Entity Recognition,2,2
-,Natural Language Processing,17,17
-,PostgreSQL,2,2
-,Power BI,5,5
-,Prompt Engineering,5,5
-,PySpark,4,4
-,Python,23,23
-,R,5,5
-,RAG,17,17
-,SQL,18,18
-,Scikit-learn,2,2
-,Seaborn,2,2
-,Sentence Transformers,4,4
-,Snowflake,2,2
-,Spark,4,4
-,Statistics,5,5
-,Tableau,2,2
-,Vector Database,6,6
+NaT,APIs,19,19
+NaT,AWS,26,26
+NaT,Agile,7,7
+NaT,Airflow,2,2
+NaT,Azure,32,32
+NaT,BigQuery,5,5
+NaT,Business Recommendations,2,2
+NaT,CI/CD,8,8
+NaT,Classification,7,7
+NaT,Clustering,1,1
+NaT,Dashboarding,5,5
+NaT,Data Visualization,6,6
+NaT,Data Warehousing,8,8
+NaT,Databricks,21,21
+NaT,Docker,1,1
+NaT,ETL,34,34
+NaT,Excel,11,11
+NaT,FastAPI,2,2
+NaT,Feature Engineering,6,6
+NaT,GCP,21,21
+NaT,Git,6,6
+NaT,Hypothesis Testing,1,1
+NaT,Java,5,5
+NaT,Jira,2,2
+NaT,KPI Reporting,21,21
+NaT,Kafka,4,4
+NaT,Kubernetes,4,4
+NaT,LLM,28,28
+NaT,LangChain,15,15
+NaT,Linux,1,1
+NaT,LlamaIndex,3,3
+NaT,MLOps,9,9
+NaT,Machine Learning,156,156
+NaT,Market Research,1,1
+NaT,Matplotlib,2,2
+NaT,Model Evaluation,2,2
+NaT,MySQL,3,3
+NaT,Named Entity Recognition,2,2
+NaT,Natural Language Processing,46,46
+NaT,PostgreSQL,5,5
+NaT,Power BI,9,9
+NaT,Prompt Engineering,11,11
+NaT,PySpark,13,13
+NaT,Python,61,61
+NaT,R,11,11
+NaT,RAG,37,37
+NaT,Random Forest,1,1
+NaT,Regression,4,4
+NaT,SQL,45,45
+NaT,Scala,1,1
+NaT,Scikit-learn,4,4
+NaT,Seaborn,2,2
+NaT,Sentence Transformers,6,6
+NaT,Snowflake,7,7
+NaT,Spark,8,8
+NaT,Statistics,5,5
+NaT,Streamlit,2,2
+NaT,Tableau,3,3
+NaT,Text Classification,1,1
+NaT,Time Series,1,1
+NaT,Vector Database,6,6
+NaT,XGBoost,1,1
+NaT,dbt,1,1

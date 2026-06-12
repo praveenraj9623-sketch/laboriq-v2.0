@@ -10407,313 +10407,783 @@ INDIA2025_230925014609,2026-05-13,Hyderabad,Business Analyst For one of the lead
 INDIA2025_230925014609,2026-05-13,Hyderabad,Business Analyst For one of the leading IT giant,Data Analyst,Power BI,2026-05
 INDIA2025_230925014609,2026-05-13,Hyderabad,Business Analyst For one of the leading IT giant,Data Analyst,Tableau,2026-05
 INDIA2025_31025004426,2026-05-22,"Hyderabad, Chennai, Bengaluru",Database Administrator,Data Analyst,SQL,2026-05
-ADZUNA_5705677339,,India,Data Scientist,Data Scientist,Machine Learning,
-ADZUNA_5720302690,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Excel,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Scikit-learn,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Python,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,R,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,SQL,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Statistics,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Excel,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Matplotlib,
-ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Seaborn,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Scikit-learn,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Python,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,R,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,SQL,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Statistics,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Excel,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Matplotlib,
-ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Seaborn,
-ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,
-ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,
-ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,R,
-ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,SQL,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,AWS,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Azure,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,GCP,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Feature Engineering,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Natural Language Processing,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,PySpark,
-ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,
-ADZUNA_5724224636,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,
-ADZUNA_5683836437,,"Hyderabad, Telangana",Data Science,Data Scientist,Machine Learning,
-ADZUNA_5721566142,,"Hyderabad, Telangana",Data Scientist,AI Engineer,RAG,
-ADZUNA_5730011177,,India,Data Scientist,Data Analyst,BigQuery,
-ADZUNA_5730011177,,India,Data Scientist,Data Analyst,SQL,
-ADZUNA_5737583021,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Azure,
-ADZUNA_5737583021,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,
-ADZUNA_5737583021,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,
-ADZUNA_5709941910,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,Classification,
-ADZUNA_5709941910,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,LLM,
-ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Azure,
-ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Databricks,
-ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,RAG,
-ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,APIs,
-ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,PySpark,
-ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,
-ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,SQL,
-ADZUNA_5714427935,,"Chennai, Tamil Nadu",Data Scientist,AI Engineer,LangChain,
-ADZUNA_5714427935,,"Chennai, Tamil Nadu",Data Scientist,AI Engineer,Python,
-ADZUNA_5730010525,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,
-ADZUNA_5730010525,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,
-ADZUNA_5722440931,,"Hyderabad, Telangana",Data Analyst,Data Scientist,Machine Learning,
-ADZUNA_5722440931,,"Hyderabad, Telangana",Data Analyst,Data Scientist,Statistics,
-ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,Python,
-ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,SQL,
-ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,Power BI,
-ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,Tableau,
-ADZUNA_5738770979,,"Hyderabad, Telangana",Data Analyst,Data Analyst,SQL,
-ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,ETL,
-ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Dashboarding,
-ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Data Visualization,
-ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Excel,
-ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,KPI Reporting,
-ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Power BI,
-ADZUNA_5738771584,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Python,
-ADZUNA_5737583521,,"Bangalore, Karnataka",Data Analyst,Business Analyst,Business Recommendations,
-ADZUNA_5737564415,,"Navi Mumbai, Maharashtra",Data Analyst,Data Analyst,Dashboarding,
-ADZUNA_5737564415,,"Navi Mumbai, Maharashtra",Data Analyst,Data Analyst,Excel,
-ADZUNA_5721567608,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Statistics,
-ADZUNA_5721567608,,"Bangalore, Karnataka",Data Analyst,Data Analyst,KPI Reporting,
-ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Machine Learning,
-ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Python,
-ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,SQL,
-ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Data Visualization,
-ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Excel,
-ADZUNA_5712728700,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,Python,
-ADZUNA_5712728700,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,SQL,
-ADZUNA_5712728700,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,Excel,
-ADZUNA_5721567594,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,KPI Reporting,
-ADZUNA_5708302045,,"Noida, Ghaziabad",Data Analyst,Business Analyst,KPI Reporting,
-ADZUNA_5721569228,,India,Data Analyst,Data Analyst,ETL,
-ADZUNA_5721569228,,India,Data Analyst,Data Analyst,Tableau,
-ADZUNA_5730010716,,"Bangalore, Karnataka",Data Analyst,Data Analyst,KPI Reporting,
-ADZUNA_5734682351,,India,Data Analyst,Data Analyst,Data Warehousing,
-ADZUNA_5733974582,,"Bangalore, Karnataka",Data Analyst,Data Analyst,KPI Reporting,
-ADZUNA_5737564271,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Statistics,
-ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,SQL,
-ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,Dashboarding,
-ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,Excel,
-ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,KPI Reporting,
-ADZUNA_5730009682,,India,SAP Business Analyst,Data Analyst,Data Visualization,
-ADZUNA_5732319878,,"Coimbatore, Tamil Nadu",Senior Accounting Business Analyst,Business Analyst,KPI Reporting,
-ADZUNA_5724823968,,"Bangalore, Karnataka",D365 CRM Business Analyst,Business Analyst,Azure,
-ADZUNA_5721566334,,"Chennai, Tamil Nadu",Business Analyst - CRM Sales,Data Analyst,Power BI,
-ADZUNA_5728103711,,"Bangalore, Karnataka",TLM Technical Business Analyst with TLM configuration exp also Max 60 days notice period,Data Analyst,R,
-ADZUNA_5733641168,,India,Project Manager Integrations Data Migration,Data Analyst,Agile,
-ADZUNA_5733641168,,India,Project Manager Integrations Data Migration,Data Analyst,APIs,
-ADZUNA_5712897401,,India,Data Engineer,Data Engineer,AWS,
-ADZUNA_5712897401,,India,Data Engineer,Data Engineer,ETL,
-ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,GCP,
-ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,BigQuery,
-ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Data Warehousing,
-ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,ETL,
-ADZUNA_5724826690,,India,Data Engineer,AI Engineer,Snowflake,
-ADZUNA_5724826690,,India,Data Engineer,AI Engineer,LLM,
-ADZUNA_5711045436,,India,Data Engineer,Data Engineer,AWS,
-ADZUNA_5711045436,,India,Data Engineer,Data Engineer,Azure,
-ADZUNA_5711045436,,India,Data Engineer,Data Engineer,Databricks,
-ADZUNA_5711045436,,India,Data Engineer,Data Engineer,ETL,
-ADZUNA_5715810199,,"Bangalore, Karnataka",Data Engineer,Data Analyst,AWS,
-ADZUNA_5715810199,,"Bangalore, Karnataka",Data Engineer,Data Analyst,Python,
-ADZUNA_5715810199,,"Bangalore, Karnataka",Data Engineer,Data Analyst,SQL,
-ADZUNA_5738790401,,India,Data Engineer,Data Analyst,ETL,
-ADZUNA_5738790401,,India,Data Engineer,Data Analyst,SQL,
-ADZUNA_5738790401,,India,Data Engineer,Data Analyst,Power BI,
-ADZUNA_5733974642,,"Chennai, Tamil Nadu",Data engineer,Data Analyst,SQL,
-ADZUNA_5733974642,,"Chennai, Tamil Nadu",Data engineer,Data Analyst,KPI Reporting,
-ADZUNA_5738778293,,India,Data Engineer,Data Engineer,ETL,
-ADZUNA_5716670070,,India,Data Engineer,Data Engineer,Azure,
-ADZUNA_5716670070,,India,Data Engineer,Data Engineer,Databricks,
-ADZUNA_5716670070,,India,Data Engineer,Data Engineer,Power BI,
-ADZUNA_5694091095,,India,Data Engineer,Business Analyst,Azure,
-ADZUNA_5694091095,,India,Data Engineer,Business Analyst,KPI Reporting,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,AWS,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Azure,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,GCP,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Data Warehousing,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,ETL,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,APIs,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Python,
-ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,SQL,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,AWS,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Azure,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,CI/CD,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,GCP,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Kubernetes,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Airflow,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,BigQuery,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,ETL,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Kafka,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,PostgreSQL,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Snowflake,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Docker,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,FastAPI,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,PySpark,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Python,
-ADZUNA_5738789183,,India,Data Engineer,Data Engineer,SQL,
-ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,GCP,
-ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Airflow,
-ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Spark,
-ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Machine Learning,
-ADZUNA_5721567666,,"Noida, Ghaziabad",Data Engineer,Data Engineer,ETL,
-ADZUNA_5721567666,,"Noida, Ghaziabad",Data Engineer,Data Engineer,Machine Learning,
-ADZUNA_5715811249,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Azure,
-ADZUNA_5715811249,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Databricks,
-ADZUNA_5732322302,,India,Data Engineer,Data Engineer,ETL,
-ADZUNA_5732322302,,India,Data Engineer,Data Engineer,Machine Learning,
-ADZUNA_5732322302,,India,Data Engineer,Data Engineer,Python,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,AWS,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Databricks,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,ETL,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Kafka,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,MySQL,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,PostgreSQL,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Spark,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Python,
-ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,SQL,
-ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Databricks,
-ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,ETL,
-ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,PySpark,
-ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Python,
-ADZUNA_5729064818,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Databricks,
-ADZUNA_5697395766,,"Karnataka, India",Machine Learning Engineer,ML Engineer,MLOps,
-ADZUNA_5697395766,,"Karnataka, India",Machine Learning Engineer,ML Engineer,Machine Learning,
-ADZUNA_5697395766,,"Karnataka, India",Machine Learning Engineer,ML Engineer,Python,
-ADZUNA_5730227906,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5710346482,,India,Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5722874183,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,MLOps,
-ADZUNA_5722874183,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,Machine Learning,
-ADZUNA_5731601941,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5720854364,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5720854364,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Dashboarding,
-ADZUNA_5722874106,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5716064491,,"Bangalore, Karnataka",Machine Learning Engineer,AI Engineer,Machine Learning,
-ADZUNA_5716064491,,"Bangalore, Karnataka",Machine Learning Engineer,AI Engineer,RAG,
-ADZUNA_5682212469,,"Delhi, India",Machine Learning Engineer,AI Engineer,Machine Learning,
-ADZUNA_5682212469,,"Delhi, India",Machine Learning Engineer,AI Engineer,LangChain,
-ADZUNA_5711125592,,India,Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5711125535,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,GCP,
-ADZUNA_5711125535,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,Machine Learning,
-ADZUNA_5724373900,,India,Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5725158511,,India,Machine Learning Engineer,ML Engineer,Machine Learning,
-ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,MLOps,
-ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Natural Language Processing,
-ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Python,
-ADZUNA_5734259186,,India,Machine Learning Engineer,Data Scientist,Feature Engineering,
-ADZUNA_5734259186,,India,Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5734259186,,India,Machine Learning Engineer,Data Scientist,Natural Language Processing,
-ADZUNA_5736369767,,"Trivandrum, Thiruvananthapuram",Machine Learning Engineer,ML Engineer,Feature Engineering,
-ADZUNA_5736369767,,"Trivandrum, Thiruvananthapuram",Machine Learning Engineer,ML Engineer,Machine Learning,
-ADZUNA_5721758239,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,MLOps,
-ADZUNA_5721758239,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,Machine Learning,
-ADZUNA_5707345019,,India,Machine Learning Engineer,Data Scientist,GCP,
-ADZUNA_5707345019,,India,Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,CI/CD,
-ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,Kubernetes,
-ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,MLOps,
-ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,Machine Learning,
-ADZUNA_5703782115,,India,Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Databricks,
-ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Kafka,
-ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Spark,
-ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Machine Learning,
-ADZUNA_5711044969,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,GCP,
-ADZUNA_5711044969,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,Machine Learning,
-ADZUNA_5711044969,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,RAG,
-ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Databricks,
-ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,ETL,
-ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Kafka,
-ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Spark,
-ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Machine Learning,
-ADZUNA_5731319951,,"Kochi, Ernakulam",Senior Machine Learning Engineer,Data Scientist,Machine Learning,
-ADZUNA_5712733648,,"Bangalore, Karnataka",AI Engineer,AI Engineer,LLM,
-ADZUNA_5712733648,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Prompt Engineering,
-ADZUNA_5689759677,,"Delhi, India",AI Engineer,Data Scientist,Machine Learning,
-ADZUNA_5720301742,,"Mumbai, Maharashtra",AI Engineer,AI Engineer,R,
-ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Databricks,
-ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Machine Learning,
-ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Prompt Engineering,
-ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,RAG,
-ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Sentence Transformers,
-ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,SQL,
-ADZUNA_5709939794,,"Bangalore, Karnataka",AI Engineer,Data Scientist,Machine Learning,
-ADZUNA_5734688446,,"Bangalore, Karnataka",AI Engineer Agentic AI,AI Engineer,Databricks,
-ADZUNA_5734688446,,"Bangalore, Karnataka",AI Engineer Agentic AI,AI Engineer,LangChain,
-ADZUNA_5734688446,,"Bangalore, Karnataka",AI Engineer Agentic AI,AI Engineer,SQL,
-ADZUNA_5728103644,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,Prompt Engineering,
-ADZUNA_5728103644,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,Sentence Transformers,
-ADZUNA_5734682777,,India,Generative AI Engineer,Data Scientist,Machine Learning,
-ADZUNA_5734682777,,India,Generative AI Engineer,Data Scientist,Python,
-ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,AWS,
-ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,Azure,
-ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,GCP,
-ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,Kubernetes,
-ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,Machine Learning,
-ADZUNA_5716484410,,"Hyderabad, Telangana",Generative AI Engineer,AI Engineer,AWS,
-ADZUNA_5737585169,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,Azure,
-ADZUNA_5737585169,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,CI/CD,
-ADZUNA_5697209647,,India,Artificial Intelligence Engineer,NLP Engineer,Machine Learning,
-ADZUNA_5697209647,,India,Artificial Intelligence Engineer,NLP Engineer,RAG,
-ADZUNA_5675448969,,"Noida, Ghaziabad",NLP Engineer,NLP Engineer,Natural Language Processing,
-ADZUNA_5675448969,,"Noida, Ghaziabad",NLP Engineer,NLP Engineer,Prompt Engineering,
-ADZUNA_5700910297,,"Pune, Maharashtra",NLP Engineer,Data Scientist,Machine Learning,
-ADZUNA_5700910297,,"Pune, Maharashtra",NLP Engineer,Data Scientist,Named Entity Recognition,
-ADZUNA_5700910297,,"Pune, Maharashtra",NLP Engineer,Data Scientist,Natural Language Processing,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,MLOps,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,Machine Learning,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,LLM,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,LangChain,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,LlamaIndex,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,Natural Language Processing,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,Prompt Engineering,
-ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,RAG,
-ADZUNA_5720979659,,"Hyderabad, Telangana",Nlp Software Engineer,Data Scientist,Machine Learning,
-ADZUNA_5720979659,,"Hyderabad, Telangana",Nlp Software Engineer,Data Scientist,Natural Language Processing,
-ADZUNA_5720979659,,"Hyderabad, Telangana",Nlp Software Engineer,Data Scientist,APIs,
-ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,Machine Learning,
-ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,LLM,
-ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,Natural Language Processing,
-ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,RAG,
-ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,Machine Learning,
-ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,LLM,
-ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,Natural Language Processing,
-ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,RAG,
-ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,Sentence Transformers,
-ADZUNA_5732318726,,"Bangalore, Karnataka",Remote Data Engineer - 78243,Data Engineer,RAG,
-ADZUNA_5732318726,,"Bangalore, Karnataka",Remote Data Engineer - 78243,Data Engineer,Vector Database,
-ADZUNA_5732319444,,"Mumbai, Maharashtra",Remote Data Engineer - 78243,Data Engineer,RAG,
-ADZUNA_5732319444,,"Mumbai, Maharashtra",Remote Data Engineer - 78243,Data Engineer,Vector Database,
-ADZUNA_5732317913,,"Kolkata, West Bengal",Remote Data Engineer - 78243,Data Engineer,RAG,
-ADZUNA_5732317913,,"Kolkata, West Bengal",Remote Data Engineer - 78243,Data Engineer,Vector Database,
-ADZUNA_5732386367,,"Chennai, Tamil Nadu",Remote Data Engineer - 78243,Data Engineer,RAG,
-ADZUNA_5732386367,,"Chennai, Tamil Nadu",Remote Data Engineer - 78243,Data Engineer,Vector Database,
-ADZUNA_5732317536,,India,Remote Data Engineer - 78243,Data Engineer,RAG,
-ADZUNA_5732317536,,India,Remote Data Engineer - 78243,Data Engineer,Vector Database,
-ADZUNA_5732318883,,"Hyderabad, Telangana",Remote Data Engineer - 78243,Data Engineer,RAG,
-ADZUNA_5732318883,,"Hyderabad, Telangana",Remote Data Engineer - 78243,Data Engineer,Vector Database,
-ADZUNA_5728304938,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP,Data Scientist,Machine Learning,
-ADZUNA_5728304938,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP,Data Scientist,Natural Language Processing,
-ADZUNA_5702090850,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Machine Learning,
-ADZUNA_5702090850,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Natural Language Processing,
-ADZUNA_5702090850,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Python,
-ADZUNA_5702090686,,"Pune, Maharashtra",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Machine Learning,
-ADZUNA_5702090686,,"Pune, Maharashtra",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Natural Language Processing,
-ADZUNA_5702090686,,"Pune, Maharashtra",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Python,
-ADZUNA_5679803905,,"Bangalore, Karnataka",Lead AIML Engineer - NLP Generative AI,AI Engineer,LLM,
-ADZUNA_5679803905,,"Bangalore, Karnataka",Lead AIML Engineer - NLP Generative AI,AI Engineer,Natural Language Processing,
-ADZUNA_5679803905,,"Bangalore, Karnataka",Lead AIML Engineer - NLP Generative AI,AI Engineer,RAG,
-ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Machine Learning,
-ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Named Entity Recognition,
-ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Natural Language Processing,
-ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,RAG,
-ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Sentence Transformers,
-ADZUNA_5689136137,,"Bangalore, Karnataka",Machine Learning Engineer III NLP,Data Scientist,Machine Learning,
-ADZUNA_5689136137,,"Bangalore, Karnataka",Machine Learning Engineer III NLP,Data Scientist,Natural Language Processing,
-ADZUNA_5645711532,,"Chennai, Tamil Nadu",AI Engineer Agentic Operations - NLP,Data Scientist,Machine Learning,
-ADZUNA_5645711532,,"Chennai, Tamil Nadu",AI Engineer Agentic Operations - NLP,Data Scientist,Natural Language Processing,
-ADZUNA_5645711531,,"Pune, Maharashtra",AI Engineer Agentic Operations - NLP,Data Scientist,Machine Learning,
-ADZUNA_5645711531,,"Pune, Maharashtra",AI Engineer Agentic Operations - NLP,Data Scientist,Natural Language Processing,
+ADZUNA_5705677339,,India,Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5720302690,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Excel,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Scikit-learn,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Python,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,R,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,SQL,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Statistics,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Excel,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Matplotlib,NaT
+ADZUNA_5721569065,,"Kochi, Ernakulam",Data Scientist,Data Analyst,Seaborn,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Scikit-learn,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Python,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,R,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,SQL,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Statistics,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Excel,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Matplotlib,NaT
+ADZUNA_5730009449,,"Kerala, India",Data Scientist,Data Analyst,Seaborn,NaT
+ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,R,NaT
+ADZUNA_5732317781,,"Bangalore, Karnataka",Data Scientist,Data Scientist,SQL,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,AWS,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Azure,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,GCP,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Feature Engineering,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,PySpark,NaT
+ADZUNA_5710339532,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5724224636,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5683836437,,"Hyderabad, Telangana",Data Science,Data Scientist,Machine Learning,NaT
+ADZUNA_5721566142,,"Hyderabad, Telangana",Data Scientist,AI Engineer,RAG,NaT
+ADZUNA_5730011177,,India,Data Scientist,Data Analyst,BigQuery,NaT
+ADZUNA_5730011177,,India,Data Scientist,Data Analyst,SQL,NaT
+ADZUNA_5737583021,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Azure,NaT
+ADZUNA_5737583021,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5737583021,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5709941910,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,Classification,NaT
+ADZUNA_5709941910,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,LLM,NaT
+ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Azure,NaT
+ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Databricks,NaT
+ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,RAG,NaT
+ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,APIs,NaT
+ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,PySpark,NaT
+ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5728101928,,"Bangalore, Karnataka",Data Scientist,Data Scientist,SQL,NaT
+ADZUNA_5714427935,,"Chennai, Tamil Nadu",Data Scientist,AI Engineer,LangChain,NaT
+ADZUNA_5714427935,,"Chennai, Tamil Nadu",Data Scientist,AI Engineer,Python,NaT
+ADZUNA_5730010525,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5730010525,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5728103590,,India,Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,Scikit-learn,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,LangChain,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,RAG,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,APIs,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,SQL,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,Data Visualization,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,Power BI,NaT
+ADZUNA_5711045554,,India,Data Scientist,Data Scientist,Tableau,NaT
+ADZUNA_5711046093,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5711046093,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,RAG,NaT
+ADZUNA_5711046093,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5711046093,,"Chennai, Tamil Nadu",Data Scientist,Data Scientist,SQL,NaT
+ADZUNA_5738778526,,"Hyderabad, Telangana",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5738778526,,"Hyderabad, Telangana",Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5733974661,,"Hyderabad, Telangana",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5721566126,,"Delhi, India",Data Scientist,Data Scientist,Hypothesis Testing,NaT
+ADZUNA_5730010122,,India,Data Scientist,Data Scientist,Classification,NaT
+ADZUNA_5730010122,,India,Data Scientist,Data Scientist,Clustering,NaT
+ADZUNA_5730010122,,India,Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5730010122,,India,Data Scientist,Data Scientist,Regression,NaT
+ADZUNA_5730010122,,India,Data Scientist,Data Scientist,Scikit-learn,NaT
+ADZUNA_5730010122,,India,Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5730010122,,India,Data Scientist,Data Scientist,R,NaT
+ADZUNA_5643596426,,"Hyderabad, Telangana",Data Scientist,Data Scientist,AWS,NaT
+ADZUNA_5643596426,,"Hyderabad, Telangana",Data Scientist,Data Scientist,Azure,NaT
+ADZUNA_5643596426,,"Hyderabad, Telangana",Data Scientist,Data Scientist,GCP,NaT
+ADZUNA_5643596426,,"Hyderabad, Telangana",Data Scientist,Data Scientist,Feature Engineering,NaT
+ADZUNA_5643596426,,"Hyderabad, Telangana",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5643596426,,"Hyderabad, Telangana",Data Scientist,Data Scientist,PySpark,NaT
+ADZUNA_5724227481,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,AWS,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,Azure,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,GCP,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,Kubernetes,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,PostgreSQL,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,Git,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5731317580,,"Kerala, India",Data Scientist,Data Scientist,SQL,NaT
+ADZUNA_5736372669,,India,Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5734682250,,India,Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5729067138,,"Noida, Ghaziabad",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5724226447,,"Bangalore, Karnataka",Data Scientist,AI Engineer,Machine Learning,NaT
+ADZUNA_5724226447,,"Bangalore, Karnataka",Data Scientist,AI Engineer,LLM,NaT
+ADZUNA_5724226447,,"Bangalore, Karnataka",Data Scientist,AI Engineer,RAG,NaT
+ADZUNA_5724226447,,"Bangalore, Karnataka",Data Scientist,AI Engineer,Python,NaT
+ADZUNA_5724224333,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,AWS,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Azure,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,GCP,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Databricks,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,LangChain,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Java,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,R,NaT
+ADZUNA_5701275850,,"Bangalore, Karnataka",Data Scientist,Data Scientist,Scala,NaT
+ADZUNA_5725542099,,"Navi Mumbai, Maharashtra",Data Science Trainer,Data Scientist,Machine Learning,NaT
+ADZUNA_5730009278,,"Bangalore, Karnataka",Data Science Specialist,Data Scientist,Machine Learning,NaT
+ADZUNA_5705680679,,India,Associate Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5724225192,,India,Sr. / Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5709941978,,"Chennai, Tamil Nadu",Senior Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5734684449,,India,Senior Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5734684449,,India,Senior Data Scientist,Data Scientist,RAG,NaT
+ADZUNA_5734684449,,India,Senior Data Scientist,Data Scientist,Python,NaT
+ADZUNA_5721565971,,India,Lead Data Scientist,Data Scientist,Agile,NaT
+ADZUNA_5721565971,,India,Lead Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5721565971,,India,Lead Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5737566449,,"Bangalore, Karnataka",Data Science Manager,Data Scientist,Machine Learning,NaT
+ADZUNA_5714430036,,"Chennai, Tamil Nadu",Data Science Manager,Data Scientist,Machine Learning,NaT
+ADZUNA_5714430036,,"Chennai, Tamil Nadu",Data Science Manager,Data Scientist,Time Series,NaT
+ADZUNA_5737583037,,"Bangalore, Karnataka",Senior Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5737583037,,"Bangalore, Karnataka",Senior Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5722440931,,"Hyderabad, Telangana",Data Analyst,Data Scientist,Machine Learning,NaT
+ADZUNA_5722440931,,"Hyderabad, Telangana",Data Analyst,Data Scientist,Statistics,NaT
+ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,Python,NaT
+ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,SQL,NaT
+ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,Power BI,NaT
+ADZUNA_5738771565,,"Noida, Ghaziabad",Data Analyst,Data Analyst,Tableau,NaT
+ADZUNA_5738770979,,"Hyderabad, Telangana",Data Analyst,Data Analyst,SQL,NaT
+ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,ETL,NaT
+ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Dashboarding,NaT
+ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Data Visualization,NaT
+ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Excel,NaT
+ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5722441484,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Power BI,NaT
+ADZUNA_5738771584,,"Hyderabad, Telangana",Data Analyst,Data Analyst,Python,NaT
+ADZUNA_5737583521,,"Bangalore, Karnataka",Data Analyst,Business Analyst,Business Recommendations,NaT
+ADZUNA_5737564415,,"Navi Mumbai, Maharashtra",Data Analyst,Data Analyst,Dashboarding,NaT
+ADZUNA_5737564415,,"Navi Mumbai, Maharashtra",Data Analyst,Data Analyst,Excel,NaT
+ADZUNA_5721567608,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Statistics,NaT
+ADZUNA_5721567608,,"Bangalore, Karnataka",Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Machine Learning,NaT
+ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Python,NaT
+ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,SQL,NaT
+ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Data Visualization,NaT
+ADZUNA_5720301298,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Excel,NaT
+ADZUNA_5712728700,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,Python,NaT
+ADZUNA_5712728700,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,SQL,NaT
+ADZUNA_5712728700,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,Excel,NaT
+ADZUNA_5721567594,,"Mumbai, Maharashtra",Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5708302045,,"Noida, Ghaziabad",Data Analyst,Business Analyst,KPI Reporting,NaT
+ADZUNA_5721569228,,India,Data Analyst,Data Analyst,ETL,NaT
+ADZUNA_5721569228,,India,Data Analyst,Data Analyst,Tableau,NaT
+ADZUNA_5730010716,,"Bangalore, Karnataka",Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5734682351,,India,Data Analyst,Data Analyst,Data Warehousing,NaT
+ADZUNA_5733974582,,"Bangalore, Karnataka",Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5737564271,,"Bangalore, Karnataka",Data Analyst,Data Analyst,Statistics,NaT
+ADZUNA_5729461352,,"North Delhi, Delhi",Senior Data Analyst,Business Analyst,ETL,NaT
+ADZUNA_5719053159,,India,Compliance Data Analyst,Data Analyst,SQL,NaT
+ADZUNA_5719053159,,India,Compliance Data Analyst,Data Analyst,Excel,NaT
+ADZUNA_5719053159,,India,Compliance Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5715811690,,India,Marketing Data Analyst,Data Analyst,R,NaT
+ADZUNA_5715811690,,India,Marketing Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5732318783,,India,Healthcare Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5736370181,,"Ahmedabad, Gujarat",Senior Data Analyst,Data Analyst,Power BI,NaT
+ADZUNA_5728101918,,"Mumbai, Maharashtra",Junior Data Analyst,Data Analyst,KPI Reporting,NaT
+ADZUNA_5738790073,,"Bangalore, Karnataka",Data Analyst Banking Domain,Data Analyst,SQL,NaT
+ADZUNA_5729460378,,"Mumbai, Maharashtra",Senior Data Analyst - Python,Data Analyst,Python,NaT
+ADZUNA_5729460378,,"Mumbai, Maharashtra",Senior Data Analyst - Python,Data Analyst,Data Visualization,NaT
+ADZUNA_5729460378,,"Mumbai, Maharashtra",Senior Data Analyst - Python,Data Analyst,KPI Reporting,NaT
+ADZUNA_5728103133,,India,Data Analyst - Python Automation,Data Analyst,Python,NaT
+ADZUNA_5728103133,,India,Data Analyst - Python Automation,Data Analyst,SQL,NaT
+ADZUNA_5731322214,,"Delhi, India",Data Analyst NL-SQL,Data Analyst,SQL,NaT
+ADZUNA_5729063098,,India,Incrementality Media Mix Modeling MMM Data Analyst,Data Analyst,Dashboarding,NaT
+ADZUNA_5715810374,,"Hyderabad, Telangana",Data Engineering Analyst,Data Analyst,AWS,NaT
+ADZUNA_5715810374,,"Hyderabad, Telangana",Data Engineering Analyst,Data Analyst,Agile,NaT
+ADZUNA_5715810374,,"Hyderabad, Telangana",Data Engineering Analyst,Data Analyst,SQL,NaT
+ADZUNA_5715810374,,"Hyderabad, Telangana",Data Engineering Analyst,Data Analyst,Excel,NaT
+ADZUNA_5728101952,,"Chennai, Tamil Nadu",Data Security Analyst,ML Engineer,Azure,NaT
+ADZUNA_5728101952,,"Chennai, Tamil Nadu",Data Security Analyst,ML Engineer,APIs,NaT
+ADZUNA_5728101952,,"Chennai, Tamil Nadu",Data Security Analyst,ML Engineer,Linux,NaT
+ADZUNA_5728101952,,"Chennai, Tamil Nadu",Data Security Analyst,ML Engineer,Python,NaT
+ADZUNA_5712898105,,"Hyderabad, Telangana",Data Quality Analyst,Data Analyst,GCP,NaT
+ADZUNA_5712898105,,"Hyderabad, Telangana",Data Quality Analyst,Data Analyst,Excel,NaT
+ADZUNA_5712898105,,"Hyderabad, Telangana",Data Quality Analyst,Data Analyst,Power BI,NaT
+ADZUNA_5671625950,,"Noida, Ghaziabad",Data Quality Analyst - CATI,Business Analyst,Market Research,NaT
+ADZUNA_5681943028,,"Bangalore, Karnataka",Leading US Based Media Company - Lead Data Analyst Cloud FinOps,Data Analyst,AWS,NaT
+ADZUNA_5681943028,,"Bangalore, Karnataka",Leading US Based Media Company - Lead Data Analyst Cloud FinOps,Data Analyst,KPI Reporting,NaT
+ADZUNA_5653910442,,India,Analyst - Data Science,Data Scientist,Classification,NaT
+ADZUNA_5653910442,,India,Analyst - Data Science,Data Scientist,Machine Learning,NaT
+ADZUNA_5653910442,,India,Analyst - Data Science,Data Scientist,Regression,NaT
+ADZUNA_5737576320,,"Hyderabad, Telangana",Data Analyst /Policy Migration Tool PMT Analyst. Guide wire Implementation/Claim center,Data Analyst,SQL,NaT
+ADZUNA_5697210442,,"Bangalore, Karnataka",Data Analyst SAP / SAP MDG 5 YoE Any UST Location Immediate Joiner,Data Analyst,KPI Reporting,NaT
+ADZUNA_5722451294,,"Chennai, Tamil Nadu",Senior Analyst Data Science,AI Engineer,MLOps,NaT
+ADZUNA_5722451294,,"Chennai, Tamil Nadu",Senior Analyst Data Science,AI Engineer,PySpark,NaT
+ADZUNA_5722451294,,"Chennai, Tamil Nadu",Senior Analyst Data Science,AI Engineer,Python,NaT
+ADZUNA_5724825874,,India,Clinical Data Testing SME/Analyst,Data Engineer,Data Warehousing,NaT
+ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,SQL,NaT
+ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,Dashboarding,NaT
+ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,Excel,NaT
+ADZUNA_5721568714,,"Bangalore, Karnataka",Business Analyst Business Finance,Data Analyst,KPI Reporting,NaT
+ADZUNA_5730009682,,India,SAP Business Analyst,Data Analyst,Data Visualization,NaT
+ADZUNA_5732319878,,"Coimbatore, Tamil Nadu",Senior Accounting Business Analyst,Business Analyst,KPI Reporting,NaT
+ADZUNA_5724823968,,"Bangalore, Karnataka",D365 CRM Business Analyst,Business Analyst,Azure,NaT
+ADZUNA_5721566334,,"Chennai, Tamil Nadu",Business Analyst - CRM Sales,Data Analyst,Power BI,NaT
+ADZUNA_5728103711,,"Bangalore, Karnataka",TLM Technical Business Analyst with TLM configuration exp also Max 60 days notice period,Data Analyst,R,NaT
+ADZUNA_5733641168,,India,Project Manager Integrations Data Migration,Data Analyst,Agile,NaT
+ADZUNA_5733641168,,India,Project Manager Integrations Data Migration,Data Analyst,APIs,NaT
+ADZUNA_5722872860,,India,Informatica Developer,Data Analyst,SQL,NaT
+ADZUNA_5701282583,,"Mumbai, Maharashtra",Functional Analyst,Business Analyst,R,NaT
+ADZUNA_5721774760,,"Mumbai, Maharashtra",Subject Matter Expert - Lending,Business Analyst,Jira,NaT
+ADZUNA_5722450778,,"Coimbatore, Tamil Nadu",ETL Testing,Data Analyst,ETL,NaT
+ADZUNA_5722450778,,"Coimbatore, Tamil Nadu",ETL Testing,Data Analyst,SQL,NaT
+ADZUNA_5738778652,,India,Senior Quality Assurance Automation Engineer,ML Engineer,APIs,NaT
+ADZUNA_5738778652,,India,Senior Quality Assurance Automation Engineer,ML Engineer,Python,NaT
+ADZUNA_5737579050,,"Mumbai, Maharashtra",AB Initio Developer,Data Engineer,ETL,NaT
+ADZUNA_5737573426,,"Bangalore, Karnataka",Assistant vice president Dotnet Developer,Data Analyst,SQL,NaT
+ADZUNA_5724374716,,India,PL/SQL Developer,Data Analyst,SQL,NaT
+ADZUNA_5728102027,,India,Automation Engineer,ML Engineer,APIs,NaT
+ADZUNA_5728102027,,India,Automation Engineer,ML Engineer,Java,NaT
+ADZUNA_5750869804,,"Hyderabad, Telangana",Technical Project Manager,Business Analyst,Java,NaT
+ADZUNA_5745432624,,India,PL/SQL Developer,Data Analyst,Agile,NaT
+ADZUNA_5745432624,,India,PL/SQL Developer,Data Analyst,Jira,NaT
+ADZUNA_5745432624,,India,PL/SQL Developer,Data Analyst,Git,NaT
+ADZUNA_5745432624,,India,PL/SQL Developer,Data Analyst,SQL,NaT
+ADZUNA_5751932216,,India,Senior SQL Database Developer,Data Analyst,SQL,NaT
+ADZUNA_5751932216,,India,Senior SQL Database Developer,Data Analyst,KPI Reporting,NaT
+ADZUNA_5753854499,,"Hyderabad, Telangana",Data Quality Analyst,Data Engineer,ETL,NaT
+ADZUNA_5738988667,,"Bangalore, Karnataka",Senior Credit Risk BA - Basel Capital regulations / Capital risk / SQL,Data Analyst,SQL,NaT
+ADZUNA_5738988667,,"Bangalore, Karnataka",Senior Credit Risk BA - Basel Capital regulations / Capital risk / SQL,Data Analyst,KPI Reporting,NaT
+ADZUNA_5749039035,,"Kochi, Ernakulam",Technology Lead - .NET Core,Data Analyst,SQL,NaT
+ADZUNA_5738788090,,"Bangalore, Karnataka",Engineering Manager,Business Analyst,Agile,NaT
+ADZUNA_5758515490,,India,Process Mining Analyst,Business Analyst,Business Recommendations,NaT
+ADZUNA_5712897401,,India,Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5712897401,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,GCP,NaT
+ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,BigQuery,NaT
+ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Data Warehousing,NaT
+ADZUNA_5709941414,,"Hyderabad, Telangana",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5724826690,,India,Data Engineer,AI Engineer,Snowflake,NaT
+ADZUNA_5724826690,,India,Data Engineer,AI Engineer,LLM,NaT
+ADZUNA_5711045436,,India,Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5711045436,,India,Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5711045436,,India,Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5711045436,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5715810199,,"Bangalore, Karnataka",Data Engineer,Data Analyst,AWS,NaT
+ADZUNA_5715810199,,"Bangalore, Karnataka",Data Engineer,Data Analyst,Python,NaT
+ADZUNA_5715810199,,"Bangalore, Karnataka",Data Engineer,Data Analyst,SQL,NaT
+ADZUNA_5738790401,,India,Data Engineer,Data Analyst,ETL,NaT
+ADZUNA_5738790401,,India,Data Engineer,Data Analyst,SQL,NaT
+ADZUNA_5738790401,,India,Data Engineer,Data Analyst,Power BI,NaT
+ADZUNA_5733974642,,"Chennai, Tamil Nadu",Data engineer,Data Analyst,SQL,NaT
+ADZUNA_5733974642,,"Chennai, Tamil Nadu",Data engineer,Data Analyst,KPI Reporting,NaT
+ADZUNA_5738778293,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5716670070,,India,Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5716670070,,India,Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5716670070,,India,Data Engineer,Data Engineer,Power BI,NaT
+ADZUNA_5694091095,,India,Data Engineer,Business Analyst,Azure,NaT
+ADZUNA_5694091095,,India,Data Engineer,Business Analyst,KPI Reporting,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,GCP,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Data Warehousing,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,APIs,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5720304285,,"Hyderabad, Telangana",Data Engineer,Data Engineer,SQL,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,CI/CD,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,GCP,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Kubernetes,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Airflow,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,BigQuery,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Kafka,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,PostgreSQL,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Snowflake,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Docker,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,FastAPI,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,PySpark,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5738789183,,India,Data Engineer,Data Engineer,SQL,NaT
+ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,GCP,NaT
+ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Airflow,NaT
+ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Spark,NaT
+ADZUNA_5734855795,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Machine Learning,NaT
+ADZUNA_5721567666,,"Noida, Ghaziabad",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5721567666,,"Noida, Ghaziabad",Data Engineer,Data Engineer,Machine Learning,NaT
+ADZUNA_5715811249,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5715811249,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5732322302,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5732322302,,India,Data Engineer,Data Engineer,Machine Learning,NaT
+ADZUNA_5732322302,,India,Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Kafka,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,MySQL,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,PostgreSQL,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Spark,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5734855875,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,SQL,NaT
+ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,PySpark,NaT
+ADZUNA_5733051223,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5729064818,,"Hyderabad, Telangana",Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5753195109,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5753195109,,"Bangalore, Karnataka",Data Engineer,Data Engineer,CI/CD,NaT
+ADZUNA_5753195109,,"Bangalore, Karnataka",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5753195109,,"Bangalore, Karnataka",Data Engineer,Data Engineer,APIs,NaT
+ADZUNA_5753195109,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5753856857,,India,Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5753856857,,India,Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5753856857,,India,Data Engineer,Data Engineer,Snowflake,NaT
+ADZUNA_5753854820,,"Hyderabad, Telangana",Data Engineer,AI Engineer,AWS,NaT
+ADZUNA_5753854820,,"Hyderabad, Telangana",Data Engineer,AI Engineer,Databricks,NaT
+ADZUNA_5753854820,,"Hyderabad, Telangana",Data Engineer,AI Engineer,Spark,NaT
+ADZUNA_5753854820,,"Hyderabad, Telangana",Data Engineer,AI Engineer,LLM,NaT
+ADZUNA_5753854820,,"Hyderabad, Telangana",Data Engineer,AI Engineer,RAG,NaT
+ADZUNA_5753854820,,"Hyderabad, Telangana",Data Engineer,AI Engineer,PySpark,NaT
+ADZUNA_5753192442,,India,Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5753192442,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5753192442,,India,Data Engineer,Data Engineer,Snowflake,NaT
+ADZUNA_5753192442,,India,Data Engineer,Data Engineer,PySpark,NaT
+ADZUNA_5753192442,,India,Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5745169006,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5745169006,,"Bangalore, Karnataka",Data Engineer,Data Engineer,CI/CD,NaT
+ADZUNA_5745169006,,"Bangalore, Karnataka",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5745169006,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Git,NaT
+ADZUNA_5758516687,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Git,NaT
+ADZUNA_5758516687,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Data Visualization,NaT
+ADZUNA_5758515270,,"Delhi, India",Data Engineer,Data Analyst,AWS,NaT
+ADZUNA_5758515270,,"Delhi, India",Data Engineer,Data Analyst,Python,NaT
+ADZUNA_5758515270,,"Delhi, India",Data Engineer,Data Analyst,SQL,NaT
+ADZUNA_5750499063,,India,Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5750499063,,India,Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5750499063,,India,Data Engineer,Data Engineer,APIs,NaT
+ADZUNA_5750499063,,India,Data Engineer,Data Engineer,FastAPI,NaT
+ADZUNA_5750499063,,India,Data Engineer,Data Engineer,PySpark,NaT
+ADZUNA_5750499063,,India,Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5750499063,,India,Data Engineer,Data Engineer,SQL,NaT
+ADZUNA_5728103122,,India,Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5728103122,,India,Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5728103122,,India,Data Engineer,Data Engineer,GCP,NaT
+ADZUNA_5728103122,,India,Data Engineer,Data Engineer,BigQuery,NaT
+ADZUNA_5728103122,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5728103122,,India,Data Engineer,Data Engineer,APIs,NaT
+ADZUNA_5728103122,,India,Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5733975370,,India,Data Engineer,Data Engineer,GCP,NaT
+ADZUNA_5733975370,,India,Data Engineer,Data Engineer,BigQuery,NaT
+ADZUNA_5733975370,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5733975370,,India,Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5733975370,,India,Data Engineer,Data Engineer,SQL,NaT
+ADZUNA_5736370151,,India,Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5736370151,,India,Data Engineer,Data Engineer,Spark,NaT
+ADZUNA_5736370151,,India,Data Engineer,Data Engineer,PySpark,NaT
+ADZUNA_5736370151,,India,Data Engineer,Data Engineer,SQL,NaT
+ADZUNA_5751935240,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,Agile,NaT
+ADZUNA_5751935240,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,CI/CD,NaT
+ADZUNA_5751935240,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5751935240,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,Git,NaT
+ADZUNA_5751935240,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,PySpark,NaT
+ADZUNA_5751935240,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5729064950,,"Bangalore, Karnataka",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5734684086,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Data Warehousing,NaT
+ADZUNA_5734684086,,"Bangalore, Karnataka",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5734684086,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Snowflake,NaT
+ADZUNA_5743507403,,India,Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5753861414,,"Hyderabad, Telangana",Data Engineer,Data Scientist,LLM,NaT
+ADZUNA_5753861414,,"Hyderabad, Telangana",Data Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5758517681,,"Chennai, Tamil Nadu",Data Engineer,Data Analyst,Data Warehousing,NaT
+ADZUNA_5758517681,,"Chennai, Tamil Nadu",Data Engineer,Data Analyst,KPI Reporting,NaT
+ADZUNA_5758516068,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Azure,NaT
+ADZUNA_5758516068,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Data Warehousing,NaT
+ADZUNA_5758516068,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,Snowflake,NaT
+ADZUNA_5758516068,,"Mumbai, Maharashtra",Data Engineer,Data Engineer,SQL,NaT
+ADZUNA_5730011408,,"Bangalore, Karnataka",Data Engineer,Data Analyst,GCP,NaT
+ADZUNA_5730011408,,"Bangalore, Karnataka",Data Engineer,Data Analyst,Data Warehousing,NaT
+ADZUNA_5730011408,,"Bangalore, Karnataka",Data Engineer,Data Analyst,MySQL,NaT
+ADZUNA_5730011408,,"Bangalore, Karnataka",Data Engineer,Data Analyst,PostgreSQL,NaT
+ADZUNA_5730011408,,"Bangalore, Karnataka",Data Engineer,Data Analyst,SQL,NaT
+ADZUNA_5744182490,,India,Data Engineer,NLP Engineer,LLM,NaT
+ADZUNA_5744183530,,"Bangalore, Karnataka",Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5744183530,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5744183530,,"Bangalore, Karnataka",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5744183530,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Snowflake,NaT
+ADZUNA_5744178878,,India,Data Engineer,ML Engineer,dbt,NaT
+ADZUNA_5744178878,,India,Data Engineer,ML Engineer,APIs,NaT
+ADZUNA_5728102280,,"Hyderabad, Telangana",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5741246158,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Spark,NaT
+ADZUNA_5741246158,,"Bangalore, Karnataka",Data Engineer,Data Engineer,APIs,NaT
+ADZUNA_5741246158,,"Bangalore, Karnataka",Data Engineer,Data Engineer,Java,NaT
+ADZUNA_5743506762,,India,Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5750487445,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,ETL,NaT
+ADZUNA_5705682269,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5705682269,,"Chennai, Tamil Nadu",Data Engineer,Data Engineer,Classification,NaT
+ADZUNA_5742256100,,India,Data Engineer,Data Engineer,Python,NaT
+ADZUNA_5739766976,,"Bangalore, Karnataka",Data Engineer,Data Analyst,ETL,NaT
+ADZUNA_5739766976,,"Bangalore, Karnataka",Data Engineer,Data Analyst,PySpark,NaT
+ADZUNA_5739766976,,"Bangalore, Karnataka",Data Engineer,Data Analyst,SQL,NaT
+ADZUNA_5739766976,,"Bangalore, Karnataka",Data Engineer,Data Analyst,Power BI,NaT
+ADZUNA_5738770646,,India,Data Engineer,Data Engineer,AWS,NaT
+ADZUNA_5738770646,,India,Data Engineer,Data Engineer,MySQL,NaT
+ADZUNA_5738770646,,India,Data Engineer,Data Engineer,PostgreSQL,NaT
+ADZUNA_5697395766,,"Karnataka, India",Machine Learning Engineer,ML Engineer,MLOps,NaT
+ADZUNA_5697395766,,"Karnataka, India",Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5697395766,,"Karnataka, India",Machine Learning Engineer,ML Engineer,Python,NaT
+ADZUNA_5730227906,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5710346482,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5722874183,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,MLOps,NaT
+ADZUNA_5722874183,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5731601941,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5720854364,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5720854364,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Dashboarding,NaT
+ADZUNA_5722874106,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5716064491,,"Bangalore, Karnataka",Machine Learning Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5716064491,,"Bangalore, Karnataka",Machine Learning Engineer,AI Engineer,RAG,NaT
+ADZUNA_5682212469,,"Delhi, India",Machine Learning Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5682212469,,"Delhi, India",Machine Learning Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5711125592,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5711125535,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,GCP,NaT
+ADZUNA_5711125535,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5724373900,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5725158511,,India,Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,MLOps,NaT
+ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5710338521,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Python,NaT
+ADZUNA_5734259186,,India,Machine Learning Engineer,Data Scientist,Feature Engineering,NaT
+ADZUNA_5734259186,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5734259186,,India,Machine Learning Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5736369767,,"Trivandrum, Thiruvananthapuram",Machine Learning Engineer,ML Engineer,Feature Engineering,NaT
+ADZUNA_5736369767,,"Trivandrum, Thiruvananthapuram",Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5721758239,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,MLOps,NaT
+ADZUNA_5721758239,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5707345019,,India,Machine Learning Engineer,Data Scientist,GCP,NaT
+ADZUNA_5707345019,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,CI/CD,NaT
+ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,Kubernetes,NaT
+ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,MLOps,NaT
+ADZUNA_5712898787,,"Bangalore, Karnataka",Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5703782115,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Kafka,NaT
+ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Spark,NaT
+ADZUNA_5724227614,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Engineer,Machine Learning,NaT
+ADZUNA_5711044969,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,GCP,NaT
+ADZUNA_5711044969,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5711044969,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,RAG,NaT
+ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Databricks,NaT
+ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,ETL,NaT
+ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Kafka,NaT
+ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Spark,NaT
+ADZUNA_5714793058,,"Bangalore, Karnataka",Data and Machine Learning Engineer,Data Engineer,Machine Learning,NaT
+ADZUNA_5731319951,,"Kochi, Ernakulam",Senior Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5715808679,,"Hyderabad, Telangana",Senior Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5712728686,,"Bangalore, Karnataka",Senior Machine Learning Engineer,NLP Engineer,Machine Learning,NaT
+ADZUNA_5712728686,,"Bangalore, Karnataka",Senior Machine Learning Engineer,NLP Engineer,LLM,NaT
+ADZUNA_5712728686,,"Bangalore, Karnataka",Senior Machine Learning Engineer,NLP Engineer,RAG,NaT
+ADZUNA_5711044379,,India,Senior Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5713824821,,India,Staff Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5666094028,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5666094028,,"Bangalore, Karnataka",Senior Machine Learning Engineer,AI Engineer,LLM,NaT
+ADZUNA_5703782000,,"Chennai, Tamil Nadu",Opportunity for Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5703782000,,"Chennai, Tamil Nadu",Opportunity for Machine Learning Engineer,ML Engineer,RAG,NaT
+ADZUNA_5714431288,,India,Senior Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5719048571,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5687609467,,"Bangalore, Karnataka",Staff Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5718579849,,"Bangalore, Karnataka",Principal Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5730228329,,"Bangalore, Karnataka",Staff Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5716669017,,"Hyderabad, Telangana",Senior Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5721566914,,"Bangalore, Karnataka",Senior Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,MLOps,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,LLM,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,LlamaIndex,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,Natural Language Processing,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5719293531,,India,Gen AI Machine Learning Engineer,AI Engineer,RAG,NaT
+ADZUNA_5716933169,,"Bangalore, Karnataka",Associate Architect - Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5737564260,,"Bangalore, Karnataka",Lead Machine Learning Engineer T500-26074,Data Scientist,Machine Learning,NaT
+ADZUNA_5737566320,,"Bangalore, Karnataka",Principal Machine Learning Engineer T500-24544,Data Scientist,Machine Learning,NaT
+ADZUNA_5731321170,,India,Machine Learning Engineer - Gen AI Specialist,Data Scientist,Machine Learning,NaT
+ADZUNA_5724374705,,"Bangalore, Karnataka",Machine Learning Engineer II- Recommendation Systems,Data Scientist,Machine Learning,NaT
+ADZUNA_5722873987,,"Hyderabad, Telangana",Machine Learning Engineer Immediate Joiner to 30 Days,Data Scientist,Machine Learning,NaT
+ADZUNA_5729460374,,"Bangalore, Karnataka",Data Machine Learning Engineer On-Site Saudi Arabia,Data Scientist,ETL,NaT
+ADZUNA_5729460374,,"Bangalore, Karnataka",Data Machine Learning Engineer On-Site Saudi Arabia,Data Scientist,Machine Learning,NaT
+ADZUNA_5729460374,,"Bangalore, Karnataka",Data Machine Learning Engineer On-Site Saudi Arabia,Data Scientist,SQL,NaT
+ADZUNA_5721774818,,"Bangalore, Karnataka",Software Engineer Machine Learning,Data Scientist,Machine Learning,NaT
+ADZUNA_5654937372,,"Bangalore, Karnataka",Staff Engineer - Machine Learning,Data Scientist,Machine Learning,NaT
+ADZUNA_5699972448,,"Bangalore, Karnataka",Senior Software Development Engineer Machine Learning,Data Scientist,Machine Learning,NaT
+ADZUNA_5665333549,,India,Natural Language Processing Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5665333549,,India,Natural Language Processing Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5659603481,,"Bangalore, Karnataka",Software Development Engineer II Machine Learning,Data Scientist,Machine Learning,NaT
+ADZUNA_5702251440,,"Bangalore, Karnataka",Manager - Product Management,Business Analyst,Machine Learning,NaT
+ADZUNA_5715810754,,"Bangalore, Karnataka",Manager-Product Management Developer Experiences with Agentic AI,Data Scientist,Machine Learning,NaT
+ADZUNA_5733481355,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5728869096,,"Mumbai, Maharashtra",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5729063122,,"Bangalore, Karnataka",AI Scientist 2,Data Scientist,Machine Learning,NaT
+ADZUNA_5718401844,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5727268693,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5722062899,,India,Machine Learning Engineer,Data Scientist,Classification,NaT
+ADZUNA_5722062899,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5722062899,,India,Machine Learning Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5722062899,,India,Machine Learning Engineer,Data Scientist,Python,NaT
+ADZUNA_5713151611,,"Hyderabad, Telangana",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5700815074,,"Navi Mumbai, Maharashtra",Machine Learning Engineer,Data Scientist,Azure,NaT
+ADZUNA_5700815074,,"Navi Mumbai, Maharashtra",Machine Learning Engineer,Data Scientist,Databricks,NaT
+ADZUNA_5700815074,,"Navi Mumbai, Maharashtra",Machine Learning Engineer,Data Scientist,ETL,NaT
+ADZUNA_5700815074,,"Navi Mumbai, Maharashtra",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5700815074,,"Navi Mumbai, Maharashtra",Machine Learning Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5700815074,,"Navi Mumbai, Maharashtra",Machine Learning Engineer,Data Scientist,Python,NaT
+ADZUNA_5700815068,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,Azure,NaT
+ADZUNA_5700815068,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,Databricks,NaT
+ADZUNA_5700815068,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,ETL,NaT
+ADZUNA_5700815068,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5700815068,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5700815068,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,Python,NaT
+ADZUNA_5713195107,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,MLOps,NaT
+ADZUNA_5713195107,,"Hyderabad, Telangana",Machine Learning Engineer,ML Engineer,Machine Learning,NaT
+ADZUNA_5734813509,,"Bangalore, Karnataka",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5646725572,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5646725572,,India,Machine Learning Engineer,Data Scientist,KPI Reporting,NaT
+ADZUNA_5703906666,,India,Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5713213801,,"Kolkata, West Bengal",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5695000855,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,Classification,NaT
+ADZUNA_5695000855,,"Gurgaon, Haryana",Machine Learning Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5712733648,,"Bangalore, Karnataka",AI Engineer,AI Engineer,LLM,NaT
+ADZUNA_5712733648,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5689759677,,"Delhi, India",AI Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5720301742,,"Mumbai, Maharashtra",AI Engineer,AI Engineer,R,NaT
+ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Databricks,NaT
+ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,Sentence Transformers,NaT
+ADZUNA_5724226528,,"Bangalore, Karnataka",AI Engineer,AI Engineer,SQL,NaT
+ADZUNA_5709939794,,"Bangalore, Karnataka",AI Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5734688446,,"Bangalore, Karnataka",AI Engineer Agentic AI,AI Engineer,Databricks,NaT
+ADZUNA_5734688446,,"Bangalore, Karnataka",AI Engineer Agentic AI,AI Engineer,LangChain,NaT
+ADZUNA_5734688446,,"Bangalore, Karnataka",AI Engineer Agentic AI,AI Engineer,SQL,NaT
+ADZUNA_5728103644,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5728103644,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,Sentence Transformers,NaT
+ADZUNA_5734682777,,India,Generative AI Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5734682777,,India,Generative AI Engineer,Data Scientist,Python,NaT
+ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,AWS,NaT
+ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,Azure,NaT
+ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,GCP,NaT
+ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,Kubernetes,NaT
+ADZUNA_5737577818,,India,Senior AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5716484410,,"Hyderabad, Telangana",Generative AI Engineer,AI Engineer,AWS,NaT
+ADZUNA_5737585169,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,Azure,NaT
+ADZUNA_5737585169,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,CI/CD,NaT
+ADZUNA_5734856127,,"Mumbai, Maharashtra",Junior AI Engineers,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5728103409,,"Bangalore, Karnataka",Vertex AI engineer,Data Scientist,GCP,NaT
+ADZUNA_5728103409,,"Bangalore, Karnataka",Vertex AI engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5728103409,,"Bangalore, Karnataka",Vertex AI engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5734682856,,"Gujarat, India",Generative AI Engineer,AI Engineer,LLM,NaT
+ADZUNA_5734682856,,"Gujarat, India",Generative AI Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5734682856,,"Gujarat, India",Generative AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5734682856,,"Gujarat, India",Generative AI Engineer,AI Engineer,Sentence Transformers,NaT
+ADZUNA_5734682856,,"Gujarat, India",Generative AI Engineer,AI Engineer,APIs,NaT
+ADZUNA_5726895863,,"Hyderabad, Telangana",Lead AI Engineer,AI Engineer,AWS,NaT
+ADZUNA_5726895863,,"Hyderabad, Telangana",Lead AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5726895863,,"Hyderabad, Telangana",Lead AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5726895863,,"Hyderabad, Telangana",Lead AI Engineer,AI Engineer,Java,NaT
+ADZUNA_5726895863,,"Hyderabad, Telangana",Lead AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5708300881,,"Ahmedabad, Gujarat",Lead AI Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5724826452,,India,Generative AI Engineer,ML Engineer,APIs,NaT
+ADZUNA_5724826452,,India,Generative AI Engineer,ML Engineer,Python,NaT
+ADZUNA_5671625902,,India,Generative AI Engineer,AI Engineer,GCP,NaT
+ADZUNA_5714430958,,"Hyderabad, Telangana",Generative AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5714430958,,"Hyderabad, Telangana",Generative AI Engineer,AI Engineer,Regression,NaT
+ADZUNA_5714430958,,"Hyderabad, Telangana",Generative AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5713570283,,"Bangalore, Karnataka",Generative AI Engineer,AI Engineer,Azure,NaT
+ADZUNA_5713570283,,"Bangalore, Karnataka",Generative AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5699167065,,"Hyderabad, Telangana",Senior AI Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5733975993,,India,Senior AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5733975993,,India,Senior AI Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5733975993,,India,Senior AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5715810244,,India,Agentic AI Engineer,AI Engineer,LLM,NaT
+ADZUNA_5715810244,,India,Agentic AI Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5715810244,,India,Agentic AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5715810244,,India,Agentic AI Engineer,AI Engineer,Streamlit,NaT
+ADZUNA_5711045088,,"Mumbai, Maharashtra",Gen AI - Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5724225875,,India,Generative AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5724225875,,India,Generative AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5654934769,,"Bangalore, Karnataka",Senior AI Engineer,AI Engineer,Regression,NaT
+ADZUNA_5734682804,,"Noida, Ghaziabad",Generative AI Engineer,AI Engineer,R,NaT
+ADZUNA_5732320520,,India,Generative AI Engineer,AI Engineer,Azure,NaT
+ADZUNA_5732320520,,India,Generative AI Engineer,AI Engineer,LLM,NaT
+ADZUNA_5724227773,,"Bangalore, Karnataka",Gen AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5724227773,,"Bangalore, Karnataka",Gen AI Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5666091947,,"Mumbai, Maharashtra",Generative AI Engineer,AI Engineer,Azure,NaT
+ADZUNA_5666091947,,"Mumbai, Maharashtra",Generative AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5666091947,,"Mumbai, Maharashtra",Generative AI Engineer,AI Engineer,Sentence Transformers,NaT
+ADZUNA_5666091947,,"Mumbai, Maharashtra",Generative AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5734682299,,"Bangalore, Karnataka",Generative AI Engineer,AI Engineer,GCP,NaT
+ADZUNA_5734682299,,"Bangalore, Karnataka",Generative AI Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5734682299,,"Bangalore, Karnataka",Generative AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5734682299,,"Bangalore, Karnataka",Generative AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5731319573,,"Bangalore, Karnataka",Agentic AI Engineer,Data Scientist,Feature Engineering,NaT
+ADZUNA_5731319573,,"Bangalore, Karnataka",Agentic AI Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5731319573,,"Bangalore, Karnataka",Agentic AI Engineer,Data Scientist,Python,NaT
+ADZUNA_5731319573,,"Bangalore, Karnataka",Agentic AI Engineer,Data Scientist,Streamlit,NaT
+ADZUNA_5737566657,,"Chandigarh, India",Generative AI Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5737566657,,"Chandigarh, India",Generative AI Engineer,AI Engineer,Model Evaluation,NaT
+ADZUNA_5737566657,,"Chandigarh, India",Generative AI Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5737564109,,"New Delhi, Delhi",Lead /Senior AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5730011671,,"Bangalore, Karnataka",Lead Gen AI Engineer,AI Engineer,LLM,NaT
+ADZUNA_5730011671,,"Bangalore, Karnataka",Lead Gen AI Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5730011671,,"Bangalore, Karnataka",Lead Gen AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5730011671,,"Bangalore, Karnataka",Lead Gen AI Engineer,AI Engineer,Python,NaT
+ADZUNA_5731317395,,India,AI Engineer 25 Position,Data Scientist,Machine Learning,NaT
+ADZUNA_5712897474,,"Noida, Ghaziabad",Lead Generative AI Engineer,AI Engineer,AWS,NaT
+ADZUNA_5712897474,,"Noida, Ghaziabad",Lead Generative AI Engineer,AI Engineer,LLM,NaT
+ADZUNA_5721568532,,"Bangalore, Karnataka",Senior Gen AI Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5721568532,,"Bangalore, Karnataka",Senior Gen AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5724824040,,"Hyderabad, Telangana",Senior Gen AI Engineer,AI Engineer,Azure,NaT
+ADZUNA_5724824040,,"Hyderabad, Telangana",Senior Gen AI Engineer,AI Engineer,Feature Engineering,NaT
+ADZUNA_5724824040,,"Hyderabad, Telangana",Senior Gen AI Engineer,AI Engineer,Model Evaluation,NaT
+ADZUNA_5724824040,,"Hyderabad, Telangana",Senior Gen AI Engineer,AI Engineer,LLM,NaT
+ADZUNA_5724824040,,"Hyderabad, Telangana",Senior Gen AI Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5724824040,,"Hyderabad, Telangana",Senior Gen AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5697209647,,India,Artificial Intelligence Engineer,NLP Engineer,Machine Learning,NaT
+ADZUNA_5697209647,,India,Artificial Intelligence Engineer,NLP Engineer,RAG,NaT
+ADZUNA_5675448969,,"Noida, Ghaziabad",NLP Engineer,NLP Engineer,Natural Language Processing,NaT
+ADZUNA_5675448969,,"Noida, Ghaziabad",NLP Engineer,NLP Engineer,Prompt Engineering,NaT
+ADZUNA_5700910297,,"Pune, Maharashtra",NLP Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5700910297,,"Pune, Maharashtra",NLP Engineer,Data Scientist,Named Entity Recognition,NaT
+ADZUNA_5700910297,,"Pune, Maharashtra",NLP Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5720979659,,"Hyderabad, Telangana",Nlp Software Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5720979659,,"Hyderabad, Telangana",Nlp Software Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5720979659,,"Hyderabad, Telangana",Nlp Software Engineer,Data Scientist,APIs,NaT
+ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,Machine Learning,NaT
+ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,LLM,NaT
+ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,Natural Language Processing,NaT
+ADZUNA_5722259879,,India,Engineer- NLP,AI Engineer,RAG,NaT
+ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,LLM,NaT
+ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,RAG,NaT
+ADZUNA_5737576338,,"Hyderabad, Telangana",Senior Data Scientist,Data Scientist,Sentence Transformers,NaT
+ADZUNA_5732318726,,"Bangalore, Karnataka",Remote Data Engineer - 78243,Data Engineer,RAG,NaT
+ADZUNA_5732318726,,"Bangalore, Karnataka",Remote Data Engineer - 78243,Data Engineer,Vector Database,NaT
+ADZUNA_5732319444,,"Mumbai, Maharashtra",Remote Data Engineer - 78243,Data Engineer,RAG,NaT
+ADZUNA_5732319444,,"Mumbai, Maharashtra",Remote Data Engineer - 78243,Data Engineer,Vector Database,NaT
+ADZUNA_5732317913,,"Kolkata, West Bengal",Remote Data Engineer - 78243,Data Engineer,RAG,NaT
+ADZUNA_5732317913,,"Kolkata, West Bengal",Remote Data Engineer - 78243,Data Engineer,Vector Database,NaT
+ADZUNA_5732386367,,"Chennai, Tamil Nadu",Remote Data Engineer - 78243,Data Engineer,RAG,NaT
+ADZUNA_5732386367,,"Chennai, Tamil Nadu",Remote Data Engineer - 78243,Data Engineer,Vector Database,NaT
+ADZUNA_5732317536,,India,Remote Data Engineer - 78243,Data Engineer,RAG,NaT
+ADZUNA_5732317536,,India,Remote Data Engineer - 78243,Data Engineer,Vector Database,NaT
+ADZUNA_5732318883,,"Hyderabad, Telangana",Remote Data Engineer - 78243,Data Engineer,RAG,NaT
+ADZUNA_5732318883,,"Hyderabad, Telangana",Remote Data Engineer - 78243,Data Engineer,Vector Database,NaT
+ADZUNA_5728304938,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP,Data Scientist,Machine Learning,NaT
+ADZUNA_5728304938,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5702090850,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Machine Learning,NaT
+ADZUNA_5702090850,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5702090850,,"Bangalore, Karnataka",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Python,NaT
+ADZUNA_5702090686,,"Pune, Maharashtra",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Machine Learning,NaT
+ADZUNA_5702090686,,"Pune, Maharashtra",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5702090686,,"Pune, Maharashtra",Senior Machine Learning Engineer - NLP/Python,Data Scientist,Python,NaT
+ADZUNA_5679803905,,"Bangalore, Karnataka",Lead AIML Engineer - NLP Generative AI,AI Engineer,LLM,NaT
+ADZUNA_5679803905,,"Bangalore, Karnataka",Lead AIML Engineer - NLP Generative AI,AI Engineer,Natural Language Processing,NaT
+ADZUNA_5679803905,,"Bangalore, Karnataka",Lead AIML Engineer - NLP Generative AI,AI Engineer,RAG,NaT
+ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Machine Learning,NaT
+ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Named Entity Recognition,NaT
+ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,RAG,NaT
+ADZUNA_5679804139,,"Bangalore, Karnataka",Senior AI/ML Engineer - NLP Generative AI,Data Scientist,Sentence Transformers,NaT
+ADZUNA_5689136137,,"Bangalore, Karnataka",Machine Learning Engineer III NLP,Data Scientist,Machine Learning,NaT
+ADZUNA_5689136137,,"Bangalore, Karnataka",Machine Learning Engineer III NLP,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5645711532,,"Chennai, Tamil Nadu",AI Engineer Agentic Operations - NLP,Data Scientist,Machine Learning,NaT
+ADZUNA_5645711532,,"Chennai, Tamil Nadu",AI Engineer Agentic Operations - NLP,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5645711531,,"Pune, Maharashtra",AI Engineer Agentic Operations - NLP,Data Scientist,Machine Learning,NaT
+ADZUNA_5645711531,,"Pune, Maharashtra",AI Engineer Agentic Operations - NLP,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5645376147,,"Chennai, Tamil Nadu",AI Engineer Agentic Operations - NLP,Data Scientist,Machine Learning,NaT
+ADZUNA_5645376147,,"Chennai, Tamil Nadu",AI Engineer Agentic Operations - NLP,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5678664479,,"Bangalore, Karnataka",Natural Language Processing Engineer Freelancer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5678664479,,"Bangalore, Karnataka",Natural Language Processing Engineer Freelancer,Data Scientist,R,NaT
+ADZUNA_5715095702,,"Gurgaon, Haryana",Senior Member Technical Staff - Software Development,ML Engineer,APIs,NaT
+ADZUNA_5678664246,,"Hyderabad, Telangana",Natural Language Processing Engineer Freelancer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5678663834,,"Delhi, India",Natural Language Processing Engineer Freelancer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5728308901,,"Pune, Maharashtra",Senior ML Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5728308901,,"Pune, Maharashtra",Senior ML Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5734180016,,"Richmond Town, Bangalore",Gen AI Lead,Data Scientist,Machine Learning,NaT
+ADZUNA_5734180016,,"Richmond Town, Bangalore",Gen AI Lead,Data Scientist,LLM,NaT
+ADZUNA_5734180016,,"Richmond Town, Bangalore",Gen AI Lead,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5729624440,,India,Advanced Engineer ML LLM NLP RAG,NLP Engineer,Agile,NaT
+ADZUNA_5729624440,,India,Advanced Engineer ML LLM NLP RAG,NLP Engineer,Machine Learning,NaT
+ADZUNA_5729624440,,India,Advanced Engineer ML LLM NLP RAG,NLP Engineer,LLM,NaT
+ADZUNA_5729624440,,India,Advanced Engineer ML LLM NLP RAG,NLP Engineer,Natural Language Processing,NaT
+ADZUNA_5729624440,,India,Advanced Engineer ML LLM NLP RAG,NLP Engineer,RAG,NaT
+ADZUNA_5735418535,,"Noida, Ghaziabad",Gen AI Engineer,AI Engineer,AWS,NaT
+ADZUNA_5735418535,,"Noida, Ghaziabad",Gen AI Engineer,AI Engineer,Azure,NaT
+ADZUNA_5735418535,,"Noida, Ghaziabad",Gen AI Engineer,AI Engineer,GCP,NaT
+ADZUNA_5735418535,,"Noida, Ghaziabad",Gen AI Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5735418535,,"Noida, Ghaziabad",Gen AI Engineer,AI Engineer,LlamaIndex,NaT
+ADZUNA_5735418535,,"Noida, Ghaziabad",Gen AI Engineer,AI Engineer,RAG,NaT
+ADZUNA_5735418535,,"Noida, Ghaziabad",Gen AI Engineer,AI Engineer,APIs,NaT
+ADZUNA_5678658951,,"Bangalore, Karnataka",Data Science Leader,Data Scientist,CI/CD,NaT
+ADZUNA_5678658951,,"Bangalore, Karnataka",Data Science Leader,Data Scientist,MLOps,NaT
+ADZUNA_5678658951,,"Bangalore, Karnataka",Data Science Leader,Data Scientist,Machine Learning,NaT
+ADZUNA_5678658951,,"Bangalore, Karnataka",Data Science Leader,Data Scientist,Random Forest,NaT
+ADZUNA_5678658951,,"Bangalore, Karnataka",Data Science Leader,Data Scientist,XGBoost,NaT
+ADZUNA_5678658951,,"Bangalore, Karnataka",Data Science Leader,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5729646131,,India,Sr Software Engineer AI/ML/NLP 4to6yrs Gurgaon,Data Scientist,Machine Learning,NaT
+ADZUNA_5729646131,,India,Sr Software Engineer AI/ML/NLP 4to6yrs Gurgaon,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5721222904,,"Pune, Maharashtra",Python Developer Data Engineering/AI - Assistant Vice President,Data Scientist,CI/CD,NaT
+ADZUNA_5721222904,,"Pune, Maharashtra",Python Developer Data Engineering/AI - Assistant Vice President,Data Scientist,LLM,NaT
+ADZUNA_5721222904,,"Pune, Maharashtra",Python Developer Data Engineering/AI - Assistant Vice President,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5721222904,,"Pune, Maharashtra",Python Developer Data Engineering/AI - Assistant Vice President,Data Scientist,APIs,NaT
+ADZUNA_5721222904,,"Pune, Maharashtra",Python Developer Data Engineering/AI - Assistant Vice President,Data Scientist,Git,NaT
+ADZUNA_5721222904,,"Pune, Maharashtra",Python Developer Data Engineering/AI - Assistant Vice President,Data Scientist,PySpark,NaT
+ADZUNA_5721222904,,"Pune, Maharashtra",Python Developer Data Engineering/AI - Assistant Vice President,Data Scientist,Python,NaT
+ADZUNA_5719887935,,"Pune, Maharashtra",AIML-Python coding Agent,AI Engineer,Machine Learning,NaT
+ADZUNA_5719887935,,"Pune, Maharashtra",AIML-Python coding Agent,AI Engineer,LLM,NaT
+ADZUNA_5719887935,,"Pune, Maharashtra",AIML-Python coding Agent,AI Engineer,Python,NaT
+ADZUNA_5729633421,,India,GEN AI Consultant,AI Engineer,Azure,NaT
+ADZUNA_5729633421,,India,GEN AI Consultant,AI Engineer,LLM,NaT
+ADZUNA_5729633421,,India,GEN AI Consultant,AI Engineer,RAG,NaT
+ADZUNA_5703265324,,"Kochi, Ernakulam",ML Engineer,AI Engineer,Machine Learning,NaT
+ADZUNA_5703265324,,"Kochi, Ernakulam",ML Engineer,AI Engineer,LLM,NaT
+ADZUNA_5703265324,,"Kochi, Ernakulam",ML Engineer,AI Engineer,LangChain,NaT
+ADZUNA_5703265324,,"Kochi, Ernakulam",ML Engineer,AI Engineer,LlamaIndex,NaT
+ADZUNA_5703265324,,"Kochi, Ernakulam",ML Engineer,AI Engineer,Natural Language Processing,NaT
+ADZUNA_5703265324,,"Kochi, Ernakulam",ML Engineer,AI Engineer,Prompt Engineering,NaT
+ADZUNA_5703265324,,"Kochi, Ernakulam",ML Engineer,AI Engineer,RAG,NaT
+ADZUNA_5735751166,,"Gurgaon, Haryana",AI/ML Engineer,Data Scientist,Machine Learning,NaT
+ADZUNA_5735751166,,"Gurgaon, Haryana",AI/ML Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5735751166,,"Gurgaon, Haryana",AI/ML Engineer,Data Scientist,Prompt Engineering,NaT
+ADZUNA_5714815947,,India,AI/ML Developer,Business Analyst,Machine Learning,NaT
+ADZUNA_5710344548,,"Bangalore, Karnataka",Software Engineer E5/E6 - AI/ML,AI Engineer,Machine Learning,NaT
+ADZUNA_5707771844,,"Pune, Maharashtra",Associate Manager Data Science,Data Scientist,Machine Learning,NaT
+ADZUNA_5707772018,,"Pune, Maharashtra",Manager Data Science,Data Scientist,Machine Learning,NaT
+ADZUNA_5705593392,,"Pune, Maharashtra",Ey - Gds Consulting - Aia - Data Science - Senior Professional,Data Analyst,AWS,NaT
+ADZUNA_5705593392,,"Pune, Maharashtra",Ey - Gds Consulting - Aia - Data Science - Senior Professional,Data Analyst,Azure,NaT
+ADZUNA_5705593392,,"Pune, Maharashtra",Ey - Gds Consulting - Aia - Data Science - Senior Professional,Data Analyst,GCP,NaT
+ADZUNA_5705593392,,"Pune, Maharashtra",Ey - Gds Consulting - Aia - Data Science - Senior Professional,Data Analyst,Python,NaT
+ADZUNA_5705593392,,"Pune, Maharashtra",Ey - Gds Consulting - Aia - Data Science - Senior Professional,Data Analyst,SQL,NaT
+ADZUNA_5700907143,,"Bangalore, Karnataka",Senior IP / Sub System SOC Verification Engineer,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5697643100,,India,Senior Engineer Data Scientist - Nissan ISIT,Data Scientist,AWS,NaT
+ADZUNA_5697643100,,India,Senior Engineer Data Scientist - Nissan ISIT,Data Scientist,Machine Learning,NaT
+ADZUNA_5703140162,,"Bangalore, Karnataka",Sr. Engineering Manager Machine Learning,Data Scientist,Machine Learning,NaT
+ADZUNA_5707771485,,"Pune, Maharashtra",Senior Specialist Data Science,Data Scientist,Machine Learning,NaT
+ADZUNA_5714313633,,India,LLM Engineer,NLP Engineer,LLM,NaT
+ADZUNA_5647840743,,"Visakhapatnam, Andhra Pradesh",AI LLM Developer,NLP Engineer,LLM,NaT
+ADZUNA_5678667905,,"Hyderabad, Telangana",Subcon demand For Apple project - Data scientist,Data Scientist,Spark,NaT
+ADZUNA_5678667905,,"Hyderabad, Telangana",Subcon demand For Apple project - Data scientist,Data Scientist,Classification,NaT
+ADZUNA_5678667905,,"Hyderabad, Telangana",Subcon demand For Apple project - Data scientist,Data Scientist,Machine Learning,NaT
+ADZUNA_5678667905,,"Hyderabad, Telangana",Subcon demand For Apple project - Data scientist,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5678667905,,"Hyderabad, Telangana",Subcon demand For Apple project - Data scientist,Data Scientist,Text Classification,NaT
+ADZUNA_5678667905,,"Hyderabad, Telangana",Subcon demand For Apple project - Data scientist,Data Scientist,Python,NaT
+ADZUNA_5678667905,,"Hyderabad, Telangana",Subcon demand For Apple project - Data scientist,Data Scientist,SQL,NaT
+ADZUNA_5738206341,,India,Practice Head Data Science,Data Scientist,Machine Learning,NaT
+ADZUNA_5695119381,,"Hyderabad, Telangana",Sr. Manager - Data Science Machine Learning GenAI Technical Leader,Data Scientist,Machine Learning,NaT
+ADZUNA_5700726261,,"Bangalore, Karnataka",S c Global Network - Ai - Retail - Ai/gen Ai Retail Analyst,AI Engineer,Python,NaT
+ADZUNA_5721439219,,"Panchkula, Haryana",Full Stack AI Engineer,AI Engineer,APIs,NaT
+ADZUNA_5700909963,,"Pune, Maharashtra",Connectivity Embedded,Data Scientist,Machine Learning,NaT
+ADZUNA_5700909963,,"Pune, Maharashtra",Connectivity Embedded,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5678602919,,"Bangalore, Karnataka",Data Scientist Level 3,Data Scientist,Machine Learning,NaT
+ADZUNA_5678602919,,"Bangalore, Karnataka",Data Scientist Level 3,Data Scientist,LLM,NaT
+ADZUNA_5678602919,,"Bangalore, Karnataka",Data Scientist Level 3,Data Scientist,Natural Language Processing,NaT
+ADZUNA_5695051146,,"Hyderabad, Telangana",AI / ML Engineer,Business Analyst,Machine Learning,NaT
+ADZUNA_5655915811,,"Pune, Maharashtra",AL/ML Developer,Data Scientist,Machine Learning,NaT
+ADZUNA_5655915811,,"Pune, Maharashtra",AL/ML Developer,Data Scientist,LangChain,NaT
+ADZUNA_5678659326,,"Bangalore, Karnataka",Azure Senior Data Ops/ Gen AI Engineer,Data Scientist,Azure,NaT
+ADZUNA_5678659326,,"Bangalore, Karnataka",Azure Senior Data Ops/ Gen AI Engineer,Data Scientist,ETL,NaT
+ADZUNA_5678659326,,"Bangalore, Karnataka",Azure Senior Data Ops/ Gen AI Engineer,Data Scientist,Natural Language Processing,NaT

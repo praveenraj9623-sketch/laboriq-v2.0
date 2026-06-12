@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/Desktop/Labour_IQ_Upgrade/mlruns/580241401585395976/models/m-0ecacb8405a54beb92ef368aba4dbd5c/artifacts
+creation_timestamp: 1781175165598
+experiment_id: '580241401585395976'
+last_updated_timestamp: 1781175172913
+model_id: m-0ecacb8405a54beb92ef368aba4dbd5c
+model_type: null
+name: role_classifier
+source_run_id: ccb6a19ec54840d9887afd297a95631d
+status: 2
+status_message: null

@@ -1,0 +1,16 @@
+creation_timestamp: 1781173988685
+current_stage: Staging
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1781173988747
+model_id: m-98aa8a87ff8e4f1db49358095b933f69
+name: LaborIQSalaryModel
+run_id: 19392b1df4f447a496817ec31884117f
+run_link: null
+source: models:/m-98aa8a87ff8e4f1db49358095b933f69
+status: READY
+status_message: null
+storage_location: file:///C:/Users/admin/Desktop/Labour_IQ_Upgrade/mlruns/580241401585395976/models/m-98aa8a87ff8e4f1db49358095b933f69/artifacts
+user_id: null
+version: 2
+workspace: default

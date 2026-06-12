@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/external/adzuna_cache/
+*.zip
+*.rar
+*.7z
+.ipynb_checkpoints/
+.DS_Store

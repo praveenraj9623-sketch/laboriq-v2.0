@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/admin/Desktop/Labour_IQ_Upgrade/mlruns/580241401585395976/models/m-08f3a01c0e63409e9b0e29f4722508f8/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-08f3a01c0e63409e9b0e29f4722508f8
+model_size_bytes: 35453
+model_uuid: m-08f3a01c0e63409e9b0e29f4722508f8
+prompts: null
+run_id: f89f7d5f09f04338943614deec40b574
+utc_time_created: '2026-06-11 10:30:12.891115'

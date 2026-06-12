@@ -1,77 +1,80 @@
 skill,mentions,unique_postings
-Python,699,699
-SQL,698,698
-APIs,503,503
-Business Recommendations,422,422
+Python,737,737
+SQL,725,725
+APIs,518,518
+Machine Learning,463,463
+Business Recommendations,423,423
 Labor Market Analytics,421,421
-Future of Work,420,420
 Stakeholder Communication,420,420
-Machine Learning,361,361
-Data Visualization,297,297
-LLM,296,296
-RAG,280,280
-ETL,259,259
-Excel,250,250
+Future of Work,420,420
+LLM,317,317
+RAG,300,300
+Data Visualization,300,300
+ETL,279,279
+Excel,253,253
 Statistics,248,248
-Prompt Engineering,230,230
-Spark,228,228
-Power BI,226,226
-LangChain,222,222
-Scikit-learn,221,221
+Prompt Engineering,236,236
+LangChain,233,233
+Spark,232,232
+Power BI,230,230
+AWS,229,229
+Scikit-learn,223,223
+Model Evaluation,214,214
 Vector Database,214,214
 Semantic Search,213,213
-AWS,212,212
-Model Evaluation,212,212
-Tableau,197,197
-Azure,191,191
+Azure,211,211
+Tableau,198,198
 Airflow,191,191
 OpenAI API,182,182
-Java,177,177
+Java,182,182
+KPI Reporting,176,176
 Econometrics,172,172
-KPI Reporting,165,165
 Gemini API,161,161
-GCP,137,137
-Natural Language Processing,122,122
-Git,104,104
+Natural Language Processing,151,151
+GCP,149,149
+Git,110,110
 Docker,103,103
-Agile,88,88
-Sentence Transformers,86,86
-Kubernetes,83,83
+Agile,94,94
+Sentence Transformers,88,88
+Kubernetes,84,84
+Data Warehousing,83,83
+CI/CD,82,82
 Kafka,81,81
 Information Extraction,80,80
-Data Warehousing,78,78
-CI/CD,77,77
-PySpark,67,67
-Scala,59,59
-MLOps,55,55
-Market Research,53,53
+PySpark,76,76
+Scala,60,60
+MLOps,58,58
+Market Research,54,54
+Databricks,54,54
 Economic Analysis,49,49
-Linux,46,46
-PostgreSQL,45,45
-Databricks,44,44
-MySQL,41,41
+PostgreSQL,48,48
+Linux,47,47
+MySQL,43,43
 Bash,41,41
-Jira,35,35
-Snowflake,30,30
-BigQuery,21,21
-R,20,20
-Dashboarding,19,19
-FastAPI,16,16
-Feature Engineering,7,7
-Regression,7,7
-Time Series,5,5
+Jira,37,37
+Snowflake,35,35
+R,26,26
+BigQuery,23,23
+Dashboarding,20,20
+FastAPI,17,17
+Regression,11,11
+Feature Engineering,10,10
+Classification,7,7
+Time Series,6,6
+LlamaIndex,6,6
 Probability,4,4
-LlamaIndex,4,4
+dbt,4,4
 Matplotlib,4,4
-dbt,3,3
+Hypothesis Testing,3,3
+Streamlit,3,3
+Clustering,3,3
 Named Entity Recognition,2,2
-Seaborn,2,2
-Hypothesis Testing,2,2
 Workforce Planning,2,2
-Clustering,2,2
-Causal Inference,1,1
-Streamlit,1,1
+Seaborn,2,2
+Random Forest,1,1
+Text Classification,1,1
 Regression Analysis,1,1
-Classification,1,1
 Compensation Analytics,1,1
+XGBoost,1,1
+Causal Inference,1,1
 Plotly,1,1

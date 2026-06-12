@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LaborIQ Portfolio Workflow</title>
+  <style>
+    :root {
+      --bg: #050b18;
+      --bg-soft: #071426;
+      --panel: #0a1729;
+      --panel-2: #0d1d33;
+      --line: #193553;
+      --line-soft: rgba(56, 189, 248, 0.2);
+      --text: #e6f2ff;
+      --muted: #95a8bd;
+      --cyan: #38bdf8;
+      --mint: #34d399;
+      --violet: #a78bfa;
+      --amber: #f59e0b;
+      --rose: #fb7185;
+      --radius: 8px;
+      --shadow: 0 26px 80px rgba(0, 0, 0, 0.4);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      overflow-x: hidden;
+      background:
+        linear-gradient(rgba(56, 189, 248, 0.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(56, 189, 248, 0.035) 1px, transparent 1px),
+        linear-gradient(140deg, #030712 0%, #071426 48%, #09111f 100%);
+      background-size: 42px 42px, 42px 42px, auto;
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      line-height: 1.5;
+    }
+
+    button,
+    input,
+    select,
+    textarea {
+      font: inherit;
+    }
+
+    .page {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 40px 0 34px;
+    }
+
+    .hero {
+      display: grid;
+      gap: 18px;
+      padding: 30px 0 20px;
+    }
+
+    .eyebrow {
+      width: fit-content;
+      padding: 7px 10px;
+      border: 1px solid rgba(52, 211, 153, 0.35);
+      border-radius: var(--radius);
+      background: rgba(52, 211, 153, 0.08);
+      color: var(--mint);
+      font-size: 0.78rem;
+      font-weight: 700;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin: 0;
+    }
+
+    h1 {
+      max-width: 900px;
+      font-size: clamp(2.2rem, 6vw, 5rem);
+      line-height: 0.96;
+      font-weight: 850;
+      letter-spacing: 0;
+    }
+
+    .hero-copy {
+      max-width: 780px;
+      color: #bdd0e4;
+      font-size: 1.02rem;
+    }
+
+    .hero-title-accent {
+      color: var(--cyan);
+    }
+
+    .quick-facts {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin: 24px 0 30px;
+    }
+
+    .fact-card,
+    .impact-card {
+      border: 1px solid rgba(148, 163, 184, 0.18);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(13, 29, 51, 0.9), rgba(6, 15, 29, 0.92));
+      box-shadow: 0 18px 55px rgba(0, 0, 0, 0.22);
+    }
+
+    .fact-card {
+      min-height: 122px;
+      padding: 15px;
+    }
+
+    .fact-label {
+      display: block;
+      margin-bottom: 8px;
+      color: var(--cyan);
+      font-size: 0.76rem;
+      font-weight: 800;
+    }
+
+    .fact-card p {
+      color: #d7e7f7;
+      font-size: 0.92rem;
+    }
+
+    .workflow-section {
+      display: grid;
+      gap: 18px;
+      margin-top: 10px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .section-header h2 {
+      font-size: clamp(1.55rem, 3vw, 2.25rem);
+      line-height: 1.05;
+    }
+
+    .section-note {
+      max-width: 430px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .workflow-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 360px;
+      gap: 16px;
+      align-items: stretch;
+    }
+
+    .map-shell,
+    .detail-panel {
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(180deg, rgba(13, 29, 51, 0.92), rgba(5, 11, 24, 0.98));
+      box-shadow: var(--shadow);
+    }
+
+    .map-shell {
+      position: relative;
+      min-height: 640px;
+      overflow: hidden;
+    }
+
+    .map-shell::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, transparent 0%, rgba(56, 189, 248, 0.035) 50%, transparent 100%),
+        repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.025), rgba(255, 255, 255, 0.025) 1px, transparent 1px, transparent 8px);
+      pointer-events: none;
+    }
+
+    .connection-layer {
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+      pointer-events: none;
+      overflow: visible;
+    }
+
+    .map-line {
+      fill: none;
+      stroke: rgba(148, 163, 184, 0.22);
+      stroke-width: 2;
+      transition: stroke 180ms ease, stroke-width 180ms ease, opacity 180ms ease;
+    }
+
+    .map-line.active {
+      stroke: var(--cyan);
+      stroke-width: 4;
+      filter: drop-shadow(0 0 10px rgba(56, 189, 248, 0.85));
+    }
+
+    .map-dot {
+      fill: rgba(148, 163, 184, 0.38);
+      transition: fill 180ms ease, r 180ms ease;
+    }
+
+    .map-dot.active {
+      fill: var(--mint);
+      filter: drop-shadow(0 0 8px rgba(52, 211, 153, 0.8));
+    }
+
+    .center-node,
+    .stage-node {
+      position: absolute;
+      z-index: 2;
+      left: var(--x);
+      top: var(--y);
+      transform: translate(-50%, -50%);
+    }
+
+    .center-node {
+      width: 230px;
+      min-height: 172px;
+      display: grid;
+      place-items: center;
+      padding: 22px;
+      border: 1px solid rgba(56, 189, 248, 0.48);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(145deg, rgba(14, 116, 144, 0.28), rgba(15, 23, 42, 0.96)),
+        linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0));
+      box-shadow:
+        0 0 0 7px rgba(56, 189, 248, 0.045),
+        0 0 48px rgba(56, 189, 248, 0.2),
+        var(--shadow);
+      text-align: center;
+    }
+
+    .center-node strong {
+      display: block;
+      margin-bottom: 8px;
+      color: #f8fbff;
+      font-size: 1.12rem;
+      line-height: 1.15;
+    }
+
+    .center-node span {
+      display: block;
+      color: #a8c6dd;
+      font-size: 0.84rem;
+    }
+
+    .stage-node {
+      width: 178px;
+      min-height: 86px;
+      display: grid;
+      gap: 5px;
+      padding: 12px;
+      border: 1px solid rgba(148, 163, 184, 0.22);
+      border-left: 3px solid var(--accent);
+      border-radius: var(--radius);
+      background: rgba(7, 20, 38, 0.92);
+      color: var(--text);
+      text-align: left;
+      cursor: pointer;
+      outline: none;
+      box-shadow: 0 18px 48px rgba(0, 0, 0, 0.25);
+      transition: transform 180ms ease, border-color 180ms ease, background 180ms ease, box-shadow 180ms ease;
+    }
+
+    .stage-node:hover,
+    .stage-node:focus-visible {
+      border-color: rgba(56, 189, 248, 0.65);
+      background: rgba(10, 31, 56, 0.98);
+      transform: translate(-50%, -50%) translateY(-2px);
+    }
+
+    .stage-node.active {
+      border-color: var(--accent);
+      background:
+        linear-gradient(180deg, rgba(17, 39, 69, 0.96), rgba(7, 20, 38, 0.98));
+      box-shadow:
+        0 0 0 4px color-mix(in srgb, var(--accent) 16%, transparent),
+        0 22px 70px rgba(0, 0, 0, 0.4);
+    }
+
+    .stage-kicker {
+      color: var(--accent);
+      font-size: 0.72rem;
+      font-weight: 850;
+    }
+
+    .stage-node strong {
+      color: #f8fbff;
+      font-size: 0.92rem;
+      line-height: 1.16;
+    }
+
+    .stage-node small {
+      color: var(--muted);
+      font-size: 0.76rem;
+      line-height: 1.25;
+    }
+
+    .detail-panel {
+      display: flex;
+      flex-direction: column;
+      min-height: 640px;
+      padding: 18px;
+    }
+
+    .detail-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .stage-pill {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 82px;
+      height: 34px;
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      border-radius: var(--radius);
+      background: rgba(56, 189, 248, 0.08);
+      color: var(--cyan);
+      font-weight: 850;
+      font-size: 0.78rem;
+    }
+
+    .progress-label {
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 700;
+    }
+
+    .progress-track {
+      height: 8px;
+      width: 100%;
+      margin-bottom: 22px;
+      overflow: hidden;
+      border-radius: var(--radius);
+      background: rgba(148, 163, 184, 0.14);
+    }
+
+    .progress-bar {
+      height: 100%;
+      width: 12.5%;
+      border-radius: var(--radius);
+      background: linear-gradient(90deg, var(--cyan), var(--mint));
+      box-shadow: 0 0 18px rgba(56, 189, 248, 0.55);
+      transition: width 220ms ease;
+    }
+
+    .detail-panel h3 {
+      margin-bottom: 18px;
+      font-size: 1.65rem;
+      line-height: 1.08;
+    }
+
+    .detail-block {
+      padding: 15px 0;
+      border-top: 1px solid rgba(148, 163, 184, 0.16);
+    }
+
+    .detail-block span {
+      display: block;
+      margin-bottom: 6px;
+      color: var(--mint);
+      font-size: 0.75rem;
+      font-weight: 850;
+    }
+
+    .detail-block p {
+      color: #ccdaea;
+      font-size: 0.94rem;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1.15fr;
+      gap: 9px;
+      margin-top: auto;
+      padding-top: 18px;
+    }
+
+    .control-btn {
+      min-height: 42px;
+      border: 1px solid rgba(148, 163, 184, 0.22);
+      border-radius: var(--radius);
+      background: rgba(15, 23, 42, 0.85);
+      color: var(--text);
+      cursor: pointer;
+      font-weight: 800;
+      transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
+    }
+
+    .control-btn:hover,
+    .control-btn:focus-visible {
+      border-color: rgba(56, 189, 248, 0.65);
+      background: rgba(14, 116, 144, 0.18);
+      transform: translateY(-1px);
+      outline: none;
+    }
+
+    .control-btn.auto-active {
+      border-color: rgba(52, 211, 153, 0.6);
+      color: #d7fff0;
+      background: rgba(52, 211, 153, 0.12);
+    }
+
+    .impact-section {
+      margin-top: 30px;
+      display: grid;
+      gap: 16px;
+    }
+
+    .impact-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .impact-card {
+      min-height: 158px;
+      padding: 17px;
+      border-top: 3px solid var(--accent);
+    }
+
+    .impact-card strong {
+      display: block;
+      margin-bottom: 10px;
+      color: #f8fbff;
+      font-size: 1rem;
+      line-height: 1.18;
+    }
+
+    .impact-card p {
+      color: #bdd0e4;
+      font-size: 0.9rem;
+    }
+
+    .takeaway {
+      margin-top: 18px;
+      padding: 18px;
+      border: 1px solid rgba(52, 211, 153, 0.28);
+      border-radius: var(--radius);
+      background: rgba(52, 211, 153, 0.075);
+      color: #dffdf1;
+      font-size: 1rem;
+      font-weight: 720;
+    }
+
+    @media (max-width: 1020px) {
+      .quick-facts,
+      .impact-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .workflow-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .detail-panel {
+        min-height: auto;
+      }
+    }
+
+    @media (max-width: 700px) {
+      .page {
+        width: min(100% - 22px, 1180px);
+        padding-top: 24px;
+      }
+
+      .hero {
+        padding-top: 18px;
+      }
+
+      .quick-facts,
+      .impact-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .section-header {
+        align-items: start;
+        flex-direction: column;
+      }
+
+      .map-shell {
+        min-height: 1030px;
+      }
+
+      .center-node,
+      .stage-node {
+        left: var(--mx);
+        top: var(--my);
+      }
+
+      .center-node {
+        width: min(78vw, 250px);
+        min-height: 138px;
+        padding: 18px;
+      }
+
+      .stage-node {
+        width: min(39vw, 168px);
+        min-height: 92px;
+        padding: 11px;
+      }
+
+      .stage-node strong {
+        font-size: 0.84rem;
+      }
+
+      .stage-node small {
+        font-size: 0.72rem;
+      }
+
+      .detail-panel h3 {
+        font-size: 1.42rem;
+      }
+
+      .controls {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 390px) {
+      .stage-node {
+        width: 39vw;
+      }
+
+      .stage-node strong {
+        font-size: 0.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="eyebrow">Portfolio workflow component</div>
+      <h1 id="page-title">LaborIQ <span class="hero-title-accent">Labor Market Intelligence</span></h1>
+      <p class="hero-copy">
+        LaborIQ transforms raw job postings into Lightcast-style workforce intelligence: standardized roles and skills, salary and demand analytics, emerging skill forecasts, statistical validation, and a Streamlit dashboard for stakeholder decisions.
+      </p>
+    </section>
+
+    <section class="quick-facts" aria-label="Project quick facts">
+      <article class="fact-card">
+        <span class="fact-label">Input</span>
+        <p>1,590 processed postings from India 2025 data, sample CSVs, and optional Adzuna API pulls.</p>
+      </article>
+      <article class="fact-card">
+        <span class="fact-label">Core</span>
+        <p>Cleaned job records enriched with source labels, skills, role families, salary fields, and monthly demand tables.</p>
+      </article>
+      <article class="fact-card">
+        <span class="fact-label">Models/Methods</span>
+        <p>Taxonomy NLP, keyword plus TF-IDF role mapping, DuckDB SQL, Logistic Regression, Ridge, and SciPy.</p>
+      </article>
+      <article class="fact-card">
+        <span class="fact-label">Output</span>
+        <p>Streamlit dashboard, CSV intelligence reports, joblib models, forecasts, validation tables, and skill-gap guidance.</p>
+      </article>
+    </section>
+
+    <section class="workflow-section" aria-labelledby="workflow-title">
+      <div class="section-header">
+        <div>
+          <h2 id="workflow-title">Interactive Workflow Mind Map</h2>
+        </div>
+        <p class="section-note">Each node represents a real stage in the repository pipeline, from source ingestion through dashboard-ready workforce insight.</p>
+      </div>
+
+      <div class="workflow-grid">
+        <div class="map-shell" id="mapShell" aria-label="LaborIQ workflow diagram">
+          <svg class="connection-layer" id="connectionLayer" aria-hidden="true"></svg>
+
+          <div class="center-node" id="centerNode" style="--x: 50%; --y: 50%; --mx: 50%; --my: 8%;">
+            <div>
+              <strong>Processed Labor Market Intelligence Layer</strong>
+              <span>processed_job_postings.csv, skill_fact_table.csv, analytics reports, models, and validated signals</span>
+            </div>
+          </div>
+
+          <button class="stage-node active" type="button" data-index="0" style="--accent: var(--cyan); --x: 50%; --y: 9%; --mx: 50%; --my: 22%;">
+            <span class="stage-kicker">01</span>
+            <strong>Source Mix</strong>
+            <small>CSV, India 2025, Adzuna API</small>
+          </button>
+
+          <button class="stage-node" type="button" data-index="1" style="--accent: var(--mint); --x: 82%; --y: 21%; --mx: 25%; --my: 34%;">
+            <span class="stage-kicker">02</span>
+            <strong>Clean and Standardize</strong>
+            <small>Text, dates, salary, duplicates</small>
+          </button>
+
+          <button class="stage-node" type="button" data-index="2" style="--accent: var(--violet); --x: 86%; --y: 50%; --mx: 75%; --my: 34%;">
+            <span class="stage-kicker">03</span>
+            <strong>Skill Extraction</strong>
+            <small>Taxonomy and alias matching</small>
+          </button>
+
+          <button class="stage-node" type="button" data-index="3" style="--accent: var(--amber); --x: 82%; --y: 79%; --mx: 25%; --my: 48%;">
+            <span class="stage-kicker">04</span>
+            <strong>Role Mapping</strong>
+            <small>Role family and confidence</small>
+          </button>
+
+          <button class="stage-node" type="button" data-index="4" style="--accent: var(--rose); --x: 50%; --y: 91%; --mx: 75%; --my: 48%;">
+            <span class="stage-kicker">05</span>
+            <strong>Demand Analytics</strong>
+            <small>DuckDB report tables</small>
+          </button>
+
+          <button class="stage-node" type="button" data-index="5" style="--accent: var(--cyan); --x: 18%; --y: 79%; --mx: 25%; --my: 62%;">
+            <span class="stage-kicker">06</span>
+            <strong>Forecast Signals</strong>
+            <small>Monthly panel and trends</small>
+          </button>
+
+          <button class="stage-node" type="button" data-index="6" style="--accent: var(--mint); --x: 14%; --y: 50%; --mx: 75%; --my: 62%;">
+            <span class="stage-kicker">07</span>
+            <strong>Models and Validation</strong>
+            <small>ML metrics plus SciPy tests</small>
+          </button>
+
+          <button class="stage-node" type="button" data-index="7" style="--accent: var(--violet); --x: 18%; --y: 21%; --mx: 50%; --my: 78%;">
+            <span class="stage-kicker">08</span>
+            <strong>Dashboard Product</strong>
+            <small>Streamlit and stakeholder outputs</small>
+          </button>
+        </div>
+
+        <aside class="detail-panel" aria-live="polite">
+          <div class="detail-top">
+            <span class="stage-pill" id="detailStage">Stage 01</span>
+            <span class="progress-label" id="progressLabel">1 of 8</span>
+          </div>
+          <div class="progress-track" aria-hidden="true">
+            <div class="progress-bar" id="progressBar"></div>
+          </div>
+
+          <h3 id="detailTitle">Source Mix</h3>
+
+          <div class="detail-block">
+            <span>What happens</span>
+            <p id="detailHappens"></p>
+          </div>
+          <div class="detail-block">
+            <span>Technique used</span>
+            <p id="detailTechnique"></p>
+          </div>
+          <div class="detail-block">
+            <span>Output created</span>
+            <p id="detailOutput"></p>
+          </div>
+
+          <div class="controls" aria-label="Workflow controls">
+            <button class="control-btn" type="button" id="prevBtn">Previous</button>
+            <button class="control-btn" type="button" id="nextBtn">Next</button>
+            <button class="control-btn" type="button" id="autoBtn">Auto play</button>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="impact-section" aria-labelledby="impact-title">
+      <div class="section-header">
+        <h2 id="impact-title">Final Business Value</h2>
+        <p class="section-note">The project turns job-posting noise into decisions a workforce, talent, or analytics team can explain.</p>
+      </div>
+
+      <div class="impact-grid">
+        <article class="impact-card" style="--accent: var(--cyan);">
+          <strong>Market demand clarity</strong>
+          <p>Shows which roles, locations, companies, and salary bands are most active so stakeholders can understand hiring demand quickly.</p>
+        </article>
+        <article class="impact-card" style="--accent: var(--mint);">
+          <strong>Skills strategy</strong>
+          <p>Ranks core and emerging skills by role, helping candidates, educators, and talent teams focus on high-value learning paths.</p>
+        </article>
+        <article class="impact-card" style="--accent: var(--violet);">
+          <strong>Evidence-backed insight</strong>
+          <p>Uses SciPy tests and role-skill similarity to separate stronger signals from visual-only dashboard observations.</p>
+        </article>
+        <article class="impact-card" style="--accent: var(--amber);">
+          <strong>Portfolio-ready delivery</strong>
+          <p>Demonstrates an end-to-end analytics product with API ingestion, reproducible reports, saved models, and a working dashboard.</p>
+        </article>
+      </div>
+
+      <p class="takeaway">
+        Recruiter takeaway: LaborIQ shows the ability to build a full labor-market intelligence workflow, connect data science to business questions, and ship the result as a usable analytics product.
+      </p>
+    </section>
+  </main>
+
+  <script>
+    const stages = [
+      {
+        number: "01",
+        title: "Source Mix",
+        happens: "The workflow starts with reproducible sample CSV data, normalized India 2025 job-market data, and optional live Adzuna job postings. Every row keeps a source label for transparency.",
+        technique: "Pandas CSV loaders, AdzunaSearchSpec, cached API requests, pagination controls, salary and experience parsing, and deduplication.",
+        output: "Raw and external posting tables such as adzuna_jobs.csv, combined_real_job_data.csv, and combined_real_job_data_portfolio.csv."
+      },
+      {
+        number: "02",
+        title: "Clean and Standardize",
+        happens: "Job titles, descriptions, companies, locations, dates, employment type, experience level, and salary fields are normalized into a consistent schema.",
+        technique: "Column mapping, regex text cleaning, date parsing, numeric salary conversion, salary midpoint creation, full_text construction, and duplicate removal.",
+        output: "A clean job-posting table ready for enrichment, plus data_quality_report.csv for missingness and field coverage checks."
+      },
+      {
+        number: "03",
+        title: "Skill Extraction",
+        happens: "Unstructured job text is converted into standardized skill labels such as Python, SQL, Machine Learning, NLP, Tableau, and APIs.",
+        technique: "An explainable controlled taxonomy with canonical skills, categories, aliases, and regex boundary matching across title plus description text.",
+        output: "extracted_skills, skill_count, skill category columns, and a skill_fact_table.csv that can power skill demand analytics."
+      },
+      {
+        number: "04",
+        title: "Role Mapping",
+        happens: "Noisy job titles and descriptions are mapped into business-friendly role families like Data Analyst, Data Engineer, Data Scientist, AI Engineer, ML Engineer, and NLP Engineer.",
+        technique: "Keyword rules run first for explainability, with TF-IDF similarity as a fallback when direct role keywords are not present.",
+        output: "role_label, occupation_family, occupation_confidence, mapping_method, and core_skills_for_role on each posting."
+      },
+      {
+        number: "05",
+        title: "Demand Analytics",
+        happens: "The enriched posting layer is summarized into role, location, company, salary, source, and skill demand views.",
+        technique: "DuckDB SQL over in-memory jobs and skill fact tables, with grouped counts, averages, distinct company counts, and monthly demand panels.",
+        output: "role_demand.csv, location_demand.csv, top_skills.csv, skills_by_role.csv, monthly_role_demand.csv, monthly_skill_demand.csv, and source_mix.csv."
+      },
+      {
+        number: "06",
+        title: "Forecast Signals",
+        happens: "Monthly skill mentions are converted into trend labels and forward-looking directional skill-demand signals.",
+        technique: "Monthly panel building, rolling 3-month and 6-month averages, growth scores, lag features, and SciPy-optimized regularized regression.",
+        output: "skill_monthly_panel.csv, skill_trends.csv, and skill_forecasts.csv with emerging, stable, and declining signals."
+      },
+      {
+        number: "07",
+        title: "Models and Validation",
+        happens: "The project trains baseline models and validates selected labor-market patterns so insights are not only chart-based.",
+        technique: "TF-IDF plus Logistic Regression for role classification, TF-IDF plus categorical Ridge for salary baseline, Spearman, Kruskal-Wallis, chi-square, Mann-Whitney U, and cosine similarity.",
+        output: "role_classifier.joblib, salary_model.joblib, model_metrics.json, statistical_tests.csv, and role_skill_similarity.csv."
+      },
+      {
+        number: "08",
+        title: "Dashboard Product",
+        happens: "All reports are exposed through a Streamlit dashboard for executives, labor analytics, skill extraction, forecasting, statistical validation, live ingestion, skill gaps, and job exploration.",
+        technique: "Streamlit pages, Plotly charts, report loading, model loading, sidebar source filters, live Adzuna fetch controls, and candidate skill recommendations.",
+        output: "A recruiter-ready analytics product that explains workforce demand, emerging skills, salary patterns, and candidate learning priorities."
+      }
+    ];
+
+    const nodes = Array.from(document.querySelectorAll(".stage-node"));
+    const centerNode = document.getElementById("centerNode");
+    const mapShell = document.getElementById("mapShell");
+    const svg = document.getElementById("connectionLayer");
+    const detailStage = document.getElementById("detailStage");
+    const detailTitle = document.getElementById("detailTitle");
+    const detailHappens = document.getElementById("detailHappens");
+    const detailTechnique = document.getElementById("detailTechnique");
+    const detailOutput = document.getElementById("detailOutput");
+    const progressLabel = document.getElementById("progressLabel");
+    const progressBar = document.getElementById("progressBar");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+    const autoBtn = document.getElementById("autoBtn");
+
+    let activeIndex = 0;
+    let autoTimer = null;
+
+    function relativeCenter(element, parentRect) {
+      const rect = element.getBoundingClientRect();
+      return {
+        x: rect.left - parentRect.left + rect.width / 2,
+        y: rect.top - parentRect.top + rect.height / 2
+      };
+    }
+
+    function drawConnections() {
+      const parentRect = mapShell.getBoundingClientRect();
+      const width = Math.max(parentRect.width, 1);
+      const height = Math.max(parentRect.height, 1);
+      svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+      svg.innerHTML = "";
+
+      const start = relativeCenter(centerNode, parentRect);
+      nodes.forEach((node, index) => {
+        const end = relativeCenter(node, parentRect);
+        const dx = end.x - start.x;
+        const dy = end.y - start.y;
+        const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        const c1x = start.x + dx * 0.42;
+        const c1y = start.y + dy * 0.08;
+        const c2x = start.x + dx * 0.58;
+        const c2y = end.y - dy * 0.08;
+        path.setAttribute("d", `M ${start.x} ${start.y} C ${c1x} ${c1y}, ${c2x} ${c2y}, ${end.x} ${end.y}`);
+        path.setAttribute("class", index === activeIndex ? "map-line active" : "map-line");
+        svg.appendChild(path);
+
+        const dot = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        dot.setAttribute("cx", end.x);
+        dot.setAttribute("cy", end.y);
+        dot.setAttribute("r", index === activeIndex ? "4.8" : "3.2");
+        dot.setAttribute("class", index === activeIndex ? "map-dot active" : "map-dot");
+        svg.appendChild(dot);
+      });
+    }
+
+    function setActive(index) {
+      activeIndex = (index + stages.length) % stages.length;
+      const stage = stages[activeIndex];
+
+      nodes.forEach((node, nodeIndex) => {
+        node.classList.toggle("active", nodeIndex === activeIndex);
+        node.setAttribute("aria-pressed", nodeIndex === activeIndex ? "true" : "false");
+      });
+
+      detailStage.textContent = `Stage ${stage.number}`;
+      detailTitle.textContent = stage.title;
+      detailHappens.textContent = stage.happens;
+      detailTechnique.textContent = stage.technique;
+      detailOutput.textContent = stage.output;
+      progressLabel.textContent = `${activeIndex + 1} of ${stages.length}`;
+      progressBar.style.width = `${((activeIndex + 1) / stages.length) * 100}%`;
+
+      drawConnections();
+    }
+
+    function nextStage() {
+      setActive(activeIndex + 1);
+    }
+
+    function prevStage() {
+      setActive(activeIndex - 1);
+    }
+
+    function stopAuto() {
+      if (autoTimer) {
+        clearInterval(autoTimer);
+        autoTimer = null;
+      }
+      autoBtn.classList.remove("auto-active");
+      autoBtn.textContent = "Auto play";
+    }
+
+    function toggleAuto() {
+      if (autoTimer) {
+        stopAuto();
+        return;
+      }
+      autoBtn.classList.add("auto-active");
+      autoBtn.textContent = "Pause";
+      autoTimer = setInterval(nextStage, 2600);
+    }
+
+    nodes.forEach((node) => {
+      node.addEventListener("click", () => {
+        stopAuto();
+        setActive(Number(node.dataset.index));
+      });
+    });
+
+    prevBtn.addEventListener("click", () => {
+      stopAuto();
+      prevStage();
+    });
+
+    nextBtn.addEventListener("click", () => {
+      stopAuto();
+      nextStage();
+    });
+
+    autoBtn.addEventListener("click", toggleAuto);
+
+    window.addEventListener("resize", () => {
+      window.requestAnimationFrame(drawConnections);
+    });
+
+    window.addEventListener("load", () => {
+      setActive(0);
+      setTimeout(drawConnections, 80);
+    });
+  </script>
+</body>
+</html>

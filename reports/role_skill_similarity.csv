@@ -1,29 +1,29 @@
 role_a,role_b,cosine_similarity,shared_top_skills,scipy_function
-AI Engineer,NLP Engineer,0.8493,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
-AI Engineer,Research Analyst,0.7672,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
-NLP Engineer,Research Analyst,0.6617,APIs | Airflow | Azure | Business Recommendations | Data Visualization | ETL | Econometrics | Excel,scipy.spatial.distance.cosine
-Data Analyst,Research Analyst,0.6605,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
-AI Engineer,Data Scientist,0.6572,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | CI/CD | Data Visualization,scipy.spatial.distance.cosine
-Data Scientist,ML Engineer,0.6289,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | CI/CD | Data Visualization,scipy.spatial.distance.cosine
-AI Engineer,Data Analyst,0.6288,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
-AI Engineer,ML Engineer,0.622,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
-Business Analyst,Data Engineer,0.6148,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Data Visualization | Data Warehousing,scipy.spatial.distance.cosine
-Business Analyst,ML Engineer,0.6138,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
-Data Engineer,ML Engineer,0.6041,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
-Business Analyst,Data Analyst,0.5867,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Dashboarding | Data Visualization,scipy.spatial.distance.cosine
-Data Scientist,NLP Engineer,0.5725,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
-Data Analyst,Data Engineer,0.5619,APIs | AWS | Agile | Airflow | Azure | Bash | BigQuery | Business Recommendations,scipy.spatial.distance.cosine
-Data Analyst,ML Engineer,0.543,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
-Data Analyst,Data Scientist,0.5426,APIs | AWS | Agile | Airflow | Azure | BigQuery | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
-Data Scientist,Research Analyst,0.5418,APIs | Airflow | Azure | Business Recommendations | CI/CD | Data Visualization | ETL | Econometrics,scipy.spatial.distance.cosine
-Data Analyst,NLP Engineer,0.5165,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
-ML Engineer,NLP Engineer,0.5084,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
-AI Engineer,Data Engineer,0.5033,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
-Data Engineer,Data Scientist,0.4721,APIs | AWS | Agile | Airflow | Azure | BigQuery | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
-Business Analyst,Data Scientist,0.453,APIs | AWS | Agile | Azure | Business Recommendations | Dashboarding | Data Visualization | ETL,scipy.spatial.distance.cosine
-ML Engineer,Research Analyst,0.4354,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
-Data Engineer,NLP Engineer,0.4285,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
-Data Engineer,Research Analyst,0.4181,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
-AI Engineer,Business Analyst,0.3852,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Data Visualization | Data Warehousing,scipy.spatial.distance.cosine
-Business Analyst,NLP Engineer,0.3078,APIs | AWS | Agile | Azure | Business Recommendations | Data Visualization | ETL | Excel,scipy.spatial.distance.cosine
-Business Analyst,Research Analyst,0.2648,APIs | Azure | Bash | Business Recommendations | Data Visualization | ETL | Excel | GCP,scipy.spatial.distance.cosine
+AI Engineer,NLP Engineer,0.8488,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
+AI Engineer,Research Analyst,0.7537,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
+NLP Engineer,Research Analyst,0.659,APIs | Airflow | Azure | Business Recommendations | Data Visualization | ETL | Econometrics | Excel,scipy.spatial.distance.cosine
+Data Analyst,Research Analyst,0.6515,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
+Business Analyst,ML Engineer,0.6326,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
+AI Engineer,ML Engineer,0.629,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
+Business Analyst,Data Engineer,0.6264,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Data Visualization | Data Warehousing,scipy.spatial.distance.cosine
+AI Engineer,Data Analyst,0.611,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
+Data Engineer,ML Engineer,0.6032,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
+Business Analyst,Data Analyst,0.5937,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Dashboarding | Data Visualization,scipy.spatial.distance.cosine
+AI Engineer,Data Scientist,0.564,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | CI/CD | Clustering,scipy.spatial.distance.cosine
+Data Analyst,Data Engineer,0.5588,APIs | AWS | Agile | Airflow | Azure | Bash | BigQuery | Business Recommendations,scipy.spatial.distance.cosine
+Data Scientist,ML Engineer,0.5527,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | CI/CD | Data Visualization,scipy.spatial.distance.cosine
+Data Analyst,ML Engineer,0.5342,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
+ML Engineer,NLP Engineer,0.507,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
+Data Analyst,NLP Engineer,0.5047,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
+AI Engineer,Data Engineer,0.4993,APIs | AWS | Agile | Airflow | Azure | Bash | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
+Data Scientist,NLP Engineer,0.4847,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
+Business Analyst,Data Scientist,0.4488,APIs | AWS | Agile | Azure | Business Recommendations | Dashboarding | Data Visualization | ETL,scipy.spatial.distance.cosine
+Data Analyst,Data Scientist,0.4336,APIs | AWS | Agile | Airflow | Azure | BigQuery | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
+ML Engineer,Research Analyst,0.4328,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
+Data Scientist,Research Analyst,0.4261,APIs | Airflow | Azure | Business Recommendations | CI/CD | Data Visualization | ETL | Econometrics,scipy.spatial.distance.cosine
+Data Engineer,NLP Engineer,0.4178,APIs | AWS | Agile | Airflow | Azure | Business Recommendations | Data Visualization | ETL,scipy.spatial.distance.cosine
+AI Engineer,Business Analyst,0.4156,APIs | AWS | Agile | Azure | Bash | Business Recommendations | Data Visualization | Data Warehousing,scipy.spatial.distance.cosine
+Data Engineer,Research Analyst,0.4109,APIs | Airflow | Azure | Bash | Business Recommendations | CI/CD | Data Visualization | ETL,scipy.spatial.distance.cosine
+Data Engineer,Data Scientist,0.3833,APIs | AWS | Agile | Airflow | Azure | BigQuery | Business Recommendations | CI/CD,scipy.spatial.distance.cosine
+Business Analyst,NLP Engineer,0.3181,APIs | AWS | Agile | Azure | Business Recommendations | Data Visualization | ETL | Excel,scipy.spatial.distance.cosine
+Business Analyst,Research Analyst,0.2926,APIs | Azure | Bash | Business Recommendations | Data Visualization | ETL | Excel | GCP,scipy.spatial.distance.cosine

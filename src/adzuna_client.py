@@ -401,6 +401,46 @@ def make_cache_key(
     return hashlib.md5(raw.encode("utf-8")).hexdigest()
 
 
+def build_cache_key(
+    specs: list[AdzunaSearchSpec],
+    country: str = "in",
+    results_per_page: int = 25,
+) -> str:
+    """
+    Backward-compatible aggregate cache key for older tests/scripts.
+    """
+    payload = {
+        "country": country,
+        "results_per_page": int(results_per_page),
+        "specs": [
+            {
+                "query": spec.query,
+                "location": spec.location,
+                "pages": int(spec.pages),
+                "max_days_old": int(spec.max_days_old),
+            }
+            for spec in specs
+        ],
+    }
+    raw = json.dumps(payload, sort_keys=True)
+    return hashlib.md5(raw.encode("utf-8")).hexdigest()[:16]
+
+
+def normalize_adzuna_results(
+    payload: dict[str, Any],
+    query: str,
+    location: str,
+) -> pd.DataFrame:
+    """
+    Backward-compatible payload normalizer for older tests/scripts.
+    """
+    rows = [
+        normalize_adzuna_item(item=item, query=query, source_location=location)
+        for item in payload.get("results", [])
+    ]
+    return pd.DataFrame(rows)
+
+
 def fetch_adzuna_page(
     *,
     country: str,

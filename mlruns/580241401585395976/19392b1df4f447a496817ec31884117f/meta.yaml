@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Desktop/Labour_IQ_Upgrade/mlruns/580241401585395976/19392b1df4f447a496817ec31884117f/artifacts
+end_time: 1781173988799
+entry_point_name: ''
+experiment_id: '580241401585395976'
+lifecycle_stage: active
+run_id: 19392b1df4f447a496817ec31884117f
+run_name: salary_model_training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781173986249
+status: 3
+tags: []
+user_id: admin

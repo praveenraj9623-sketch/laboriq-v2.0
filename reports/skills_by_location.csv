@@ -1,15 +1,15 @@
 location,skill,mentions
 "Adampur, Punjab",KPI Reporting,1
-Adilabad,AWS,2
 Adilabad,Kafka,2
-Adilabad,Java,1
+Adilabad,AWS,2
+Adilabad,ETL,1
+Adilabad,GCP,1
+Adilabad,Scala,1
+Adilabad,Spark,1
+Adilabad,CI/CD,1
+Adilabad,Docker,1
 Adilabad,APIs,1
 Adilabad,Azure,1
-Adilabad,ETL,1
-Adilabad,CI/CD,1
-Adilabad,Scala,1
-Adilabad,GCP,1
-Adilabad,Data Warehousing,1
 Ahmedabad,SQL,4
 Ahmedabad,APIs,3
 Ahmedabad,Machine Learning,3
@@ -17,59 +17,61 @@ Ahmedabad,Python,3
 Ahmedabad,GCP,2
 Ahmedabad,Kubernetes,2
 Ahmedabad,Azure,2
-Ahmedabad,MLOps,1
-Ahmedabad,KPI Reporting,1
+Ahmedabad,Docker,1
+Ahmedabad,Market Research,1
 Ahmedabad,Java,1
 Ahmedabad(Bopal +2),APIs,1
 "Ahmedabad, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",Azure,1
-"Ahmedabad, Chennai, Bengaluru",Java,1
 "Ahmedabad, Chennai, Bengaluru",Python,1
+"Ahmedabad, Chennai, Bengaluru",Java,1
+"Ahmedabad, Gujarat",Machine Learning,1
+"Ahmedabad, Gujarat",Power BI,1
 Ankleshwar,R,1
 Ankleshwar,Python,1
-Bagalkot,Kafka,1
-Bagalkot,Java,1
-Bagalkot,SQL,1
+Bagalkot,AWS,1
 Bagalkot,Scala,1
 Bagalkot,ETL,1
 Bagalkot,Git,1
-Bagalkot,Spark,1
+Bagalkot,SQL,1
 Bagalkot,Data Warehousing,1
-Bagalkot,AWS,1
-Bangalore,Labor Market Analytics,40
-Bangalore,Business Recommendations,40
+Bagalkot,Kafka,1
+Bagalkot,Java,1
+Bagalkot,Spark,1
 Bangalore,Stakeholder Communication,40
+Bangalore,Business Recommendations,40
 Bangalore,Future of Work,40
+Bangalore,Labor Market Analytics,40
 Bangalore,Python,30
 Bangalore,SQL,28
 Bangalore,Data Visualization,27
-Bangalore,APIs,26
 Bangalore,Statistics,26
+Bangalore,APIs,26
 Bangalore,ETL,23
-Bangalore Rural,Scala,1
 Bangalore Rural,Spark,1
-Bangalore Rural,Data Warehousing,1
-Bangalore Rural,ETL,1
 Bangalore Rural,AWS,1
+Bangalore Rural,ETL,1
+Bangalore Rural,Scala,1
 Bangalore Rural,Kafka,1
-"Bangalore Rural, Bengaluru(Kengeri)",Power BI,1
+Bangalore Rural,Data Warehousing,1
 "Bangalore Rural, Bengaluru(Kengeri)",Excel,1
 "Bangalore Rural, Bengaluru(Kengeri)",Dashboarding,1
-"Bangalore, Karnataka",Machine Learning,22
-"Bangalore, Karnataka",Python,9
-"Bangalore, Karnataka",RAG,7
-"Bangalore, Karnataka",SQL,7
-"Bangalore, Karnataka",Natural Language Processing,7
-"Bangalore, Karnataka",Azure,5
-"Bangalore, Karnataka",Databricks,5
-"Bangalore, Karnataka",KPI Reporting,4
-"Bangalore, Karnataka",Spark,3
-"Bangalore, Karnataka",GCP,3
+"Bangalore Rural, Bengaluru(Kengeri)",Power BI,1
+"Bangalore, Karnataka",Machine Learning,57
+"Bangalore, Karnataka",Python,17
+"Bangalore, Karnataka",Natural Language Processing,14
+"Bangalore, Karnataka",SQL,13
+"Bangalore, Karnataka",RAG,12
+"Bangalore, Karnataka",Azure,10
+"Bangalore, Karnataka",ETL,9
+"Bangalore, Karnataka",LLM,7
+"Bangalore, Karnataka",Databricks,7
+"Bangalore, Karnataka",KPI Reporting,7
+Baramati,ETL,1
 Baramati,AWS,1
 Baramati,Spark,1
-Baramati,Kafka,1
-Baramati,Scala,1
-Baramati,ETL,1
 Baramati,Data Warehousing,1
+Baramati,Scala,1
+Baramati,Kafka,1
 Bengaluru,SQL,42
 Bengaluru,Python,30
 Bengaluru,Azure,23
@@ -78,75 +80,78 @@ Bengaluru,Java,16
 Bengaluru,APIs,15
 Bengaluru,Git,10
 Bengaluru,ETL,9
-Bengaluru,Agile,8
+Bengaluru,Power BI,8
 Bengaluru,GCP,8
 Bengaluru(Electronic City Phase 2),Machine Learning,1
-Bengaluru(Halasuru),SQL,1
-Bengaluru(Halasuru),MySQL,1
-Bengaluru(Halasuru),Java,1
 Bengaluru(Halasuru),Linux,1
 Bengaluru(Halasuru),R,1
-Bengaluru(Hebbal),SQL,1
-Bengaluru(Hebbal),AWS,1
-Bengaluru(Hebbal),PySpark,1
+Bengaluru(Halasuru),Java,1
+Bengaluru(Halasuru),SQL,1
+Bengaluru(Halasuru),MySQL,1
 Bengaluru(Hebbal),Airflow,1
-Bengaluru(Hebbal),Snowflake,1
+Bengaluru(Hebbal),AWS,1
 Bengaluru(Hebbal),ETL,1
-Bengaluru(Hosur Road),Python,1
-Bengaluru(Hosur Road),SQL,1
+Bengaluru(Hebbal),Snowflake,1
+Bengaluru(Hebbal),SQL,1
+Bengaluru(Hebbal),PySpark,1
 Bengaluru(Hosur Road),Machine Learning,1
+Bengaluru(Hosur Road),SQL,1
+Bengaluru(Hosur Road),Python,1
 Bengaluru(Hosur Road),Hypothesis Testing,1
-Bengaluru(Jalahalli +3),Excel,1
 Bengaluru(Jalahalli +3),KPI Reporting,1
-Bengaluru(Jalahalli +3),Market Research,1
 Bengaluru(Jalahalli +3),Power BI,1
+Bengaluru(Jalahalli +3),Market Research,1
+Bengaluru(Jalahalli +3),Excel,1
 Bengaluru(Jalahalli +3),Data Visualization,1
-Bengaluru(Jp Nagar),BigQuery,1
+Bengaluru(Jp Nagar),AWS,1
 Bengaluru(Jp Nagar),SQL,1
 Bengaluru(Jp Nagar),Airflow,1
-Bengaluru(Jp Nagar),Python,1
 Bengaluru(Jp Nagar),PostgreSQL,1
-Bengaluru(Jp Nagar),AWS,1
 Bengaluru(Jp Nagar),ETL,1
+Bengaluru(Jp Nagar),Python,1
+Bengaluru(Jp Nagar),BigQuery,1
+Bengaluru(Kadubeesanahalli +1),Bash,1
+Bengaluru(Kadubeesanahalli +1),Python,1
 Bengaluru(Kadubeesanahalli +1),SQL,1
 Bengaluru(Kadubeesanahalli +1),Linux,1
-Bengaluru(Kadubeesanahalli +1),Bash,1
 Bengaluru(Kadubeesanahalli +1),AWS,1
-Bengaluru(Kadubeesanahalli +1),Python,1
 Bengaluru(Kengeri),Machine Learning,1
+Bengaluru(Ramanagara +4),Agile,1
 Bengaluru(Ramanagara +4),APIs,1
 Bengaluru(Ramanagara +4),SQL,1
-Bengaluru(Ramanagara +4),Agile,1
 "Bengaluru, Delhi / Ncr",APIs,1
 "Bengaluru, Delhi / Ncr, Mumbai (All Areas)",SQL,1
 "Bengaluru, Delhi / Ncr, Mumbai (All Areas)",Agile,1
-"Bengaluru, Mumbai (All Areas)",Azure,1
 "Bengaluru, Mumbai (All Areas)",SQL,1
+"Bengaluru, Mumbai (All Areas)",Azure,1
 "Bengaluru, Mumbai (All Areas)",Data Warehousing,1
 "Bhubaneswar, Kolkata, Mysuru",Spark,1
 Bidar,AWS,3
+Bidar,SQL,2
 Bidar,Java,2
 Bidar,GCP,2
 Bidar,Kafka,2
-Bidar,SQL,2
-Bidar,CI/CD,1
-Bidar,Scala,1
-Bidar,KPI Reporting,1
-Bidar,Git,1
 Bidar,Data Warehousing,1
+Bidar,ETL,1
+Bidar,Git,1
+Bidar,Azure,1
+Bidar,Spark,1
 Chamarajanagar,SQL,2
+Chamarajanagar,AWS,1
 Chamarajanagar,Git,1
+Chamarajanagar,KPI Reporting,1
 Chamarajanagar,GCP,1
 Chamarajanagar,Java,1
-Chamarajanagar,AWS,1
-Chamarajanagar,KPI Reporting,1
 "Chandigarh, Dadra & Nagar Haveli, Bengaluru",KPI Reporting,1
-"Chandigarh, Pune",SQL,1
-"Chandigarh, Pune",Java,1
-"Chandigarh, Pune",APIs,1
-"Chandigarh, Pune",Kafka,1
-"Chandigarh, Pune",AWS,1
+"Chandigarh, India",Model Evaluation,1
+"Chandigarh, India",Prompt Engineering,1
+"Chandigarh, India",Machine Learning,1
 "Chandigarh, Pune",Agile,1
+"Chandigarh, Pune",SQL,1
+"Chandigarh, Pune",APIs,1
+"Chandigarh, Pune",Java,1
+"Chandigarh, Pune",AWS,1
+"Chandigarh, Pune",Kafka,1
 Chennai,Python,50
 Chennai,SQL,45
 Chennai,Business Recommendations,42
@@ -156,713 +161,734 @@ Chennai,Labor Market Analytics,42
 Chennai,APIs,37
 Chennai,LLM,31
 Chennai,RAG,29
-Chennai,Machine Learning,28
+Chennai,Statistics,28
 Chennai(Ashok Nagar),Python,1
 Chennai(Ashok Nagar),SQL,1
 Chennai(Egmore),Business Recommendations,1
-Chennai(Guindy),Data Visualization,1
 Chennai(Guindy),Power BI,1
+Chennai(Guindy),Data Visualization,1
 Chennai(Guindy),Tableau,1
 Chennai(Nungambakkam),Power BI,1
+Chennai(Perungudi),APIs,1
 Chennai(Perungudi),Regression,1
 Chennai(Perungudi),SQL,1
 Chennai(Perungudi),Java,1
-Chennai(Perungudi),APIs,1
-Chennai(Saidapet +14),Excel,1
 Chennai(Saidapet +14),Power BI,1
+Chennai(Saidapet +14),Excel,1
 Chennai(Sholinganallur),Python,1
-Chennai(Tharamani),Snowflake,1
 Chennai(Tharamani),Power BI,1
-Chennai(Thoraipakkam),Data Warehousing,1
+Chennai(Tharamani),Snowflake,1
 Chennai(Thoraipakkam),ETL,1
+Chennai(Thoraipakkam),Data Warehousing,1
 Chennai(Thoraipakkam),SQL,1
-Chennai(West Mambalam),Python,1
 Chennai(West Mambalam),MySQL,1
 Chennai(West Mambalam),Azure,1
+Chennai(West Mambalam),Python,1
 "Chennai, Bengaluru",Python,5
 "Chennai, Bengaluru",SQL,4
 "Chennai, Bengaluru",CI/CD,3
 "Chennai, Bengaluru",Bash,2
+"Chennai, Bengaluru",Data Warehousing,2
 "Chennai, Bengaluru",APIs,2
+"Chennai, Bengaluru",Spark,2
 "Chennai, Bengaluru",Scala,2
 "Chennai, Bengaluru",AWS,2
-"Chennai, Bengaluru",Spark,2
-"Chennai, Bengaluru",Data Warehousing,2
-"Chennai, Bengaluru",Databricks,1
+"Chennai, Bengaluru",Docker,1
 "Chennai, Coimbatore",ETL,1
 "Chennai, Coimbatore",SQL,1
-"Chennai, Tamil Nadu",RAG,1
-"Chennai, Tamil Nadu",Vector Database,1
-"Chennai, Tamil Nadu",Classification,1
+"Chennai, Tamil Nadu",Machine Learning,6
+"Chennai, Tamil Nadu",Python,5
+"Chennai, Tamil Nadu",RAG,3
+"Chennai, Tamil Nadu",Classification,2
+"Chennai, Tamil Nadu",Natural Language Processing,2
+"Chennai, Tamil Nadu",PySpark,2
+"Chennai, Tamil Nadu",SQL,2
+"Chennai, Tamil Nadu",KPI Reporting,2
+"Chennai, Tamil Nadu",Databricks,2
 "Chennai, Tamil Nadu",LLM,1
-"Chennai, Tamil Nadu",Python,1
-"Chennai, Tamil Nadu",KPI Reporting,1
-"Chennai, Tamil Nadu",SQL,1
-"Chennai, Tamil Nadu",Natural Language Processing,1
-"Chennai, Tamil Nadu",Power BI,1
-"Chennai, Tamil Nadu",LangChain,1
 "Chennai, Thiruvananthapuram",Excel,2
 "Chennai, Thiruvananthapuram",KPI Reporting,1
-"Chennai, Thiruvananthapuram",SQL,1
 "Chennai, Thiruvananthapuram",Machine Learning,1
 "Chennai, Thiruvananthapuram",Python,1
-"Chennai, Thiruvananthapuram",Power BI,1
 "Chennai, Thiruvananthapuram",Statistics,1
+"Chennai, Thiruvananthapuram",Power BI,1
+"Chennai, Thiruvananthapuram",SQL,1
 Chirala,Machine Learning,1
-Chitradurga,Kafka,1
-Chitradurga,AWS,1
-Chitradurga,Spark,1
-Chitradurga,ETL,1
 Chitradurga,Data Warehousing,1
+Chitradurga,Spark,1
 Chitradurga,Scala,1
-Coimbatore,Business Recommendations,51
+Chitradurga,AWS,1
+Chitradurga,ETL,1
+Chitradurga,Kafka,1
 Coimbatore,Stakeholder Communication,51
 Coimbatore,Labor Market Analytics,51
 Coimbatore,Future of Work,51
+Coimbatore,Business Recommendations,51
 Coimbatore,APIs,43
 Coimbatore,SQL,38
 Coimbatore,Python,37
 Coimbatore,LLM,35
 Coimbatore,Model Evaluation,31
 Coimbatore,Semantic Search,31
-"Coimbatore, Bengaluru",Python,1
 "Coimbatore, Bengaluru",Java,1
+"Coimbatore, Bengaluru",Python,1
+"Coimbatore, Tamil Nadu",ETL,1
+"Coimbatore, Tamil Nadu",SQL,1
 "Coimbatore, Tamil Nadu",KPI Reporting,1
+Daund,Spark,1
+Daund,Git,1
 Daund,SQL,1
 Daund,Data Warehousing,1
-Daund,AWS,1
-Daund,ETL,1
-Daund,Spark,1
-Daund,Java,1
-Daund,Scala,1
 Daund,Kafka,1
-Daund,Git,1
+Daund,AWS,1
+Daund,Scala,1
+Daund,ETL,1
+Daund,Java,1
 Davangere,AWS,3
 Davangere,Kafka,2
 Davangere,GCP,2
 Davangere,Docker,1
-Davangere,Kubernetes,1
-Davangere,Data Warehousing,1
-Davangere,APIs,1
 Davangere,SQL,1
-Davangere,Spark,1
-Davangere,Azure,1
+Davangere,APIs,1
+Davangere,Data Warehousing,1
+Davangere,Kubernetes,1
+Davangere,CI/CD,1
+Davangere,Java,1
 Delhi Ncr,Future of Work,35
+Delhi Ncr,Stakeholder Communication,35
 Delhi Ncr,Labor Market Analytics,35
 Delhi Ncr,Business Recommendations,35
-Delhi Ncr,Stakeholder Communication,35
 Delhi Ncr,Python,27
 Delhi Ncr,APIs,26
 Delhi Ncr,SQL,25
-Delhi Ncr,LLM,23
 Delhi Ncr,Prompt Engineering,23
+Delhi Ncr,LLM,23
 Delhi Ncr,Data Visualization,22
+"Delhi, India",SQL,2
 "Delhi, India",Machine Learning,2
 "Delhi, India",LangChain,1
-Gandhinagar,MySQL,1
-Gandhinagar,SQL,1
+"Delhi, India",Hypothesis Testing,1
+"Delhi, India",Natural Language Processing,1
+"Delhi, India",AWS,1
+"Delhi, India",Python,1
 Gandhinagar,Python,1
+Gandhinagar,SQL,1
+Gandhinagar,MySQL,1
 "Gandhinagar, Ahmedabad, Surat",APIs,1
-"Gandhinagar, Ahmedabad, Surat",CI/CD,1
 "Gandhinagar, Ahmedabad, Surat",Azure,1
-"Gandhinagar, Ahmedabad, Surat",AWS,1
 "Gandhinagar, Ahmedabad, Surat",SQL,1
+"Gandhinagar, Ahmedabad, Surat",AWS,1
+"Gandhinagar, Ahmedabad, Surat",CI/CD,1
 Greater Noida,SQL,3
-Greater Noida,ETL,1
-Greater Noida,Data Warehousing,1
 Greater Noida,Azure,1
-Greater Noida,MySQL,1
 Greater Noida,Python,1
 Greater Noida,APIs,1
+Greater Noida,ETL,1
+Greater Noida,Data Warehousing,1
+Greater Noida,MySQL,1
+"Gujarat, India",Sentence Transformers,1
+"Gujarat, India",LLM,1
+"Gujarat, India",Prompt Engineering,1
+"Gujarat, India",RAG,1
+"Gujarat, India",APIs,1
 "Guntur, Chennai, Coimbatore",Python,1
-Gurgaon,Stakeholder Communication,35
-Gurgaon,Business Recommendations,35
 Gurgaon,Labor Market Analytics,35
+Gurgaon,Stakeholder Communication,35
 Gurgaon,Future of Work,35
+Gurgaon,Business Recommendations,35
 Gurgaon,Python,30
 Gurgaon,APIs,27
 Gurgaon,RAG,25
 Gurgaon,Model Evaluation,25
 Gurgaon,SQL,24
 Gurgaon,Scikit-learn,22
+"Gurgaon, Haryana",Machine Learning,3
+"Gurgaon, Haryana",Natural Language Processing,2
+"Gurgaon, Haryana",Azure,1
+"Gurgaon, Haryana",ETL,1
+"Gurgaon, Haryana",APIs,1
+"Gurgaon, Haryana",Python,1
+"Gurgaon, Haryana",Classification,1
+"Gurgaon, Haryana",Prompt Engineering,1
+"Gurgaon, Haryana",Databricks,1
 Gurugram,Python,10
 Gurugram,SQL,8
-Gurugram,Machine Learning,6
 Gurugram,Excel,6
+Gurugram,Machine Learning,6
 Gurugram,Azure,3
-Gurugram,APIs,3
-Gurugram,Power BI,3
 Gurugram,KPI Reporting,3
-Gurugram,Kubernetes,2
+Gurugram,Power BI,3
+Gurugram,APIs,3
+Gurugram,Agile,2
 Gurugram,RAG,2
-Gurugram(Sector 26 +1),Tableau,1
 Gurugram(Sector 26 +1),Power BI,1
+Gurugram(Sector 26 +1),Tableau,1
 Gurugram(Sector 59),Python,1
-"Gurugram, Bengaluru",Python,1
-"Gurugram, Bengaluru",SQL,1
 "Gurugram, Bengaluru",Probability,1
+"Gurugram, Bengaluru",SQL,1
 "Gurugram, Bengaluru",R,1
+"Gurugram, Bengaluru",Python,1
 "Gurugram, Chennai",Kafka,1
-"Gurugram, Chennai",CI/CD,1
 "Gurugram, Chennai",SQL,1
+"Gurugram, Chennai",CI/CD,1
 "Gurugram, Chennai",Java,1
 "Guwahati, Kolkata",Machine Learning,1
 Halol,Labor Market Analytics,1
+"Hapur, Ghaziabad",KPI Reporting,1
 "Hapur, Ghaziabad",Power BI,1
 "Hapur, Ghaziabad",Excel,1
-"Hapur, Ghaziabad",KPI Reporting,1
-Haveri,Kafka,1
-Haveri,AWS,1
-Haveri,Kubernetes,1
-Haveri,Azure,1
-Haveri,Docker,1
-Haveri,GCP,1
 Haveri,CI/CD,1
 Haveri,APIs,1
+Haveri,AWS,1
+Haveri,Azure,1
+Haveri,Docker,1
 Haveri,Java,1
-"Hosur, Bengaluru",Azure,1
-"Hosur, Bengaluru",AWS,1
+Haveri,Kubernetes,1
+Haveri,Kafka,1
+Haveri,GCP,1
 "Hosur, Bengaluru",Agile,1
-"Hosur, Bengaluru",APIs,1
+"Hosur, Bengaluru",AWS,1
+"Hosur, Bengaluru",Azure,1
 "Hosur, Bengaluru",SQL,1
-Hybrid - Adilabad,Python,1
-Hybrid - Adilabad,AWS,1
+"Hosur, Bengaluru",APIs,1
 Hybrid - Adilabad,Bash,1
+Hybrid - Adilabad,AWS,1
 Hybrid - Adilabad,Azure,1
-Hybrid - Adilabad,GCP,1
 Hybrid - Adilabad,Linux,1
-Hybrid - Ambegaon,Git,2
-Hybrid - Ambegaon,Scala,2
-Hybrid - Ambegaon,PySpark,2
-Hybrid - Ambegaon,Python,2
-Hybrid - Ambegaon,Spark,2
+Hybrid - Adilabad,Python,1
+Hybrid - Adilabad,GCP,1
 Hybrid - Ambegaon,Airflow,2
-Hybrid - Ambegaon,APIs,1
-Hybrid - Ambegaon,GCP,1
-Hybrid - Ambegaon,Java,1
+Hybrid - Ambegaon,PySpark,2
+Hybrid - Ambegaon,Scala,2
+Hybrid - Ambegaon,Spark,2
+Hybrid - Ambegaon,Git,2
+Hybrid - Ambegaon,Python,2
+Hybrid - Ambegaon,MLOps,1
 Hybrid - Ambegaon,Jira,1
-"Hybrid - Bangalore Rural, Bengaluru",APIs,1
-"Hybrid - Bangalore Rural, Bengaluru",GCP,1
-"Hybrid - Bangalore Rural, Bengaluru",CI/CD,1
+Hybrid - Ambegaon,Agile,1
+Hybrid - Ambegaon,Java,1
 "Hybrid - Bangalore Rural, Bengaluru",Python,1
-"Hybrid - Bangalore Rural, Bengaluru",Bash,1
-"Hybrid - Bangalore Rural, Bengaluru",AWS,1
-"Hybrid - Bangalore Rural, Bengaluru",Kubernetes,1
-"Hybrid - Bangalore Rural, Bengaluru",Docker,1
-"Hybrid - Bangalore Rural, Bengaluru",Azure,1
+"Hybrid - Bangalore Rural, Bengaluru",SQL,1
+"Hybrid - Bangalore Rural, Bengaluru",GCP,1
 "Hybrid - Bangalore Rural, Bengaluru",Git,1
+"Hybrid - Bangalore Rural, Bengaluru",APIs,1
+"Hybrid - Bangalore Rural, Bengaluru",Kubernetes,1
+"Hybrid - Bangalore Rural, Bengaluru",AWS,1
+"Hybrid - Bangalore Rural, Bengaluru",Docker,1
+"Hybrid - Bangalore Rural, Bengaluru",Bash,1
+"Hybrid - Bangalore Rural, Bengaluru",CI/CD,1
 Hybrid - Bengaluru,Python,18
 Hybrid - Bengaluru,SQL,14
 Hybrid - Bengaluru,APIs,13
 Hybrid - Bengaluru,AWS,10
-Hybrid - Bengaluru,ETL,6
 Hybrid - Bengaluru,Docker,6
+Hybrid - Bengaluru,ETL,6
 Hybrid - Bengaluru,Azure,6
-Hybrid - Bengaluru,Java,5
 Hybrid - Bengaluru,Git,5
+Hybrid - Bengaluru,Java,5
 Hybrid - Bengaluru,KPI Reporting,4
+Hybrid - Bengaluru(Bagmane Tech Park),Kubernetes,1
 Hybrid - Bengaluru(Bagmane Tech Park),Python,1
 Hybrid - Bengaluru(Bagmane Tech Park),GCP,1
 Hybrid - Bengaluru(Bagmane Tech Park),Bash,1
-Hybrid - Bengaluru(Bagmane Tech Park),Kubernetes,1
 Hybrid - Bengaluru(Bellandur),Python,2
 Hybrid - Bengaluru(Bellandur),Kafka,1
-Hybrid - Bengaluru(Bellandur),Scala,1
 Hybrid - Bengaluru(Bellandur),PostgreSQL,1
+Hybrid - Bengaluru(Bellandur),APIs,1
 Hybrid - Bengaluru(Bellandur),Java,1
 Hybrid - Bengaluru(Bellandur),AWS,1
-Hybrid - Bengaluru(Bellandur),APIs,1
+Hybrid - Bengaluru(Bellandur),Scala,1
 Hybrid - Bengaluru(Bellandur),MySQL,1
 Hybrid - Bengaluru(Marathahalli),SQL,2
 Hybrid - Bengaluru(Marathahalli),R,1
 Hybrid - Bengaluru(Marathahalli),Python,1
+Hybrid - Bengaluru(Sarjapur),Linux,1
 Hybrid - Bengaluru(Sarjapur),APIs,1
 Hybrid - Bengaluru(Sarjapur),Python,1
 Hybrid - Bengaluru(Sarjapur),SQL,1
-Hybrid - Bengaluru(Sarjapur),Linux,1
 "Hybrid - Bengaluru, Mumbai (All Areas)",Python,3
 "Hybrid - Bengaluru, Mumbai (All Areas)",SQL,2
 "Hybrid - Bengaluru, Mumbai (All Areas)",Java,2
-"Hybrid - Bengaluru, Mumbai (All Areas)",APIs,1
+"Hybrid - Bengaluru, Mumbai (All Areas)",MySQL,1
 "Hybrid - Bengaluru, Mumbai (All Areas)",Linux,1
 "Hybrid - Bengaluru, Mumbai (All Areas)",PostgreSQL,1
-"Hybrid - Bengaluru, Mumbai (All Areas)",Jira,1
-"Hybrid - Bengaluru, Mumbai (All Areas)",AWS,1
-"Hybrid - Bengaluru, Mumbai (All Areas)",MySQL,1
+"Hybrid - Bengaluru, Mumbai (All Areas)",APIs,1
+"Hybrid - Bengaluru, Mumbai (All Areas)",Bash,1
 "Hybrid - Bengaluru, Mumbai (All Areas)",Kafka,1
-Hybrid - Bhor,BigQuery,1
-Hybrid - Bhor,Java,1
-Hybrid - Bhor,ETL,1
-Hybrid - Bhor,Python,1
+"Hybrid - Bengaluru, Mumbai (All Areas)",Jira,1
 Hybrid - Bhor,GCP,1
 Hybrid - Bhor,SQL,1
+Hybrid - Bhor,ETL,1
+Hybrid - Bhor,BigQuery,1
+Hybrid - Bhor,Python,1
+Hybrid - Bhor,Java,1
 "Hybrid - Chandigarh, Pune, Chennai",SQL,1
 Hybrid - Chennai,SQL,7
 Hybrid - Chennai,AWS,6
 Hybrid - Chennai,Azure,5
 Hybrid - Chennai,Python,4
-Hybrid - Chennai,GCP,3
 Hybrid - Chennai,Agile,3
+Hybrid - Chennai,GCP,3
 Hybrid - Chennai,APIs,2
-Hybrid - Chennai,CI/CD,2
 Hybrid - Chennai,PySpark,2
-Hybrid - Chennai,Power BI,2
-"Hybrid - Chennai, Bengaluru",APIs,1
-"Hybrid - Chennai, Bengaluru",Python,1
+Hybrid - Chennai,Snowflake,2
+Hybrid - Chennai,CI/CD,2
 "Hybrid - Chennai, Bengaluru",Bash,1
+"Hybrid - Chennai, Bengaluru",Python,1
 "Hybrid - Chennai, Bengaluru",Linux,1
-Hybrid - Coimbatore,RAG,1
+"Hybrid - Chennai, Bengaluru",APIs,1
 Hybrid - Coimbatore,Machine Learning,1
+Hybrid - Coimbatore,RAG,1
 Hybrid - Coimbatore,LangChain,1
 Hybrid - Daund,GCP,2
 Hybrid - Daund,Python,2
-Hybrid - Daund,Git,1
-Hybrid - Daund,Airflow,1
-Hybrid - Daund,ETL,1
-Hybrid - Daund,Java,1
-Hybrid - Daund,SQL,1
 Hybrid - Daund,PySpark,1
-Hybrid - Daund,BigQuery,1
+Hybrid - Daund,Git,1
 Hybrid - Daund,Spark,1
+Hybrid - Daund,Airflow,1
+Hybrid - Daund,BigQuery,1
+Hybrid - Daund,Scala,1
+Hybrid - Daund,ETL,1
+Hybrid - Daund,MLOps,1
 Hybrid - Gurugram,Python,5
 Hybrid - Gurugram,Azure,3
 Hybrid - Gurugram,Machine Learning,2
 Hybrid - Gurugram,Time Series,2
-Hybrid - Gurugram,APIs,1
-Hybrid - Gurugram,GCP,1
-Hybrid - Gurugram,Java,1
-Hybrid - Gurugram,AWS,1
 Hybrid - Gurugram,MySQL,1
+Hybrid - Gurugram,APIs,1
+Hybrid - Gurugram,Git,1
+Hybrid - Gurugram,GCP,1
+Hybrid - Gurugram,LLM,1
 Hybrid - Gurugram,SQL,1
-"Hybrid - Gurugram, Bengaluru",Tableau,1
 "Hybrid - Gurugram, Bengaluru",SQL,1
+"Hybrid - Gurugram, Bengaluru",Tableau,1
 "Hybrid - Gurugram, Chennai, Bengaluru",AWS,1
 "Hybrid - Gurugram, Chennai, Bengaluru",Python,1
 Hybrid - Hyderabad,SQL,13
 Hybrid - Hyderabad,AWS,7
-Hybrid - Hyderabad,GCP,5
-Hybrid - Hyderabad,Azure,5
-Hybrid - Hyderabad,Python,5
 Hybrid - Hyderabad,APIs,5
+Hybrid - Hyderabad,Azure,5
+Hybrid - Hyderabad,GCP,5
+Hybrid - Hyderabad,Python,5
 Hybrid - Hyderabad,Java,5
 Hybrid - Hyderabad,Power BI,4
-Hybrid - Hyderabad,ETL,2
 Hybrid - Hyderabad,Machine Learning,2
+Hybrid - Hyderabad,KPI Reporting,2
 "Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Azure,2
-"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",LLM,1
-"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Scikit-learn,1
-"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Data Warehousing,1
-"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Machine Learning,1
 "Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Databricks,1
+"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Python,1
+"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",LLM,1
+"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Data Warehousing,1
+"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Scikit-learn,1
 "Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Feature Engineering,1
-"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Statistics,1
-"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",R,1
 "Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Natural Language Processing,1
+"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",R,1
+"Hybrid - Hyderabad(Gachibowli), Pune(Kharadi), Bengaluru(Electronics City Phase 1)",Statistics,1
 Hybrid - Hyderabad(Nanakramguda),SQL,1
-"Hybrid - Hyderabad, Ahmedabad",Java,1
-"Hybrid - Hyderabad, Ahmedabad",Azure,1
-"Hybrid - Hyderabad, Ahmedabad",SQL,1
-"Hybrid - Hyderabad, Ahmedabad",GCP,1
 "Hybrid - Hyderabad, Ahmedabad",AWS,1
+"Hybrid - Hyderabad, Ahmedabad",Azure,1
+"Hybrid - Hyderabad, Ahmedabad",GCP,1
 "Hybrid - Hyderabad, Ahmedabad",APIs,1
+"Hybrid - Hyderabad, Ahmedabad",SQL,1
+"Hybrid - Hyderabad, Ahmedabad",Java,1
 "Hybrid - Hyderabad, Bengaluru",SQL,1
-"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",Plotly,1
-"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",LLM,1
-"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",APIs,1
-"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",FastAPI,1
-"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",Python,1
 "Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",LangChain,1
+"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",LLM,1
+"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",Plotly,1
+"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",APIs,1
+"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",Python,1
 "Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",SQL,1
-"Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",Java,1
-"Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",AWS,1
+"Hybrid - Hyderabad, Bengaluru, Delhi / Ncr",FastAPI,1
 "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",Python,1
+"Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",AWS,1
+"Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",Java,1
 "Hybrid - Hyderabad, Bengaluru, Mumbai (All Areas)",Git,1
 "Hybrid - Hyderabad, Chennai",CI/CD,1
-"Hybrid - Hyderabad, Chennai",Python,1
-"Hybrid - Hyderabad, Chennai",Machine Learning,1
-"Hybrid - Hyderabad, Chennai",AWS,1
-"Hybrid - Hyderabad, Chennai",Linux,1
-"Hybrid - Hyderabad, Chennai",Git,1
 "Hybrid - Hyderabad, Chennai",MLOps,1
+"Hybrid - Hyderabad, Chennai",Machine Learning,1
+"Hybrid - Hyderabad, Chennai",Linux,1
 "Hybrid - Hyderabad, Chennai",Docker,1
+"Hybrid - Hyderabad, Chennai",Python,1
+"Hybrid - Hyderabad, Chennai",Git,1
+"Hybrid - Hyderabad, Chennai",AWS,1
 "Hybrid - Hyderabad, Chennai, Bengaluru",SQL,5
 "Hybrid - Hyderabad, Chennai, Bengaluru",Azure,3
 "Hybrid - Hyderabad, Chennai, Bengaluru",Python,3
+"Hybrid - Hyderabad, Chennai, Bengaluru",Machine Learning,2
 "Hybrid - Hyderabad, Chennai, Bengaluru",Databricks,2
 "Hybrid - Hyderabad, Chennai, Bengaluru",APIs,2
-"Hybrid - Hyderabad, Chennai, Bengaluru",Java,2
-"Hybrid - Hyderabad, Chennai, Bengaluru",Machine Learning,2
 "Hybrid - Hyderabad, Chennai, Bengaluru",AWS,2
-"Hybrid - Hyderabad, Chennai, Bengaluru",GCP,1
-"Hybrid - Hyderabad, Chennai, Bengaluru",Kafka,1
+"Hybrid - Hyderabad, Chennai, Bengaluru",Java,2
+"Hybrid - Hyderabad, Chennai, Bengaluru",Data Warehousing,1
+"Hybrid - Hyderabad, Chennai, Bengaluru",MLOps,1
+"Hybrid - Hyderabad, Chennai, Coimbatore",SQL,1
+"Hybrid - Hyderabad, Chennai, Coimbatore",Git,1
 "Hybrid - Hyderabad, Chennai, Coimbatore",Kubernetes,1
 "Hybrid - Hyderabad, Chennai, Coimbatore",CI/CD,1
 "Hybrid - Hyderabad, Chennai, Coimbatore",Azure,1
-"Hybrid - Hyderabad, Chennai, Coimbatore",Git,1
-"Hybrid - Hyderabad, Chennai, Coimbatore",SQL,1
-"Hybrid - Hyderabad, Pune, Bengaluru",Kafka,1
+"Hybrid - Hyderabad, Pune, Bengaluru",Git,1
 "Hybrid - Hyderabad, Pune, Bengaluru",PostgreSQL,1
+"Hybrid - Hyderabad, Pune, Bengaluru",Kafka,1
+"Hybrid - Hyderabad, Pune, Bengaluru",SQL,1
 "Hybrid - Hyderabad, Pune, Bengaluru",Snowflake,1
 "Hybrid - Hyderabad, Pune, Bengaluru",APIs,1
-"Hybrid - Hyderabad, Pune, Bengaluru",Java,1
-"Hybrid - Hyderabad, Pune, Bengaluru",SQL,1
-"Hybrid - Hyderabad, Pune, Bengaluru",Git,1
 "Hybrid - Hyderabad, Pune, Bengaluru",AWS,1
-"Hybrid - Hyderabad, Pune, Delhi / Ncr",RAG,1
-"Hybrid - Hyderabad, Pune, Delhi / Ncr",LlamaIndex,1
-"Hybrid - Hyderabad, Pune, Delhi / Ncr",LLM,1
-"Hybrid - Hyderabad, Pune, Delhi / Ncr",Python,1
+"Hybrid - Hyderabad, Pune, Bengaluru",Java,1
 "Hybrid - Hyderabad, Pune, Delhi / Ncr",Machine Learning,1
+"Hybrid - Hyderabad, Pune, Delhi / Ncr",Python,1
 "Hybrid - Hyderabad, Pune, Delhi / Ncr",Excel,1
-"Hybrid - Hyderabad, Pune, Delhi / Ncr",LangChain,1
+"Hybrid - Hyderabad, Pune, Delhi / Ncr",LlamaIndex,1
 "Hybrid - Hyderabad, Pune, Delhi / Ncr",SQL,1
+"Hybrid - Hyderabad, Pune, Delhi / Ncr",LangChain,1
+"Hybrid - Hyderabad, Pune, Delhi / Ncr",LLM,1
+"Hybrid - Hyderabad, Pune, Delhi / Ncr",RAG,1
 Hybrid - Indapur,Python,3
-Hybrid - Indapur,PySpark,2
-Hybrid - Indapur,Java,2
 Hybrid - Indapur,Git,2
-Hybrid - Indapur,GCP,2
+Hybrid - Indapur,PySpark,2
 Hybrid - Indapur,Spark,2
-Hybrid - Indapur,Airflow,2
+Hybrid - Indapur,GCP,2
 Hybrid - Indapur,Scala,2
-Hybrid - Indapur,Jira,1
-Hybrid - Indapur,ETL,1
-"Hybrid - Indore, Hyderabad, Bengaluru",APIs,1
+Hybrid - Indapur,Java,2
+Hybrid - Indapur,Airflow,2
+Hybrid - Indapur,BigQuery,1
+Hybrid - Indapur,APIs,1
 "Hybrid - Indore, Hyderabad, Bengaluru",Python,1
+"Hybrid - Indore, Hyderabad, Bengaluru",APIs,1
 "Hybrid - Indore, Pune",Databricks,1
 "Hybrid - Indore, Pune",PySpark,1
 "Hybrid - Indore, Pune",Python,1
 "Hybrid - Indore, Pune",Azure,1
 "Hybrid - Indore, Pune",APIs,1
-Hybrid - Junnar,Spark,3
 Hybrid - Junnar,Scala,3
-Hybrid - Junnar,PySpark,3
+Hybrid - Junnar,Spark,3
+Hybrid - Junnar,Agile,3
 Hybrid - Junnar,Airflow,3
 Hybrid - Junnar,Python,3
-Hybrid - Junnar,Agile,3
+Hybrid - Junnar,PySpark,3
+Hybrid - Junnar,APIs,2
 Hybrid - Junnar,Jira,2
 Hybrid - Junnar,Java,2
-Hybrid - Junnar,APIs,2
 Hybrid - Junnar,Git,2
 Hybrid - Kamareddy,Linux,1
+Hybrid - Kamareddy,AWS,1
+Hybrid - Kamareddy,Python,1
+Hybrid - Kamareddy,GCP,1
 Hybrid - Kamareddy,Bash,1
 Hybrid - Kamareddy,Azure,1
-Hybrid - Kamareddy,GCP,1
-Hybrid - Kamareddy,Python,1
-Hybrid - Kamareddy,AWS,1
 Hybrid - Karimnagar,Python,2
-Hybrid - Karimnagar,AWS,1
-Hybrid - Karimnagar,APIs,1
-Hybrid - Karimnagar,Git,1
-Hybrid - Karimnagar,Azure,1
-Hybrid - Karimnagar,Agile,1
 Hybrid - Karimnagar,GCP,1
+Hybrid - Karimnagar,Agile,1
+Hybrid - Karimnagar,APIs,1
+Hybrid - Karimnagar,AWS,1
 Hybrid - Karimnagar,Bash,1
+Hybrid - Karimnagar,Git,1
 Hybrid - Karimnagar,Airflow,1
+Hybrid - Karimnagar,Azure,1
 Hybrid - Karimnagar,Scala,1
-Hybrid - Khammam,Airflow,1
-Hybrid - Khammam,Agile,1
 Hybrid - Khammam,Jira,1
 Hybrid - Khammam,Python,1
+Hybrid - Khammam,Spark,1
+Hybrid - Khammam,Java,1
 Hybrid - Khammam,Git,1
 Hybrid - Khammam,APIs,1
-Hybrid - Khammam,Spark,1
-Hybrid - Khammam,Scala,1
 Hybrid - Khammam,PySpark,1
-Hybrid - Khammam,Java,1
-Hybrid - Kheda,PySpark,2
-Hybrid - Kheda,Spark,2
+Hybrid - Khammam,Airflow,1
+Hybrid - Khammam,Agile,1
+Hybrid - Khammam,Scala,1
 Hybrid - Kheda,Airflow,2
+Hybrid - Kheda,Spark,2
 Hybrid - Kheda,Git,2
 Hybrid - Kheda,Scala,2
 Hybrid - Kheda,Python,2
-Hybrid - Kheda,Java,1
-Hybrid - Kheda,Jira,1
+Hybrid - Kheda,PySpark,2
+Hybrid - Kheda,Agile,1
 Hybrid - Kheda,APIs,1
 Hybrid - Kheda,MLOps,1
-Hybrid - Kochi,Git,1
+Hybrid - Kheda,Java,1
 Hybrid - Kochi,SQL,1
+Hybrid - Kochi,Git,1
 "Hybrid - Kochi, Chennai, Coimbatore",PySpark,1
 "Hybrid - Kochi, Chennai, Coimbatore",Azure,1
 "Hybrid - Kochi, Chennai, Coimbatore",Databricks,1
-"Hybrid - Kochi, Ernakulam, Aluva",AWS,1
-"Hybrid - Kochi, Ernakulam, Aluva",Bash,1
 "Hybrid - Kochi, Ernakulam, Aluva",Azure,1
-"Hybrid - Kochi, Ernakulam, Aluva",Python,1
-"Hybrid - Kochi, Ernakulam, Aluva",CI/CD,1
 "Hybrid - Kochi, Ernakulam, Aluva",Linux,1
+"Hybrid - Kochi, Ernakulam, Aluva",CI/CD,1
+"Hybrid - Kochi, Ernakulam, Aluva",Bash,1
+"Hybrid - Kochi, Ernakulam, Aluva",Python,1
+"Hybrid - Kochi, Ernakulam, Aluva",AWS,1
 Hybrid - Kolkata,SQL,2
-Hybrid - Kolkata,Airflow,1
-Hybrid - Kolkata,Databricks,1
-Hybrid - Kolkata,PySpark,1
-Hybrid - Kolkata,Python,1
-Hybrid - Kolkata,Azure,1
-Hybrid - Kolkata,Data Warehousing,1
-Hybrid - Kolkata,AWS,1
 Hybrid - Kolkata,Clustering,1
-Hybrid - Kolkata,Java,1
-"Hybrid - Kolkata, Bengaluru, Delhi / Ncr",Power BI,1
-"Hybrid - Kolkata, Bengaluru, Delhi / Ncr",SQL,1
-"Hybrid - Kolkata, Bengaluru, Delhi / Ncr",KPI Reporting,1
+Hybrid - Kolkata,KPI Reporting,1
+Hybrid - Kolkata,Python,1
+Hybrid - Kolkata,Snowflake,1
+Hybrid - Kolkata,Databricks,1
+Hybrid - Kolkata,Airflow,1
+Hybrid - Kolkata,Azure,1
+Hybrid - Kolkata,ETL,1
+Hybrid - Kolkata,PySpark,1
 "Hybrid - Kolkata, Bengaluru, Delhi / Ncr",ETL,1
+"Hybrid - Kolkata, Bengaluru, Delhi / Ncr",Power BI,1
+"Hybrid - Kolkata, Bengaluru, Delhi / Ncr",KPI Reporting,1
+"Hybrid - Kolkata, Bengaluru, Delhi / Ncr",SQL,1
 "Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Git,1
-"Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Docker,1
-"Hybrid - Kolkata, Chennai, Mumbai (All Areas)",AWS,1
-"Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Java,1
 "Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Python,1
+"Hybrid - Kolkata, Chennai, Mumbai (All Areas)",AWS,1
+"Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Docker,1
+"Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Java,1
 "Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Kubernetes,1
 "Hybrid - Kolkata, Chennai, Mumbai (All Areas)",GCP,1
 "Hybrid - Kolkata, Chennai, Mumbai (All Areas)",Azure,1
+"Hybrid - Kolkata, Hyderabad, Bengaluru",Azure,1
 "Hybrid - Kolkata, Hyderabad, Bengaluru",Spark,1
 "Hybrid - Kolkata, Hyderabad, Bengaluru",ETL,1
 "Hybrid - Kolkata, Hyderabad, Bengaluru",Python,1
-"Hybrid - Kolkata, Hyderabad, Bengaluru",Azure,1
 "Hybrid - Kolkata, Hyderabad, Bengaluru",Kafka,1
 "Hybrid - Kolkata, Hyderabad, Delhi / Ncr",SQL,2
+"Hybrid - Kolkata, Hyderabad, Delhi / Ncr",Snowflake,1
 "Hybrid - Kolkata, Hyderabad, Delhi / Ncr",Power BI,1
 "Hybrid - Kolkata, Hyderabad, Delhi / Ncr",Azure,1
-"Hybrid - Kolkata, Hyderabad, Delhi / Ncr",Snowflake,1
 "Hybrid - Kolkata, Hyderabad, Pune, Ahmedabad, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",Machine Learning,1
 "Hybrid - Kolkata, Hyderabad, Pune, Ahmedabad, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",Natural Language Processing,1
-Hybrid - Kothagudem,Bash,1
-Hybrid - Kothagudem,Azure,1
-Hybrid - Kothagudem,Python,1
 Hybrid - Kothagudem,AWS,1
 Hybrid - Kothagudem,GCP,1
 Hybrid - Kothagudem,Linux,1
+Hybrid - Kothagudem,Python,1
+Hybrid - Kothagudem,Azure,1
+Hybrid - Kothagudem,Bash,1
 Hybrid - Madurai,Databricks,1
-Hybrid - Madurai,Data Visualization,1
 Hybrid - Madurai,Azure,1
-Hybrid - Madurai,SQL,1
+Hybrid - Madurai,Data Visualization,1
 Hybrid - Madurai,ETL,1
-Hybrid - Mancherial,Linux,1
-Hybrid - Mancherial,Azure,1
-Hybrid - Mancherial,AWS,1
+Hybrid - Madurai,SQL,1
 Hybrid - Mancherial,GCP,1
-Hybrid - Mancherial,Python,1
+Hybrid - Mancherial,Linux,1
 Hybrid - Mancherial,Bash,1
+Hybrid - Mancherial,Azure,1
+Hybrid - Mancherial,Python,1
+Hybrid - Mancherial,AWS,1
 Hybrid - Mawal,Python,2
 Hybrid - Mawal,Java,2
-Hybrid - Mawal,Scala,1
+Hybrid - Mawal,Airflow,1
 Hybrid - Mawal,SQL,1
+Hybrid - Mawal,Jira,1
+Hybrid - Mawal,GCP,1
 Hybrid - Mawal,Agile,1
 Hybrid - Mawal,APIs,1
-Hybrid - Mawal,Spark,1
-Hybrid - Mawal,GCP,1
-Hybrid - Mawal,Git,1
+Hybrid - Mawal,ETL,1
 Hybrid - Mawal,PySpark,1
 Hybrid - Medak,Python,3
-Hybrid - Medak,Agile,2
-Hybrid - Medak,Java,2
-Hybrid - Medak,Git,2
 Hybrid - Medak,Scala,2
 Hybrid - Medak,PySpark,2
-Hybrid - Medak,Jira,2
+Hybrid - Medak,Java,2
+Hybrid - Medak,Git,2
+Hybrid - Medak,Agile,2
 Hybrid - Medak,Airflow,2
 Hybrid - Medak,Spark,2
 Hybrid - Medak,APIs,2
-Hybrid - Mulshi,Python,2
+Hybrid - Medak,Jira,2
 Hybrid - Mulshi,GCP,2
-Hybrid - Mulshi,Git,1
+Hybrid - Mulshi,Python,2
+Hybrid - Mulshi,MLOps,1
+Hybrid - Mulshi,Bash,1
+Hybrid - Mulshi,Azure,1
 Hybrid - Mulshi,PySpark,1
 Hybrid - Mulshi,Airflow,1
-Hybrid - Mulshi,Scala,1
-Hybrid - Mulshi,Bash,1
-Hybrid - Mulshi,AWS,1
 Hybrid - Mulshi,Spark,1
-Hybrid - Mulshi,Azure,1
-Hybrid - Mulug,Jira,1
-Hybrid - Mulug,Airflow,1
-Hybrid - Mulug,Spark,1
-Hybrid - Mulug,APIs,1
-Hybrid - Mulug,Git,1
-Hybrid - Mulug,Java,1
-Hybrid - Mulug,Python,1
-Hybrid - Mulug,Agile,1
+Hybrid - Mulshi,AWS,1
+Hybrid - Mulshi,Linux,1
 Hybrid - Mulug,Scala,1
 Hybrid - Mulug,PySpark,1
+Hybrid - Mulug,Airflow,1
+Hybrid - Mulug,Spark,1
+Hybrid - Mulug,Python,1
+Hybrid - Mulug,Java,1
+Hybrid - Mulug,Agile,1
+Hybrid - Mulug,APIs,1
+Hybrid - Mulug,Jira,1
+Hybrid - Mulug,Git,1
 Hybrid - Mumbai,Bash,1
 Hybrid - Mumbai,Python,1
-Hybrid - Mumbai,Kafka,1
-Hybrid - Mumbai,MySQL,1
 Hybrid - Mumbai,AWS,1
+Hybrid - Mumbai,MySQL,1
 Hybrid - Mumbai,GCP,1
 Hybrid - Mumbai,Azure,1
+Hybrid - Mumbai,Kafka,1
 Hybrid - Mumbai,Linux,1
 "Hybrid - Mumbai Suburban, Bengaluru, Mumbai (All Areas)",Tableau,1
 "Hybrid - Mumbai Suburban, Bengaluru, Mumbai (All Areas)",SQL,1
 "Hybrid - Mumbai Suburban, Bengaluru, Mumbai (All Areas)",Agile,1
-"Hybrid - Mumbai(Airoli +2), Navi Mumbai, Mumbai (All Areas)",R,1
 "Hybrid - Mumbai(Airoli +2), Navi Mumbai, Mumbai (All Areas)",Python,1
-"Hybrid - Mumbai, Mumbai Suburban, Mumbai (All Areas)",SQL,1
-"Hybrid - Mumbai, Mumbai Suburban, Mumbai (All Areas)",APIs,1
+"Hybrid - Mumbai(Airoli +2), Navi Mumbai, Mumbai (All Areas)",R,1
 "Hybrid - Mumbai, Mumbai Suburban, Mumbai (All Areas)",Java,1
+"Hybrid - Mumbai, Mumbai Suburban, Mumbai (All Areas)",APIs,1
 "Hybrid - Mumbai, Mumbai Suburban, Mumbai (All Areas)",Agile,1
-"Hybrid - Mumbai, Thane, Mumbai (All Areas)",Linux,1
-"Hybrid - Mumbai, Thane, Mumbai (All Areas)",SQL,1
+"Hybrid - Mumbai, Mumbai Suburban, Mumbai (All Areas)",SQL,1
 "Hybrid - Mumbai, Thane, Mumbai (All Areas)",Java,1
 "Hybrid - Mumbai, Thane, Mumbai (All Areas)",Python,1
+"Hybrid - Mumbai, Thane, Mumbai (All Areas)",Linux,1
+"Hybrid - Mumbai, Thane, Mumbai (All Areas)",SQL,1
 Hybrid - Nagarkurnool,Python,2
-Hybrid - Nagarkurnool,PySpark,1
-Hybrid - Nagarkurnool,Git,1
-Hybrid - Nagarkurnool,Bash,1
 Hybrid - Nagarkurnool,Airflow,1
-Hybrid - Nagarkurnool,Linux,1
-Hybrid - Nagarkurnool,Azure,1
+Hybrid - Nagarkurnool,Bash,1
+Hybrid - Nagarkurnool,PySpark,1
 Hybrid - Nagarkurnool,Agile,1
-Hybrid - Nagarkurnool,Spark,1
-Hybrid - Nagarkurnool,Scala,1
-Hybrid - Nalgonda,Scala,1
-Hybrid - Nalgonda,Spark,1
-Hybrid - Nalgonda,Jira,1
-Hybrid - Nalgonda,Airflow,1
+Hybrid - Nagarkurnool,Java,1
+Hybrid - Nagarkurnool,Azure,1
+Hybrid - Nagarkurnool,Jira,1
+Hybrid - Nagarkurnool,Linux,1
+Hybrid - Nagarkurnool,APIs,1
 Hybrid - Nalgonda,APIs,1
+Hybrid - Nalgonda,Jira,1
+Hybrid - Nalgonda,Spark,1
 Hybrid - Nalgonda,Java,1
-Hybrid - Nalgonda,Agile,1
-Hybrid - Nalgonda,Git,1
+Hybrid - Nalgonda,Airflow,1
 Hybrid - Nalgonda,Python,1
+Hybrid - Nalgonda,Git,1
+Hybrid - Nalgonda,Scala,1
 Hybrid - Nalgonda,PySpark,1
+Hybrid - Nalgonda,Agile,1
 Hybrid - Narayanpet,Linux,1
 Hybrid - Narayanpet,AWS,1
-Hybrid - Narayanpet,Python,1
 Hybrid - Narayanpet,Azure,1
-Hybrid - Narayanpet,GCP,1
 Hybrid - Narayanpet,Bash,1
+Hybrid - Narayanpet,Python,1
+Hybrid - Narayanpet,GCP,1
 Hybrid - Noida,Java,1
-Hybrid - Noida,Azure,1
-Hybrid - Noida,SQL,1
 Hybrid - Noida,Python,1
+Hybrid - Noida,Azure,1
 Hybrid - Noida,APIs,1
+Hybrid - Noida,SQL,1
 "Hybrid - Noida, Gurugram, Delhi / Ncr",SQL,2
-"Hybrid - Noida, Gurugram, Delhi / Ncr",Power BI,1
-"Hybrid - Noida, Gurugram, Delhi / Ncr",Data Visualization,1
-"Hybrid - Noida, Gurugram, Delhi / Ncr",Tableau,1
-"Hybrid - Noida, Gurugram, Delhi / Ncr",Dashboarding,1
 "Hybrid - Noida, Gurugram, Delhi / Ncr",Python,1
-"Hybrid - Noida, Hyderabad, Bengaluru",SQL,2
+"Hybrid - Noida, Gurugram, Delhi / Ncr",Dashboarding,1
+"Hybrid - Noida, Gurugram, Delhi / Ncr",Tableau,1
+"Hybrid - Noida, Gurugram, Delhi / Ncr",Data Visualization,1
+"Hybrid - Noida, Gurugram, Delhi / Ncr",Power BI,1
 "Hybrid - Noida, Hyderabad, Bengaluru",Java,2
+"Hybrid - Noida, Hyderabad, Bengaluru",SQL,2
 "Hybrid - Noida, Hyderabad, Bengaluru",Python,2
-"Hybrid - Noida, Hyderabad, Bengaluru",dbt,1
 "Hybrid - Noida, Hyderabad, Bengaluru",Snowflake,1
+"Hybrid - Noida, Hyderabad, Bengaluru",dbt,1
 "Hybrid - Noida, Hyderabad, Bengaluru",Airflow,1
-"Hybrid - Noida, Hyderabad, Bengaluru",AWS,1
 "Hybrid - Noida, Hyderabad, Bengaluru",ETL,1
+"Hybrid - Noida, Hyderabad, Bengaluru",AWS,1
 "Hybrid - Noida, Hyderabad, Pune",SQL,1
 "Hybrid - Noida, Hyderabad, Pune",Java,1
-"Hybrid - Noida, New Delhi, Gurugram",Java,1
 "Hybrid - Noida, New Delhi, Gurugram",APIs,1
 "Hybrid - Noida, New Delhi, Gurugram",Azure,1
+"Hybrid - Noida, New Delhi, Gurugram",Java,1
 "Hybrid - Noida, Pune, Bangalore Rural",LangChain,1
-"Hybrid - Noida, Pune, Bangalore Rural",RAG,1
 "Hybrid - Noida, Pune, Bangalore Rural",LLM,1
+"Hybrid - Noida, Pune, Bangalore Rural",RAG,1
 "Hybrid - Noida, Pune, Bengaluru",SQL,2
-"Hybrid - Noida, Pune, Bengaluru",CI/CD,1
-"Hybrid - Noida, Pune, Bengaluru",Git,1
-"Hybrid - Noida, Pune, Bengaluru",ETL,1
 "Hybrid - Noida, Pune, Bengaluru",Dashboarding,1
+"Hybrid - Noida, Pune, Bengaluru",ETL,1
 "Hybrid - Noida, Pune, Bengaluru",Azure,1
-"Hybrid - Noida, Pune, Bengaluru",dbt,1
 "Hybrid - Noida, Pune, Bengaluru",Snowflake,1
-"Hybrid - Noida, Pune, Gurugram",Data Warehousing,1
-"Hybrid - Noida, Pune, Gurugram",Databricks,1
+"Hybrid - Noida, Pune, Bengaluru",Git,1
+"Hybrid - Noida, Pune, Bengaluru",CI/CD,1
+"Hybrid - Noida, Pune, Bengaluru",dbt,1
 "Hybrid - Noida, Pune, Gurugram",Azure,1
+"Hybrid - Noida, Pune, Gurugram",Databricks,1
+"Hybrid - Noida, Pune, Gurugram",Data Warehousing,1
 "Hybrid - Noida, Pune, Gurugram, Bengaluru",Machine Learning,1
-"Hybrid - Noida, Pune, Gurugram, Bengaluru",Python,1
 "Hybrid - Noida, Pune, Gurugram, Bengaluru",Natural Language Processing,1
+"Hybrid - Noida, Pune, Gurugram, Bengaluru",Python,1
 "Hybrid - Noida, Pune, Gurugram, Bengaluru",LLM,1
 Hybrid - Pimpri-Chinchwad,Python,2
 Hybrid - Pimpri-Chinchwad,GCP,2
-Hybrid - Pimpri-Chinchwad,Spark,1
 Hybrid - Pimpri-Chinchwad,AWS,1
 Hybrid - Pimpri-Chinchwad,Agile,1
-Hybrid - Pimpri-Chinchwad,PySpark,1
 Hybrid - Pimpri-Chinchwad,Azure,1
 Hybrid - Pimpri-Chinchwad,Scala,1
+Hybrid - Pimpri-Chinchwad,Spark,1
 Hybrid - Pimpri-Chinchwad,Airflow,1
 Hybrid - Pimpri-Chinchwad,Java,1
+Hybrid - Pimpri-Chinchwad,PySpark,1
 Hybrid - Pune,Python,12
 Hybrid - Pune,SQL,10
 Hybrid - Pune,GCP,8
-Hybrid - Pune,Java,6
 Hybrid - Pune,Spark,6
-Hybrid - Pune,Azure,5
-Hybrid - Pune,AWS,5
+Hybrid - Pune,Java,6
 Hybrid - Pune,Airflow,5
+Hybrid - Pune,AWS,5
+Hybrid - Pune,Azure,5
 Hybrid - Pune,PySpark,4
-Hybrid - Pune,BigQuery,3
-Hybrid - Pune(Aundh +5),SQL,1
+Hybrid - Pune,Agile,3
 Hybrid - Pune(Aundh +5),AWS,1
-Hybrid - Pune(Aundh +5),Azure,1
+Hybrid - Pune(Aundh +5),SQL,1
 Hybrid - Pune(Aundh +5),Java,1
+Hybrid - Pune(Aundh +5),Azure,1
 Hybrid - Pune(Aundh),Python,1
-Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Azure,1
-Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Python,1
-Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Vector Database,1
-Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Prompt Engineering,1
-Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Natural Language Processing,1
 Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),KPI Reporting,1
 Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),RAG,1
 Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),LLM,1
+Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Natural Language Processing,1
+Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Prompt Engineering,1
+Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Vector Database,1
+Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Azure,1
+Hybrid - Pune(Hinjewadi Rajiv Gandhi Infotech Park),Python,1
 "Hybrid - Pune, Bengaluru",Python,2
 "Hybrid - Pune, Bengaluru",R,1
 "Hybrid - Pune, Bengaluru",APIs,1
 "Hybrid - Pune, Bengaluru",Machine Learning,1
 "Hybrid - Pune, Bengaluru",Feature Engineering,1
-"Hybrid - Pune, Bengaluru, Mumbai (All Areas)",SQL,1
-"Hybrid - Pune, Bengaluru, Mumbai (All Areas)",Python,1
 "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",PySpark,1
 "Hybrid - Pune, Bengaluru, Mumbai (All Areas)",Azure,1
-"Hybrid - Pune, Chennai",Python,1
+"Hybrid - Pune, Bengaluru, Mumbai (All Areas)",Python,1
+"Hybrid - Pune, Bengaluru, Mumbai (All Areas)",SQL,1
 "Hybrid - Pune, Chennai",SQL,1
-"Hybrid - Pune, Chennai",Azure,1
 "Hybrid - Pune, Chennai",Spark,1
-"Hybrid - Pune, Chennai",PySpark,1
 "Hybrid - Pune, Chennai",Databricks,1
+"Hybrid - Pune, Chennai",PySpark,1
+"Hybrid - Pune, Chennai",Azure,1
+"Hybrid - Pune, Chennai",Python,1
 "Hybrid - Pune, Chennai, Bengaluru",SQL,4
 "Hybrid - Pune, Chennai, Bengaluru",Python,2
-"Hybrid - Pune, Chennai, Bengaluru",PySpark,1
-"Hybrid - Pune, Chennai, Bengaluru",ETL,1
-"Hybrid - Pune, Chennai, Bengaluru",Kubernetes,1
-"Hybrid - Pune, Chennai, Bengaluru",Git,1
-"Hybrid - Pune, Chennai, Bengaluru",Machine Learning,1
 "Hybrid - Pune, Chennai, Bengaluru",Docker,1
-"Hybrid - Pune, Chennai, Bengaluru",Bash,1
-"Hybrid - Pune, Chennai, Bengaluru",Linux,1
+"Hybrid - Pune, Chennai, Bengaluru",APIs,1
+"Hybrid - Pune, Chennai, Bengaluru",Kubernetes,1
+"Hybrid - Pune, Chennai, Bengaluru",Machine Learning,1
+"Hybrid - Pune, Chennai, Bengaluru",Azure,1
+"Hybrid - Pune, Chennai, Bengaluru",Git,1
+"Hybrid - Pune, Chennai, Bengaluru",ETL,1
+"Hybrid - Pune, Chennai, Bengaluru",PySpark,1
 "Hybrid - Pune, Gurugram, Bengaluru",Compensation Analytics,1
-Hybrid - Purandhar,Python,2
-Hybrid - Purandhar,Spark,2
+Hybrid - Purandhar,Scala,2
 Hybrid - Purandhar,Airflow,2
 Hybrid - Purandhar,PySpark,2
+Hybrid - Purandhar,Python,2
 Hybrid - Purandhar,Agile,2
-Hybrid - Purandhar,Scala,2
-Hybrid - Purandhar,GCP,1
+Hybrid - Purandhar,Spark,2
+Hybrid - Purandhar,APIs,1
 Hybrid - Purandhar,Git,1
-Hybrid - Purandhar,Java,1
 Hybrid - Purandhar,Jira,1
-Hybrid - Shirur,Python,1
-Hybrid - Shirur,ETL,1
-Hybrid - Shirur,Java,1
-Hybrid - Shirur,BigQuery,1
-Hybrid - Shirur,GCP,1
+Hybrid - Purandhar,GCP,1
 Hybrid - Shirur,SQL,1
+Hybrid - Shirur,Java,1
+Hybrid - Shirur,GCP,1
+Hybrid - Shirur,ETL,1
+Hybrid - Shirur,BigQuery,1
+Hybrid - Shirur,Python,1
 Hybrid - Tiruppur,SQL,2
-Hybrid - Tiruppur,APIs,1
 Hybrid - Tiruppur,Excel,1
-Hybrid - Velhe,GCP,2
+Hybrid - Tiruppur,APIs,1
 Hybrid - Velhe,Python,2
-Hybrid - Velhe,Scala,1
-Hybrid - Velhe,AWS,1
-Hybrid - Velhe,Spark,1
+Hybrid - Velhe,GCP,2
 Hybrid - Velhe,Agile,1
-Hybrid - Velhe,Azure,1
-Hybrid - Velhe,Linux,1
 Hybrid - Velhe,Bash,1
+Hybrid - Velhe,AWS,1
+Hybrid - Velhe,Azure,1
+Hybrid - Velhe,Scala,1
+Hybrid - Velhe,PySpark,1
+Hybrid - Velhe,Linux,1
 Hybrid - Velhe,Airflow,1
 Hyderabad,SQL,73
 Hyderabad,Business Recommendations,57
 Hyderabad,Python,57
 Hyderabad,Future of Work,57
-Hyderabad,Stakeholder Communication,57
 Hyderabad,Labor Market Analytics,57
+Hyderabad,Stakeholder Communication,57
 Hyderabad,APIs,51
 Hyderabad,Data Visualization,39
 Hyderabad,Machine Learning,38
@@ -873,557 +899,571 @@ Hyderabad(Ida Uppal),KPI Reporting,1
 Hyderabad(Ida Uppal),Excel,1
 Hyderabad(Kondapur),Prompt Engineering,1
 Hyderabad(Koti +1),RAG,1
-Hyderabad(Madhapur),Machine Learning,1
 Hyderabad(Madhapur),Agile,1
-Hyderabad(Madhapur),Excel,1
 Hyderabad(Madhapur),Azure,1
-Hyderabad(Malakpet),APIs,1
+Hyderabad(Madhapur),Excel,1
+Hyderabad(Madhapur),Machine Learning,1
 Hyderabad(Malakpet),Tableau,1
+Hyderabad(Malakpet),APIs,1
 Hyderabad(Malakpet),Excel,1
 Hyderabad(Raidurgam),SQL,1
-Hyderabad(Raidurgam),Snowflake,1
-Hyderabad(Raidurgam),ETL,1
 Hyderabad(Raidurgam),Data Warehousing,1
 Hyderabad(Raidurgam),Streamlit,1
+Hyderabad(Raidurgam),Snowflake,1
+Hyderabad(Raidurgam),ETL,1
 "Hyderabad, Ahmedabad",Data Visualization,1
-"Hyderabad, Ahmedabad",MySQL,1
+"Hyderabad, Ahmedabad",Azure,1
 "Hyderabad, Ahmedabad",SQL,1
 "Hyderabad, Ahmedabad",Agile,1
-"Hyderabad, Ahmedabad",Azure,1
+"Hyderabad, Ahmedabad",MySQL,1
 "Hyderabad, Bengaluru",SQL,5
 "Hyderabad, Bengaluru",Java,3
 "Hyderabad, Bengaluru",Python,3
-"Hyderabad, Bengaluru",Linux,2
 "Hyderabad, Bengaluru",Tableau,2
+"Hyderabad, Bengaluru",Linux,2
 "Hyderabad, Bengaluru",Agile,2
-"Hyderabad, Bengaluru",Airflow,1
-"Hyderabad, Bengaluru",BigQuery,1
-"Hyderabad, Bengaluru",PostgreSQL,1
+"Hyderabad, Bengaluru",Power BI,1
+"Hyderabad, Bengaluru",Data Visualization,1
 "Hyderabad, Bengaluru",MySQL,1
-"Hyderabad, Bengaluru, Delhi / Ncr",LLM,1
-"Hyderabad, Bengaluru, Delhi / Ncr",Machine Learning,1
-"Hyderabad, Bengaluru, Delhi / Ncr",FastAPI,1
-"Hyderabad, Bengaluru, Delhi / Ncr",Feature Engineering,1
-"Hyderabad, Bengaluru, Delhi / Ncr",Kubernetes,1
-"Hyderabad, Bengaluru, Delhi / Ncr",MLOps,1
+"Hyderabad, Bengaluru",PostgreSQL,1
 "Hyderabad, Bengaluru, Delhi / Ncr",Scikit-learn,1
-"Hyderabad, Bengaluru, Delhi / Ncr",Docker,1
+"Hyderabad, Bengaluru, Delhi / Ncr",FastAPI,1
+"Hyderabad, Bengaluru, Delhi / Ncr",MLOps,1
 "Hyderabad, Bengaluru, Delhi / Ncr",Probability,1
+"Hyderabad, Bengaluru, Delhi / Ncr",RAG,1
 "Hyderabad, Bengaluru, Delhi / Ncr",Python,1
+"Hyderabad, Bengaluru, Delhi / Ncr",LLM,1
+"Hyderabad, Bengaluru, Delhi / Ncr",Docker,1
+"Hyderabad, Bengaluru, Delhi / Ncr",Machine Learning,1
+"Hyderabad, Bengaluru, Delhi / Ncr",Git,1
+"Hyderabad, Bengaluru, Mumbai (All Areas)",Azure,2
 "Hyderabad, Bengaluru, Mumbai (All Areas)",Natural Language Processing,2
 "Hyderabad, Bengaluru, Mumbai (All Areas)",Machine Learning,2
-"Hyderabad, Bengaluru, Mumbai (All Areas)",Azure,2
-"Hyderabad, Bengaluru, Mumbai (All Areas)",Data Visualization,1
-"Hyderabad, Bengaluru, Mumbai (All Areas)",Tableau,1
-"Hyderabad, Bengaluru, Mumbai (All Areas)",GCP,1
+"Hyderabad, Bengaluru, Mumbai (All Areas)",Kubernetes,1
 "Hyderabad, Bengaluru, Mumbai (All Areas)",AWS,1
-"Hyderabad, Bengaluru, Mumbai (All Areas)",Scala,1
-"Hyderabad, Bengaluru, Mumbai (All Areas)",Power BI,1
+"Hyderabad, Bengaluru, Mumbai (All Areas)",GCP,1
+"Hyderabad, Bengaluru, Mumbai (All Areas)",Java,1
+"Hyderabad, Bengaluru, Mumbai (All Areas)",Dashboarding,1
+"Hyderabad, Bengaluru, Mumbai (All Areas)",Tableau,1
 "Hyderabad, Bengaluru, Mumbai (All Areas)",Python,1
 "Hyderabad, Chennai",Git,2
-"Hyderabad, Chennai",Azure,2
 "Hyderabad, Chennai",SQL,2
-"Hyderabad, Chennai",Kubernetes,1
-"Hyderabad, Chennai",Java,1
-"Hyderabad, Chennai",Kafka,1
-"Hyderabad, Chennai",Python,1
+"Hyderabad, Chennai",Azure,2
 "Hyderabad, Chennai",Agile,1
+"Hyderabad, Chennai",Kubernetes,1
+"Hyderabad, Chennai",Docker,1
+"Hyderabad, Chennai",Kafka,1
 "Hyderabad, Chennai",CI/CD,1
 "Hyderabad, Chennai",APIs,1
+"Hyderabad, Chennai",Python,1
 "Hyderabad, Chennai, Bengaluru",Python,12
 "Hyderabad, Chennai, Bengaluru",SQL,9
 "Hyderabad, Chennai, Bengaluru",APIs,5
-"Hyderabad, Chennai, Bengaluru",Java,3
-"Hyderabad, Chennai, Bengaluru",AWS,3
-"Hyderabad, Chennai, Bengaluru",Azure,3
 "Hyderabad, Chennai, Bengaluru",LLM,3
-"Hyderabad, Chennai, Bengaluru",Spark,2
-"Hyderabad, Chennai, Bengaluru",Git,2
+"Hyderabad, Chennai, Bengaluru",AWS,3
+"Hyderabad, Chennai, Bengaluru",Java,3
+"Hyderabad, Chennai, Bengaluru",Azure,3
 "Hyderabad, Chennai, Bengaluru",CI/CD,2
-"Hyderabad, Coimbatore, Bengaluru",SQL,1
-"Hyderabad, Coimbatore, Bengaluru",Azure,1
-"Hyderabad, Coimbatore, Bengaluru",APIs,1
+"Hyderabad, Chennai, Bengaluru",Agile,2
+"Hyderabad, Chennai, Bengaluru",Databricks,2
 "Hyderabad, Coimbatore, Bengaluru",AWS,1
-"Hyderabad, Delhi / Ncr",Machine Learning,1
-"Hyderabad, Delhi / Ncr",Scikit-learn,1
+"Hyderabad, Coimbatore, Bengaluru",SQL,1
+"Hyderabad, Coimbatore, Bengaluru",APIs,1
+"Hyderabad, Coimbatore, Bengaluru",Azure,1
 "Hyderabad, Delhi / Ncr",Python,1
 "Hyderabad, Delhi / Ncr",MLOps,1
-"Hyderabad, Gurugram, Bengaluru",APIs,1
-"Hyderabad, Gurugram, Bengaluru",Java,1
-"Hyderabad, Gurugram, Bengaluru",AWS,1
+"Hyderabad, Delhi / Ncr",Machine Learning,1
+"Hyderabad, Delhi / Ncr",Scikit-learn,1
 "Hyderabad, Gurugram, Bengaluru",Kafka,1
-"Hyderabad, Gurugram, Coimbatore",FastAPI,1
+"Hyderabad, Gurugram, Bengaluru",AWS,1
+"Hyderabad, Gurugram, Bengaluru",Java,1
+"Hyderabad, Gurugram, Bengaluru",APIs,1
 "Hyderabad, Gurugram, Coimbatore",Python,1
+"Hyderabad, Gurugram, Coimbatore",FastAPI,1
 "Hyderabad, Kondapur",Git,1
-"Hyderabad, Kondapur",Docker,1
 "Hyderabad, Kondapur",AWS,1
-"Hyderabad, Kondapur",Kubernetes,1
 "Hyderabad, Kondapur",CI/CD,1
 "Hyderabad, Kondapur",Linux,1
 "Hyderabad, Kondapur",Bash,1
+"Hyderabad, Kondapur",Kubernetes,1
+"Hyderabad, Kondapur",Docker,1
 "Hyderabad, Kondapur",Python,1
-"Hyderabad, Mumbai (All Areas)",SQL,1
 "Hyderabad, Mumbai (All Areas)",KPI Reporting,1
-"Hyderabad, Pune",Machine Learning,1
+"Hyderabad, Mumbai (All Areas)",SQL,1
 "Hyderabad, Pune",Python,1
 "Hyderabad, Pune",LLM,1
+"Hyderabad, Pune",Machine Learning,1
 "Hyderabad, Pune, Bengaluru",SQL,4
+"Hyderabad, Pune, Bengaluru",Python,2
 "Hyderabad, Pune, Bengaluru",Bash,2
 "Hyderabad, Pune, Bengaluru",PySpark,2
-"Hyderabad, Pune, Bengaluru",Python,2
-"Hyderabad, Pune, Bengaluru",Linux,1
-"Hyderabad, Pune, Bengaluru",Git,1
-"Hyderabad, Pune, Bengaluru",Machine Learning,1
-"Hyderabad, Pune, Bengaluru",Spark,1
 "Hyderabad, Pune, Bengaluru",Statistics,1
 "Hyderabad, Pune, Bengaluru",Databricks,1
+"Hyderabad, Pune, Bengaluru",Linux,1
+"Hyderabad, Pune, Bengaluru",PostgreSQL,1
+"Hyderabad, Pune, Bengaluru",MySQL,1
+"Hyderabad, Pune, Bengaluru",Machine Learning,1
 "Hyderabad, Pune, Chennai, Bengaluru",SQL,1
-"Hyderabad, Pune, Delhi / Ncr",Natural Language Processing,1
-"Hyderabad, Pune, Delhi / Ncr",Python,1
 "Hyderabad, Pune, Delhi / Ncr",Machine Learning,1
-"Hyderabad, Pune, Greater Noida",PySpark,1
-"Hyderabad, Pune, Greater Noida",ETL,1
-"Hyderabad, Pune, Greater Noida",AWS,1
+"Hyderabad, Pune, Delhi / Ncr",Python,1
+"Hyderabad, Pune, Delhi / Ncr",Natural Language Processing,1
 "Hyderabad, Pune, Greater Noida",Python,1
+"Hyderabad, Pune, Greater Noida",AWS,1
+"Hyderabad, Pune, Greater Noida",ETL,1
+"Hyderabad, Pune, Greater Noida",PySpark,1
 "Hyderabad, Pune, Gurugram",Machine Learning,1
-"Hyderabad, Telangana",Machine Learning,8
-"Hyderabad, Telangana",ETL,4
-"Hyderabad, Telangana",Python,3
-"Hyderabad, Telangana",RAG,3
-"Hyderabad, Telangana",Databricks,3
-"Hyderabad, Telangana",GCP,3
-"Hyderabad, Telangana",Data Warehousing,2
-"Hyderabad, Telangana",SQL,2
-"Hyderabad, Telangana",Azure,2
-"Hyderabad, Telangana",Dashboarding,2
+"Hyderabad, Telangana",Machine Learning,23
+"Hyderabad, Telangana",RAG,6
+"Hyderabad, Telangana",AWS,6
+"Hyderabad, Telangana",Natural Language Processing,6
+"Hyderabad, Telangana",Python,6
+"Hyderabad, Telangana",ETL,6
+"Hyderabad, Telangana",SQL,5
+"Hyderabad, Telangana",GCP,5
+"Hyderabad, Telangana",Databricks,4
+"Hyderabad, Telangana",LLM,4
 Ichalkaranji,Excel,1
-India,Machine Learning,14
-India,ETL,7
-India,Azure,5
-India,RAG,4
-India,AWS,4
-India,SQL,3
-India,Natural Language Processing,3
-India,GCP,3
-India,LLM,3
-India,Python,3
-"India, Chennai",Java,1
+India,Machine Learning,39
+India,Python,17
+India,SQL,13
+India,ETL,11
+India,Azure,10
+India,Natural Language Processing,10
+India,RAG,10
+India,LLM,9
+India,AWS,9
+India,APIs,8
 "India, Chennai",SQL,1
+"India, Chennai",Java,1
 "Indore, Hyderabad",Azure,1
-"Indore, Hyderabad",Jira,1
+"Indore, Hyderabad",APIs,1
 "Indore, Hyderabad",Java,1
 "Indore, Hyderabad",Agile,1
-"Indore, Hyderabad",APIs,1
+"Indore, Hyderabad",Jira,1
 "Indore, Hyderabad",Python,1
-Jagtial,Kafka,1
-Jagtial,ETL,1
-Jagtial,Scala,1
-Jagtial,Data Warehousing,1
 Jagtial,Git,1
+Jagtial,ETL,1
+Jagtial,Data Warehousing,1
 Jagtial,Java,1
 Jagtial,Spark,1
-Jagtial,AWS,1
 Jagtial,SQL,1
+Jagtial,Scala,1
+Jagtial,Kafka,1
+Jagtial,AWS,1
+Jaipur,SQL,1
+Jaipur,APIs,1
 Jaipur,Excel,1
 Jaipur,Dashboarding,1
-Jaipur,APIs,1
-Jaipur,SQL,1
-Jaipur(Jhotwara),Natural Language Processing,1
 Jaipur(Jhotwara),Matplotlib,1
+Jaipur(Jhotwara),Natural Language Processing,1
 Jangaon,AWS,2
 Jangaon,Kafka,2
 Jangaon,Data Warehousing,1
-Jangaon,ETL,1
-Jangaon,Java,1
+Jangaon,GCP,1
 Jangaon,Scala,1
+Jangaon,Java,1
+Jangaon,ETL,1
+Jangaon,CI/CD,1
 Jangaon,Azure,1
 Jangaon,Spark,1
-Jangaon,GCP,1
-Jangaon,CI/CD,1
 Kamareddy,AWS,2
 Kamareddy,Kafka,2
-Kamareddy,Data Warehousing,1
-Kamareddy,CI/CD,1
-Kamareddy,Azure,1
-Kamareddy,Scala,1
-Kamareddy,ETL,1
 Kamareddy,Java,1
-Kamareddy,GCP,1
+Kamareddy,ETL,1
+Kamareddy,Kubernetes,1
+Kamareddy,Docker,1
+Kamareddy,Scala,1
+Kamareddy,Data Warehousing,1
+Kamareddy,Azure,1
 Kamareddy,Spark,1
 Karimnagar,Kubernetes,2
 Karimnagar,GCP,2
-Karimnagar,Azure,1
-Karimnagar,Java,1
-Karimnagar,Python,1
 Karimnagar,AWS,1
-Karimnagar,Kafka,1
-Karimnagar,Docker,1
+Karimnagar,Python,1
 Karimnagar,CI/CD,1
-Karimnagar,APIs,1
-"Karnataka, India",MLOps,1
+Karimnagar,Java,1
+Karimnagar,Kafka,1
+Karimnagar,Azure,1
+Karimnagar,SQL,1
+Karimnagar,Docker,1
 "Karnataka, India",Python,1
 "Karnataka, India",Machine Learning,1
-"Kerala, India",Scikit-learn,1
-"Kerala, India",Excel,1
-"Kerala, India",Matplotlib,1
+"Karnataka, India",MLOps,1
+"Kerala, India",SQL,2
+"Kerala, India",Python,2
+"Kerala, India",Git,1
+"Kerala, India",Statistics,1
+"Kerala, India",Azure,1
+"Kerala, India",Natural Language Processing,1
+"Kerala, India",Machine Learning,1
+"Kerala, India",PostgreSQL,1
 "Kerala, India",R,1
 "Kerala, India",Seaborn,1
-"Kerala, India",SQL,1
-"Kerala, India",Python,1
-"Kerala, India",Statistics,1
 Khammam,GCP,2
 Khammam,Kubernetes,2
-Khammam,CI/CD,1
 Khammam,AWS,1
 Khammam,Azure,1
-Khammam,Java,1
-Khammam,SQL,1
-Khammam,APIs,1
 Khammam,Python,1
+Khammam,CI/CD,1
+Khammam,Kafka,1
+Khammam,APIs,1
 Khammam,Docker,1
+Khammam,SQL,1
+Kochi,SQL,1
+Kochi,FastAPI,1
 Kochi,AWS,1
+Kochi,APIs,1
 Kochi,Python,1
 Kochi,Java,1
-Kochi,FastAPI,1
-Kochi,APIs,1
-Kochi,SQL,1
 "Kochi(Kakkanad), Bengaluru(Hsr Layout)",Prompt Engineering,1
 "Kochi, Chennai, Bengaluru",Python,1
 "Kochi, Chennai, Bengaluru",Java,1
-"Kochi, Coimbatore, Thiruvananthapuram",Python,1
 "Kochi, Coimbatore, Thiruvananthapuram",Machine Learning,1
-"Kochi, Ernakulam",SQL,1
-"Kochi, Ernakulam",Matplotlib,1
+"Kochi, Coimbatore, Thiruvananthapuram",Python,1
+"Kochi, Ernakulam",SQL,2
+"Kochi, Ernakulam",Machine Learning,2
+"Kochi, Ernakulam",RAG,1
 "Kochi, Ernakulam",Seaborn,1
-"Kochi, Ernakulam",Statistics,1
-"Kochi, Ernakulam",R,1
-"Kochi, Ernakulam",Machine Learning,1
-"Kochi, Ernakulam",Python,1
+"Kochi, Ernakulam",Prompt Engineering,1
 "Kochi, Ernakulam",Excel,1
 "Kochi, Ernakulam",Scikit-learn,1
+"Kochi, Ernakulam",LLM,1
+"Kochi, Ernakulam",Matplotlib,1
+"Kochi, Ernakulam",Natural Language Processing,1
 "Kochi, Thiruvananthapuram",Python,1
 "Kochi, Thiruvananthapuram",R,1
 Kodagu,Java,1
-Kodagu,Git,1
 Kodagu,SQL,1
-Kolar,Java,1
+Kodagu,Git,1
 Kolar,Git,1
 Kolar,SQL,1
+Kolar,Java,1
 Kolhapur,Excel,1
 Kolkata(Em Bypass +1),Power BI,1
 "Kolkata, Chennai, Bengaluru",Jira,1
 "Kolkata, Chennai, Bengaluru",SQL,1
-"Kolkata, Hyderabad",Python,1
 "Kolkata, Hyderabad",SQL,1
+"Kolkata, Hyderabad",Python,1
 "Kolkata, Hyderabad",AWS,1
-"Kolkata, Hyderabad, Pune, Chennai, Bengaluru, Delhi / Ncr",Java,1
 "Kolkata, Hyderabad, Pune, Chennai, Bengaluru, Delhi / Ncr",APIs,1
+"Kolkata, Hyderabad, Pune, Chennai, Bengaluru, Delhi / Ncr",Java,1
+"Kolkata, Nagpur, Pune, Gurugram, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",Git,1
 "Kolkata, Nagpur, Pune, Gurugram, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",SQL,1
 "Kolkata, Nagpur, Pune, Gurugram, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",APIs,1
-"Kolkata, Nagpur, Pune, Gurugram, Chennai, Bengaluru, Delhi / Ncr, Mumbai (All Areas)",Git,1
-"Kolkata, West Bengal",RAG,1
 "Kolkata, West Bengal",Vector Database,1
+"Kolkata, West Bengal",Machine Learning,1
+"Kolkata, West Bengal",RAG,1
+Kota(Kunhari),APIs,1
+Kota(Kunhari),PostgreSQL,1
 Kota(Kunhari),Python,1
 Kota(Kunhari),Git,1
-Kota(Kunhari),PostgreSQL,1
-Kota(Kunhari),APIs,1
 Kothagudem,AWS,2
-Kothagudem,Kafka,1
-Kothagudem,SQL,1
+Kothagudem,Data Warehousing,1
 Kothagudem,KPI Reporting,1
+Kothagudem,Scala,1
+Kothagudem,SQL,1
+Kothagudem,Kafka,1
+Kothagudem,ETL,1
 Kothagudem,GCP,1
 Kothagudem,Spark,1
-Kothagudem,Data Warehousing,1
-Kothagudem,ETL,1
-Kothagudem,Scala,1
 Krishnagiri,CI/CD,1
-Krishnagiri,GCP,1
-Krishnagiri,Java,1
-Krishnagiri,Docker,1
-Krishnagiri,Azure,1
-Krishnagiri,Kubernetes,1
-Krishnagiri,APIs,1
 Krishnagiri,AWS,1
+Krishnagiri,APIs,1
+Krishnagiri,Azure,1
+Krishnagiri,Docker,1
+Krishnagiri,Kubernetes,1
+Krishnagiri,Java,1
+Krishnagiri,GCP,1
 Lucknow,LLM,1
 Ludhiana,KPI Reporting,1
 Madurai,APIs,1
 Madurai,SQL,1
 "Madurai, Chennai, Coimbatore",MySQL,1
 "Madurai, Chennai, Coimbatore",Azure,1
-"Madurai, Chennai, Coimbatore",APIs,1
-"Madurai, Chennai, Coimbatore",AWS,1
 "Madurai, Chennai, Coimbatore",Docker,1
-"Madurai, Chennai, Coimbatore",SQL,1
+"Madurai, Chennai, Coimbatore",APIs,1
 "Madurai, Chennai, Coimbatore",Python,1
+"Madurai, Chennai, Coimbatore",AWS,1
 "Madurai, Chennai, Coimbatore",Git,1
+"Madurai, Chennai, Coimbatore",SQL,1
 Mahabubnagar,GCP,2
 Mahabubnagar,Kubernetes,2
-Mahabubnagar,SQL,1
-Mahabubnagar,Python,1
 Mahabubnagar,Docker,1
+Mahabubnagar,AWS,1
 Mahabubnagar,Azure,1
-Mahabubnagar,APIs,1
+Mahabubnagar,Python,1
 Mahabubnagar,CI/CD,1
 Mahabubnagar,Java,1
-Mahabubnagar,AWS,1
+Mahabubnagar,SQL,1
+Mahabubnagar,APIs,1
 Mancherial,SQL,2
-Mancherial,Kubernetes,1
-Mancherial,Git,1
 Mancherial,GCP,1
-Mancherial,Java,1
+Mancherial,Kubernetes,1
 Mancherial,Python,1
-Mandya,Azure,1
-Mandya,Kafka,1
-Mandya,Kubernetes,1
-Mandya,CI/CD,1
-Mandya,AWS,1
+Mancherial,Java,1
+Mancherial,Git,1
 Mandya,GCP,1
-Mandya,Java,1
+Mandya,Kubernetes,1
 Mandya,APIs,1
+Mandya,AWS,1
 Mandya,Docker,1
+Mandya,CI/CD,1
+Mandya,Azure,1
+Mandya,Java,1
+Mandya,Kafka,1
 Manesar,Python,1
 Mangaluru,Data Visualization,1
 Mangaluru,Machine Learning,1
 Medak,SQL,2
-Medak,KPI Reporting,1
-Medak,GCP,1
 Medak,Git,1
+Medak,GCP,1
 Medak,Java,1
+Medak,KPI Reporting,1
 Medak,AWS,1
-Mohali,R,1
-Mohali,Scikit-learn,1
 Mohali,Python,1
 Mohali,Machine Learning,1
+Mohali,R,1
+Mohali,Scikit-learn,1
 Mohali(Phase-8 Industrial Area),SQL,1
-Mohali(Sector 66),AWS,1
-Mohali(Sector 66),Machine Learning,1
-Mohali(Sector 66),GCP,1
-Mohali(Sector 66),Docker,1
 Mohali(Sector 66),LangChain,1
+Mohali(Sector 66),AWS,1
 Mohali(Sector 66),Power BI,1
-Mohali(Sector 66),Python,1
-Mohali(Sector 66),Azure,1
-Mohali(Sector 66),SQL,1
+Mohali(Sector 66),Docker,1
+Mohali(Sector 66),Machine Learning,1
 Mohali(Sector 66),APIs,1
-"Mohali, Pune",Python,1
-"Mohali, Pune",FastAPI,1
+Mohali(Sector 66),Azure,1
+Mohali(Sector 66),Python,1
+Mohali(Sector 66),GCP,1
+Mohali(Sector 66),SQL,1
 "Mohali, Pune",SQL,1
+"Mohali, Pune",Python,1
 "Mohali, Pune",PostgreSQL,1
+"Mohali, Pune",FastAPI,1
 Mulshi,Java,1
 Mulshi,SQL,1
 Mulshi,Git,1
-Mulug,Python,1
 Mulug,Kubernetes,1
-Mulug,SQL,1
 Mulug,GCP,1
-Mumbai,Future of Work,33
-Mumbai,Labor Market Analytics,33
+Mulug,SQL,1
+Mulug,Python,1
 Mumbai,Business Recommendations,33
+Mumbai,Labor Market Analytics,33
 Mumbai,Stakeholder Communication,33
+Mumbai,Future of Work,33
 Mumbai,Python,26
 Mumbai,APIs,24
 Mumbai,SQL,24
 Mumbai,RAG,23
 Mumbai,LLM,23
 Mumbai,Data Visualization,22
-"Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",Python,1
 "Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",Machine Learning,1
+"Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",Python,1
 "Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",ETL,1
-Mumbai(Ambernath),Spark,1
 Mumbai(Ambernath),KPI Reporting,1
+Mumbai(Ambernath),Spark,1
 "Mumbai(Goregaon), Goregaon",Excel,1
 "Mumbai(Goregaon), Goregaon",KPI Reporting,1
 "Mumbai(Goregaon), Goregaon",SQL,1
-"Mumbai(Malad), Mumbai (All Areas)",Java,1
 "Mumbai(Malad), Mumbai (All Areas)",Python,1
-Mumbai(Prabhadevi),Git,1
-Mumbai(Prabhadevi),PostgreSQL,1
+"Mumbai(Malad), Mumbai (All Areas)",Java,1
 Mumbai(Prabhadevi),Kafka,1
+Mumbai(Prabhadevi),PostgreSQL,1
 Mumbai(Prabhadevi),APIs,1
 Mumbai(Prabhadevi),Docker,1
-Mumbai(Prabhadevi),CI/CD,1
 Mumbai(Prabhadevi),SQL,1
-"Mumbai, Bengaluru",Data Visualization,1
-"Mumbai, Bengaluru",Machine Learning,1
-"Mumbai, Bengaluru",Spark,1
-"Mumbai, Bengaluru",Azure,1
+Mumbai(Prabhadevi),CI/CD,1
+Mumbai(Prabhadevi),Git,1
 "Mumbai, Bengaluru",Statistics,1
+"Mumbai, Bengaluru",Machine Learning,1
+"Mumbai, Bengaluru",Azure,1
 "Mumbai, Bengaluru",ETL,1
+"Mumbai, Bengaluru",Spark,1
 "Mumbai, Bengaluru",Python,1
-"Mumbai, Maharashtra",Python,2
-"Mumbai, Maharashtra",SQL,2
-"Mumbai, Maharashtra",MySQL,1
-"Mumbai, Maharashtra",Excel,1
-"Mumbai, Maharashtra",RAG,1
-"Mumbai, Maharashtra",PostgreSQL,1
-"Mumbai, Maharashtra",KPI Reporting,1
-"Mumbai, Maharashtra",R,1
-"Mumbai, Maharashtra",ETL,1
-"Mumbai, Maharashtra",Databricks,1
+"Mumbai, Bengaluru",Data Visualization,1
+"Mumbai, Maharashtra",Python,4
+"Mumbai, Maharashtra",Machine Learning,3
+"Mumbai, Maharashtra",SQL,3
+"Mumbai, Maharashtra",KPI Reporting,3
+"Mumbai, Maharashtra",Azure,2
+"Mumbai, Maharashtra",R,2
+"Mumbai, Maharashtra",ETL,2
+"Mumbai, Maharashtra",Jira,1
+"Mumbai, Maharashtra",Snowflake,1
+"Mumbai, Maharashtra",Prompt Engineering,1
 "Mumbai, Mumbai Suburban, Mumbai (All Areas)",Excel,1
 "Mumbai, Pune, Bengaluru",Scikit-learn,1
+"Mumbai, Pune, Bengaluru",Python,1
 "Mumbai, Pune, Bengaluru",Machine Learning,1
 "Mumbai, Pune, Bengaluru",Power BI,1
-"Mumbai, Pune, Bengaluru",Python,1
 Mysuru,SQL,3
 Mysuru,AWS,3
 Mysuru,GCP,2
 Mysuru,Spark,2
-Mysuru,Azure,1
-Mysuru,Scala,1
-Mysuru,Java,1
-Mysuru,PySpark,1
-Mysuru,ETL,1
 Mysuru,KPI Reporting,1
+Mysuru,Python,1
+Mysuru,Azure,1
+Mysuru,Data Warehousing,1
+Mysuru,Kafka,1
+Mysuru,ETL,1
 Nagarkurnool,AWS,2
-Nagarkurnool,GCP,1
-Nagarkurnool,Kafka,1
-Nagarkurnool,CI/CD,1
-Nagarkurnool,Docker,1
-Nagarkurnool,Kubernetes,1
-Nagarkurnool,APIs,1
-Nagarkurnool,Data Warehousing,1
-Nagarkurnool,Java,1
 Nagarkurnool,Azure,1
-Nagpur,FastAPI,1
+Nagarkurnool,Kubernetes,1
+Nagarkurnool,ETL,1
+Nagarkurnool,Docker,1
+Nagarkurnool,Scala,1
+Nagarkurnool,Spark,1
+Nagarkurnool,Data Warehousing,1
+Nagarkurnool,APIs,1
+Nagarkurnool,GCP,1
 Nagpur,Python,1
-Nalgonda,AWS,2
-Nalgonda,Java,2
+Nagpur,FastAPI,1
 Nalgonda,Kafka,2
-Nalgonda,ETL,1
-Nalgonda,APIs,1
-Nalgonda,GCP,1
-Nalgonda,Docker,1
-Nalgonda,Data Warehousing,1
+Nalgonda,Java,2
+Nalgonda,AWS,2
+Nalgonda,Spark,1
 Nalgonda,Azure,1
-Nalgonda,Kubernetes,1
+Nalgonda,Git,1
+Nalgonda,APIs,1
+Nalgonda,Scala,1
+Nalgonda,SQL,1
+Nalgonda,GCP,1
 Narayanpet,GCP,3
 Narayanpet,AWS,3
-Narayanpet,Kafka,2
 Narayanpet,Kubernetes,2
+Narayanpet,Kafka,2
 Narayanpet,SQL,2
+Narayanpet,CI/CD,1
+Narayanpet,Python,1
+Narayanpet,KPI Reporting,1
 Narayanpet,Data Warehousing,1
-Narayanpet,Docker,1
-Narayanpet,Spark,1
-Narayanpet,APIs,1
-Narayanpet,Scala,1
+Narayanpet,Azure,1
 Nashik,KPI Reporting,2
 Nashik,Excel,1
 Nashik,Power BI,1
+"Nashik, Navi Mumbai",Java,1
 "Nashik, Navi Mumbai",APIs,1
 "Nashik, Navi Mumbai",Python,1
-"Nashik, Navi Mumbai",Java,1
+"Nashik, Pune, Aurangabad",Python,1
 "Nashik, Pune, Aurangabad",SQL,1
 "Nashik, Pune, Aurangabad",Power BI,1
-"Nashik, Pune, Aurangabad",Python,1
-Navi Mumbai,SQL,2
 Navi Mumbai,KPI Reporting,2
+Navi Mumbai,SQL,2
 Navi Mumbai,Python,1
-Navi Mumbai,Power BI,1
-Navi Mumbai,APIs,1
-Navi Mumbai,Dashboarding,1
-Navi Mumbai,Databricks,1
-Navi Mumbai,PySpark,1
-Navi Mumbai,Azure,1
 Navi Mumbai,Excel,1
-"Navi Mumbai, Bengaluru, Mumbai (All Areas)",Azure,1
-"Navi Mumbai, Bengaluru, Mumbai (All Areas)",RAG,1
+Navi Mumbai,APIs,1
+Navi Mumbai,Power BI,1
+Navi Mumbai,Dashboarding,1
+Navi Mumbai,Azure,1
+Navi Mumbai,Databricks,1
+Navi Mumbai,Machine Learning,1
 "Navi Mumbai, Bengaluru, Mumbai (All Areas)",Natural Language Processing,1
 "Navi Mumbai, Bengaluru, Mumbai (All Areas)",Machine Learning,1
+"Navi Mumbai, Bengaluru, Mumbai (All Areas)",Azure,1
+"Navi Mumbai, Bengaluru, Mumbai (All Areas)",RAG,1
+"Navi Mumbai, Maharashtra",Machine Learning,2
 "Navi Mumbai, Maharashtra",Excel,1
+"Navi Mumbai, Maharashtra",Python,1
+"Navi Mumbai, Maharashtra",Databricks,1
+"Navi Mumbai, Maharashtra",ETL,1
 "Navi Mumbai, Maharashtra",Dashboarding,1
-Navsari,SQL,1
+"Navi Mumbai, Maharashtra",Azure,1
+"Navi Mumbai, Maharashtra",Natural Language Processing,1
 Navsari,APIs,1
-Noida,Business Recommendations,42
-Noida,Future of Work,42
+Navsari,SQL,1
+"New Delhi, Delhi",RAG,1
 Noida,Labor Market Analytics,42
+Noida,Future of Work,42
 Noida,Stakeholder Communication,42
+Noida,Business Recommendations,42
 Noida,Python,41
 Noida,SQL,38
 Noida,APIs,34
 Noida,Scikit-learn,27
-Noida,Data Visualization,26
 Noida,RAG,26
-Noida(Sector 137),SQL,1
+Noida,Data Visualization,26
 Noida(Sector 137),APIs,1
+Noida(Sector 137),SQL,1
 Noida(Sector 57),APIs,1
 "Noida, Bangalore Rural, Gurugram",CI/CD,1
 "Noida, Bangalore Rural, Gurugram",SQL,1
 "Noida, Bangalore Rural, Gurugram",Azure,1
-"Noida, Chandigarh",CI/CD,1
-"Noida, Chandigarh",BigQuery,1
 "Noida, Chandigarh",Python,1
+"Noida, Chandigarh",CI/CD,1
 "Noida, Chandigarh",SQL,1
+"Noida, Chandigarh",BigQuery,1
 "Noida, Chandigarh",GCP,1
-"Noida, Delhi / Ncr",Natural Language Processing,1
 "Noida, Delhi / Ncr",Python,1
 "Noida, Delhi / Ncr",Machine Learning,1
-"Noida, Ghaziabad",SQL,1
-"Noida, Ghaziabad",ETL,1
-"Noida, Ghaziabad",Tableau,1
-"Noida, Ghaziabad",Power BI,1
-"Noida, Ghaziabad",Python,1
-"Noida, Ghaziabad",Natural Language Processing,1
+"Noida, Delhi / Ncr",Natural Language Processing,1
+"Noida, Ghaziabad",Machine Learning,2
+"Noida, Ghaziabad",AWS,2
+"Noida, Ghaziabad",LlamaIndex,1
 "Noida, Ghaziabad",KPI Reporting,1
-"Noida, Ghaziabad",Prompt Engineering,1
-"Noida, Ghaziabad",Machine Learning,1
-"Noida, Greater Noida, Delhi / Ncr",AWS,1
+"Noida, Ghaziabad",Natural Language Processing,1
+"Noida, Ghaziabad",ETL,1
+"Noida, Ghaziabad",RAG,1
+"Noida, Ghaziabad",APIs,1
+"Noida, Ghaziabad",GCP,1
+"Noida, Ghaziabad",R,1
 "Noida, Greater Noida, Delhi / Ncr",APIs,1
-"Noida, Greater Noida, Delhi / Ncr",PostgreSQL,1
+"Noida, Greater Noida, Delhi / Ncr",AWS,1
 "Noida, Greater Noida, Delhi / Ncr",ETL,1
-"Noida, Gurugram",Python,1
-"Noida, Gurugram",SQL,1
+"Noida, Greater Noida, Delhi / Ncr",PostgreSQL,1
 "Noida, Gurugram",Tableau,1
+"Noida, Gurugram",SQL,1
+"Noida, Gurugram",Python,1
 "Noida, Gurugram, Bengaluru",Power BI,1
 "Noida, Gurugram, Delhi / Ncr",Python,1
 "Noida, Hyderabad, Bengaluru",Java,1
-"Noida, Hyderabad, Bengaluru",FastAPI,1
-"Noida, Hyderabad, Bengaluru",AWS,1
-"Noida, Hyderabad, Bengaluru",GCP,1
 "Noida, Hyderabad, Bengaluru",Azure,1
-"Noida, Hyderabad, Bengaluru",Kubernetes,1
+"Noida, Hyderabad, Bengaluru",AWS,1
 "Noida, Hyderabad, Bengaluru",Docker,1
+"Noida, Hyderabad, Bengaluru",Kubernetes,1
+"Noida, Hyderabad, Bengaluru",GCP,1
+"Noida, Hyderabad, Bengaluru",FastAPI,1
 "Noida, Kolkata, Delhi / Ncr",Power BI,1
 "Noida, Kolkata, Delhi / Ncr",Data Visualization,1
 "Noida, Kolkata, Delhi / Ncr",SQL,1
 "Noida, Mumbai",Python,1
-"Noida, Mumbai",Airflow,1
-"Noida, Mumbai",SQL,1
 "Noida, Mumbai",AWS,1
+"Noida, Mumbai",SQL,1
+"Noida, Mumbai",Airflow,1
 "Noida, Mumbai",ETL,1
+"Noida, Pune",MySQL,1
+"Noida, Pune",AWS,1
+"Noida, Pune",Kubernetes,1
+"Noida, Pune",Docker,1
+"Noida, Pune",Azure,1
 "Noida, Pune",PostgreSQL,1
 "Noida, Pune",ETL,1
-"Noida, Pune",Git,1
-"Noida, Pune",Azure,1
-"Noida, Pune",CI/CD,1
-"Noida, Pune",MySQL,1
-"Noida, Pune",Kubernetes,1
 "Noida, Pune",APIs,1
-"Noida, Pune",Docker,1
-"Noida, Pune",AWS,1
-Pimpri-Chinchwad,AWS,1
-Pimpri-Chinchwad,Azure,1
+"Noida, Pune",CI/CD,1
+"Noida, Pune",FastAPI,1
+"North Delhi, Delhi",ETL,1
+"Panchkula, Haryana",APIs,1
 Pimpri-Chinchwad,GCP,1
+Pimpri-Chinchwad,Azure,1
+Pimpri-Chinchwad,Docker,1
+Pimpri-Chinchwad,AWS,1
+Pimpri-Chinchwad,CI/CD,1
 Pimpri-Chinchwad,Java,1
 Pimpri-Chinchwad,APIs,1
-Pimpri-Chinchwad,Kafka,1
-Pimpri-Chinchwad,CI/CD,1
 Pimpri-Chinchwad,Kubernetes,1
-Pimpri-Chinchwad,Docker,1
+Pimpri-Chinchwad,Kafka,1
 "Puducherry, Chennai",APIs,1
 "Puducherry, Chennai",ETL,1
-"Puducherry, Chennai, Bengaluru",Agile,1
-"Puducherry, Chennai, Bengaluru",AWS,1
 "Puducherry, Chennai, Bengaluru",SQL,1
-"Puducherry, Chennai, Bengaluru",Azure,1
+"Puducherry, Chennai, Bengaluru",Agile,1
 "Puducherry, Chennai, Bengaluru",KPI Reporting,1
 "Puducherry, Chennai, Bengaluru",Git,1
+"Puducherry, Chennai, Bengaluru",AWS,1
+"Puducherry, Chennai, Bengaluru",Azure,1
 Pune,Python,58
 Pune,SQL,54
 Pune,APIs,45
-Pune,Labor Market Analytics,44
-Pune,Business Recommendations,44
 Pune,Future of Work,44
+Pune,Business Recommendations,44
+Pune,Labor Market Analytics,44
 Pune,Stakeholder Communication,44
 Pune,Data Visualization,30
 Pune,LLM,29
@@ -1431,211 +1471,221 @@ Pune,Excel,28
 Pune(Kharadi +2),Spark,1
 Pune(Kharadi +2),Java,1
 Pune(Kharadi +2),Python,1
-Pune(Kharadi +2),AWS,1
 Pune(Kharadi +2),SQL,1
+Pune(Kharadi +2),AWS,1
 Pune(Pimple Saudagar),MySQL,1
 Pune(Pimple Saudagar),GCP,1
+Pune(Pimple Saudagar),AWS,1
 Pune(Pimple Saudagar),PostgreSQL,1
 Pune(Pimple Saudagar),Docker,1
-Pune(Pimple Saudagar),CI/CD,1
-Pune(Pimple Saudagar),SQL,1
 Pune(Pimple Saudagar),Git,1
-Pune(Pimple Saudagar),AWS,1
-Pune(Pune Nashik Highway),SQL,1
-Pune(Pune Nashik Highway),ETL,1
-Pune(Pune Nashik Highway),Spark,1
+Pune(Pimple Saudagar),SQL,1
+Pune(Pimple Saudagar),CI/CD,1
 Pune(Pune Nashik Highway),Kafka,1
+Pune(Pune Nashik Highway),SQL,1
+Pune(Pune Nashik Highway),Spark,1
 Pune(Pune Nashik Highway),Airflow,1
-Pune(Viman Nagar),Git,1
-Pune(Viman Nagar),Dashboarding,1
+Pune(Pune Nashik Highway),ETL,1
 Pune(Viman Nagar),Power BI,1
+Pune(Viman Nagar),Git,1
 Pune(Viman Nagar),KPI Reporting,1
+Pune(Viman Nagar),Dashboarding,1
 Pune(Viman Nagar),SQL,1
 "Pune, Ahmedabad",AWS,1
-"Pune, Ahmedabad",SQL,1
 "Pune, Ahmedabad",Agile,1
+"Pune, Ahmedabad",SQL,1
 "Pune, Ahmedabad, Bengaluru",Docker,1
-"Pune, Ahmedabad, Bengaluru",LLM,1
 "Pune, Ahmedabad, Bengaluru",Git,1
+"Pune, Ahmedabad, Bengaluru",LLM,1
 "Pune, Bengaluru",SQL,4
 "Pune, Bengaluru",Azure,3
-"Pune, Bengaluru",AWS,2
 "Pune, Bengaluru",APIs,2
 "Pune, Bengaluru",Python,2
+"Pune, Bengaluru",AWS,2
 "Pune, Bengaluru",Agile,2
-"Pune, Bengaluru",Scala,1
+"Pune, Bengaluru",Snowflake,1
+"Pune, Bengaluru",ETL,1
 "Pune, Bengaluru",Data Warehousing,1
-"Pune, Bengaluru",GCP,1
-"Pune, Bengaluru",Docker,1
+"Pune, Bengaluru",Kubernetes,1
 "Pune, Bengaluru, Delhi / Ncr",LLM,1
-"Pune, Bengaluru, Mumbai (All Areas)",KPI Reporting,1
-"Pune, Bengaluru, Mumbai (All Areas)",APIs,1
 "Pune, Bengaluru, Mumbai (All Areas)",ETL,1
-"Pune, Bengaluru, Mumbai (All Areas)",SQL,1
-"Pune, Bengaluru, Mumbai (All Areas)",Python,1
 "Pune, Bengaluru, Mumbai (All Areas)",Data Visualization,1
+"Pune, Bengaluru, Mumbai (All Areas)",Python,1
+"Pune, Bengaluru, Mumbai (All Areas)",SQL,1
+"Pune, Bengaluru, Mumbai (All Areas)",APIs,1
+"Pune, Bengaluru, Mumbai (All Areas)",KPI Reporting,1
+"Pune, Chennai",CI/CD,1
 "Pune, Chennai",Python,1
 "Pune, Chennai",Regression,1
 "Pune, Chennai",SQL,1
-"Pune, Chennai",CI/CD,1
-"Pune, Chennai, Bengaluru",Python,2
-"Pune, Chennai, Bengaluru",SQL,2
 "Pune, Chennai, Bengaluru",Git,2
+"Pune, Chennai, Bengaluru",SQL,2
+"Pune, Chennai, Bengaluru",Python,2
 "Pune, Chennai, Bengaluru",Azure,2
-"Pune, Chennai, Bengaluru",Power BI,1
-"Pune, Chennai, Bengaluru",Bash,1
-"Pune, Chennai, Bengaluru",Model Evaluation,1
 "Pune, Chennai, Bengaluru",Agile,1
-"Pune, Chennai, Bengaluru",Feature Engineering,1
+"Pune, Chennai, Bengaluru",PySpark,1
 "Pune, Chennai, Bengaluru",Databricks,1
+"Pune, Chennai, Bengaluru",Spark,1
+"Pune, Chennai, Bengaluru",Bash,1
+"Pune, Chennai, Bengaluru",Power BI,1
+"Pune, Chennai, Delhi / Ncr",Java,1
+"Pune, Chennai, Delhi / Ncr",GCP,1
 "Pune, Chennai, Delhi / Ncr",Kafka,1
 "Pune, Chennai, Delhi / Ncr",Kubernetes,1
-"Pune, Chennai, Delhi / Ncr",GCP,1
-"Pune, Chennai, Delhi / Ncr",Java,1
-"Pune, Gurugram, Bengaluru",Machine Learning,1
 "Pune, Gurugram, Bengaluru",Python,1
+"Pune, Gurugram, Bengaluru",Machine Learning,1
 "Pune, Gurugram, Bengaluru",Statistics,1
 "Pune, Gurugram, Bengaluru",SQL,1
-"Pune, Maharashtra",Machine Learning,3
-"Pune, Maharashtra",Natural Language Processing,3
-"Pune, Maharashtra",Python,1
+"Pune, Maharashtra",Machine Learning,10
+"Pune, Maharashtra",Natural Language Processing,6
+"Pune, Maharashtra",Python,4
+"Pune, Maharashtra",LLM,2
+"Pune, Maharashtra",AWS,1
+"Pune, Maharashtra",SQL,1
+"Pune, Maharashtra",Azure,1
 "Pune, Maharashtra",Named Entity Recognition,1
+"Pune, Maharashtra",LangChain,1
+"Pune, Maharashtra",Git,1
 "Pune, Sonipat",Statistics,1
-"Pune, Sonipat",Probability,1
 "Pune, Sonipat",Python,1
-Raichur,Java,1
-Raichur,Kafka,1
+"Pune, Sonipat",Probability,1
 Raichur,AWS,1
+Raichur,APIs,1
 Raichur,Kubernetes,1
 Raichur,GCP,1
 Raichur,Docker,1
-Raichur,APIs,1
-Raichur,CI/CD,1
+Raichur,Java,1
 Raichur,Azure,1
-Ramanagara,Docker,1
+Raichur,Kafka,1
+Raichur,CI/CD,1
 Ramanagara,Java,1
-Ramanagara,AWS,1
-Ramanagara,Kubernetes,1
+Ramanagara,Docker,1
 Ramanagara,GCP,1
-Ramanagara,Kafka,1
-Ramanagara,Azure,1
-Ramanagara,CI/CD,1
+Ramanagara,Kubernetes,1
 Ramanagara,APIs,1
+Ramanagara,AWS,1
+Ramanagara,Kafka,1
+Ramanagara,CI/CD,1
+Ramanagara,Azure,1
 Remote,Python,27
 Remote,SQL,18
 Remote,APIs,16
 Remote,AWS,12
-Remote,Machine Learning,10
 Remote,Azure,10
 Remote,Java,10
+Remote,Machine Learning,10
 Remote,ETL,8
 Remote,Kubernetes,8
 Remote,PostgreSQL,7
-Remote India,Labor Market Analytics,41
-Remote India,Business Recommendations,41
 Remote India,Future of Work,41
+Remote India,Business Recommendations,41
+Remote India,Labor Market Analytics,41
 Remote India,Stakeholder Communication,41
 Remote India,Python,31
 Remote India,Data Visualization,30
-Remote India,SQL,27
 Remote India,LLM,27
+Remote India,SQL,27
 Remote India,APIs,26
 Remote India,Econometrics,23
+"Richmond Town, Bangalore",Natural Language Processing,1
+"Richmond Town, Bangalore",Machine Learning,1
+"Richmond Town, Bangalore",LLM,1
 Shimoga,Java,2
-Shimoga,Azure,1
-Shimoga,GCP,1
-Shimoga,SQL,1
-Shimoga,Git,1
-Shimoga,APIs,1
-Shimoga,Docker,1
 Shimoga,AWS,1
 Shimoga,CI/CD,1
+Shimoga,SQL,1
+Shimoga,Azure,1
+Shimoga,GCP,1
+Shimoga,APIs,1
 Shimoga,Kafka,1
-Sirhind Fatehgarh Sahib,Statistics,1
+Shimoga,Kubernetes,1
+Shimoga,Git,1
 Sirhind Fatehgarh Sahib,Excel,1
+Sirhind Fatehgarh Sahib,Statistics,1
 Sirhind Fatehgarh Sahib,SQL,1
-"Srinagar, Mumbai (All Areas)",Git,1
 "Srinagar, Mumbai (All Areas)",SQL,1
-Surat,LlamaIndex,1
-Surat,LangChain,1
-Surat,Databricks,1
+"Srinagar, Mumbai (All Areas)",Git,1
 Surat,AWS,1
+Surat,LangChain,1
 Surat,Machine Learning,1
+Surat,LlamaIndex,1
+Surat,Databricks,1
 Surat(Kosamba),Spark,1
 Thane,SQL,4
 Thane,APIs,2
-Thane,Linux,1
 Thane,Azure,1
-Thane,AWS,1
+Thane,Linux,1
 Thane,Java,1
-"Thane, Bhiwandi, Navi Mumbai",Excel,1
+Thane,AWS,1
 "Thane, Bhiwandi, Navi Mumbai",Python,1
-"Thane, Bhiwandi, Navi Mumbai",SQL,1
-"Thane, Bhiwandi, Navi Mumbai",Data Visualization,1
 "Thane, Bhiwandi, Navi Mumbai",MySQL,1
+"Thane, Bhiwandi, Navi Mumbai",Data Visualization,1
+"Thane, Bhiwandi, Navi Mumbai",Excel,1
 "Thane, Bhiwandi, Navi Mumbai",Power BI,1
 "Thane, Bhiwandi, Navi Mumbai",Linux,1
+"Thane, Bhiwandi, Navi Mumbai",SQL,1
 "Thane, Navi Mumbai",Power BI,1
 "Thane, Navi Mumbai, Mumbai (All Areas)",SQL,2
 "Thane, Navi Mumbai, Mumbai (All Areas)",AWS,1
-"Thane, Navi Mumbai, Mumbai (All Areas)",GCP,1
 "Thane, Navi Mumbai, Mumbai (All Areas)",Git,1
+"Thane, Navi Mumbai, Mumbai (All Areas)",GCP,1
+"Thane, Navi Mumbai, Mumbai (All Areas)",PostgreSQL,1
+"Thane, Navi Mumbai, Mumbai (All Areas)",Airflow,1
 "Thane, Navi Mumbai, Mumbai (All Areas)",Linux,1
 "Thane, Navi Mumbai, Mumbai (All Areas)",BigQuery,1
 "Thane, Navi Mumbai, Mumbai (All Areas)",Azure,1
-"Thane, Navi Mumbai, Mumbai (All Areas)",Airflow,1
-"Thane, Navi Mumbai, Mumbai (All Areas)",PostgreSQL,1
-Thrissur,SQL,1
 Thrissur,APIs,1
-Tiruchirapalli,KPI Reporting,1
+Thrissur,SQL,1
 Tiruchirapalli,SQL,1
+Tiruchirapalli,KPI Reporting,1
 Tiruchirapalli(Tiruchirappalli),SQL,1
 Tiruchirapalli(Tiruchirappalli),APIs,1
-"Trivandrum, Thiruvananthapuram",Machine Learning,1
 "Trivandrum, Thiruvananthapuram",Feature Engineering,1
+"Trivandrum, Thiruvananthapuram",Machine Learning,1
 Udaipur,KPI Reporting,1
-"Udaipur, Gurugram",SQL,1
 "Udaipur, Gurugram",Python,1
+"Udaipur, Gurugram",SQL,1
 Udupi,Java,2
 Udupi,SQL,2
-Udupi,GCP,1
-Udupi,Docker,1
+Udupi,Azure,1
+Udupi,AWS,1
 Udupi,Git,1
 Udupi,CI/CD,1
-Udupi,APIs,1
+Udupi,GCP,1
 Udupi,Kafka,1
-Udupi,AWS,1
+Udupi,APIs,1
 Udupi,Kubernetes,1
 "Udupi, Mayiladuthurai, Erode",Python,2
 "Udupi, Mayiladuthurai, Erode",APIs,1
 "Udupi, Mayiladuthurai, Erode",Agile,1
 Vadodara,Git,3
-Vadodara,Spark,2
-Vadodara,Python,2
-Vadodara,SQL,2
-Vadodara,Azure,2
 Vadodara,Power BI,2
-Vadodara,Excel,1
+Vadodara,SQL,2
+Vadodara,Python,2
+Vadodara,Spark,2
+Vadodara,Azure,2
 Vadodara,ETL,1
+Vadodara,KPI Reporting,1
 Vadodara,Natural Language Processing,1
-Vadodara,Jira,1
+Vadodara,Excel,1
 Velhe,Kafka,1
-Velhe,Scala,1
 Velhe,Spark,1
 Velhe,Data Warehousing,1
-Velhe,ETL,1
 Velhe,AWS,1
+Velhe,ETL,1
+Velhe,Scala,1
 Vijayapura,AWS,3
-Vijayapura,SQL,2
 Vijayapura,Java,2
 Vijayapura,GCP,2
+Vijayapura,SQL,2
 Vijayapura,Kafka,2
-Vijayapura,Azure,1
-Vijayapura,Docker,1
-Vijayapura,Kubernetes,1
-Vijayapura,Spark,1
 Vijayapura,Data Warehousing,1
-"Warangal, Hyderabad",KPI Reporting,1
+Vijayapura,Docker,1
+Vijayapura,CI/CD,1
+Vijayapura,Kubernetes,1
+Vijayapura,APIs,1
+"Visakhapatnam, Andhra Pradesh",LLM,1
 "Warangal, Hyderabad",Databricks,1
-"Warangal, Hyderabad",Power BI,1
 "Warangal, Hyderabad",Azure,1
+"Warangal, Hyderabad",Power BI,1
+"Warangal, Hyderabad",KPI Reporting,1

@@ -1,0 +1,5 @@
+{
+  "mae_lpa": 4.4169,
+  "r2": 0.448,
+  "prediction_note": "Salary model is a portfolio baseline. Use larger real data before business deployment."
+}

@@ -103,6 +103,8 @@ The platform is organized as four connected analytical modules forming an end-to
 | **Visualization** | Streamlit, Plotly, Matplotlib |
 | **Data Ingestion** | Adzuna Jobs API, CSV input |
 | **Model Artifacts** | joblib model serialization |
+| **API Serving** | FastAPI, Uvicorn, Pydantic |
+| **Experiment Tracking** | MLflow local tracking and model registry |
 | **Dev & Testing** | pytest, GitHub, VS Code |
 
 ---
@@ -248,6 +250,65 @@ The ingestion workflow can include multi-query fetching, deduplication, local ca
 
 ---
 
+## API Endpoints
+
+LaborIQ now includes a FastAPI service for model-backed predictions and report access.
+
+Start the API locally:
+
+```bash
+uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
+```
+
+Health check:
+
+```bash
+curl http://localhost:8000/health
+```
+
+Predict a role family from a job description:
+
+```bash
+curl -X POST http://localhost:8000/predict/role \
+  -H "Content-Type: application/json" \
+  -d "{\"job_description\":\"Build machine learning models with Python, SQL, NLP, dashboards, and stakeholder reporting.\"}"
+```
+
+Predict salary midpoint in LPA using the salary model feature schema:
+
+```bash
+curl -X POST http://localhost:8000/predict/salary \
+  -H "Content-Type: application/json" \
+  -d "{\"text_for_model\":\"Python SQL machine learning forecasting dashboards\",\"role_label\":\"Data Scientist\",\"location\":\"Bengaluru\",\"experience_level\":\"Mid\",\"skill_count\":5}"
+```
+
+Read the top 20 skills from `reports/top_skills.csv`:
+
+```bash
+curl http://localhost:8000/skills/top
+```
+
+---
+
+## Experiment Tracking with MLflow
+
+The training code logs local MLflow runs to `mlruns/` by default. Re-run the pipeline to capture experiment metadata:
+
+```bash
+python pipelines/run_pipeline.py
+```
+
+Open the MLflow UI:
+
+```bash
+export MLFLOW_ALLOW_FILE_STORE=true
+mlflow ui --backend-store-uri ./mlruns
+```
+
+Then visit `http://localhost:5000` in your browser. `MLFLOW_ALLOW_FILE_STORE=true` keeps MLflow 3.x compatible with the local `mlruns/` folder workflow. The role classifier run logs TF-IDF and Logistic Regression parameters plus accuracy, macro F1, weighted F1, and the classification report artifact. The salary model run logs feature and Ridge Regression parameters plus MAE and R². Both models are also logged to the local MLflow model registry as `LaborIQRoleClassifier` and `LaborIQSalaryModel` with the `Staging` stage.
+
+---
+
 ## Quick Start
 
 ### 1. Clone and enter the repository
@@ -305,39 +366,46 @@ http://localhost:8501
 
 ```text
 laboriq-labor-market-intelligence/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── .env.example
-│
-├── src/
-│   ├── data_ingestion.py
-│   ├── data_cleaning.py
-│   ├── analytics.py
-│   ├── skill_extractor.py
-│   ├── occupation_mapper.py
-│   ├── modeling.py
-│   ├── forecasting.py
-│   ├── scipy_insights.py
-│   ├── recommender.py
-│   └── utils.py
-│
-├── scripts/
-│   └── fetch_adzuna.py
-│
-├── pipelines/
-│   └── run_pipeline.py
-│
-├── data/
-│   ├── raw/
-│   └── external/
-│
-├── reports/
-├── models/
-├── assets/
-└── tests/
+|
+|-- app.py
+|-- Dockerfile
+|-- Dockerfile.api
+|-- docker-compose.yml
+|-- requirements.txt
+|-- README.md
+|-- .gitignore
+|-- .env.example
+|
+|-- api/
+|   |-- __init__.py
+|   `-- main.py
+|
+|-- src/
+|   |-- data_ingestion.py
+|   |-- data_cleaning.py
+|   |-- analytics.py
+|   |-- skill_extractor.py
+|   |-- occupation_mapper.py
+|   |-- modeling.py
+|   |-- forecasting.py
+|   |-- scipy_insights.py
+|   |-- recommender.py
+|   `-- utils.py
+|
+|-- scripts/
+|   `-- fetch_adzuna.py
+|
+|-- pipelines/
+|   `-- run_pipeline.py
+|
+|-- data/
+|   |-- raw/
+|   `-- external/
+|
+|-- reports/
+|-- models/
+|-- assets/
+`-- tests/
 ```
 
 ---
@@ -384,7 +452,7 @@ pytest -q
 - Add contextual skill extraction using embeddings or transformer-based NLP.
 - Add scheduled data refresh and monitoring.
 - Add stronger model monitoring for role classifier drift.
-- Add FastAPI backend and React frontend for a production-style version.
+- Add a React frontend for the API layer.
 - Add more detailed data quality dashboards.
 
 ---

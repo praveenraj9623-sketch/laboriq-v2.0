@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/Desktop/Labour_IQ_Upgrade/mlruns/580241401585395976/models/m-08f3a01c0e63409e9b0e29f4722508f8/artifacts
+creation_timestamp: 1781173812849
+experiment_id: '580241401585395976'
+last_updated_timestamp: 1781173815078
+model_id: m-08f3a01c0e63409e9b0e29f4722508f8
+model_type: null
+name: salary_model
+source_run_id: f89f7d5f09f04338943614deec40b574
+status: 2
+status_message: null
