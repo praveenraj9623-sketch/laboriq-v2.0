@@ -1,25 +1,29 @@
 # 🧭 LaborIQ — Labor Market Intelligence Platform
 
+**🚀 Live Application:** [Open LaborIQ v2.0](https://laboriq-v20-pap77tsgkbeqgnfrjmpjsx.streamlit.app/)
+
+**GitHub Repository:** [praveenraj9623-sketch/laboriq-v2.0](https://github.com/praveenraj9623-sketch/laboriq-v2.0)
+
 > Transforms raw job postings into structured workforce intelligence: role demand, skill demand trends, occupation mapping, salary analysis, statistical validation, and directional skill-demand forecasting.
 
-**🚀 [Open Live App →](https://laboriq-labor-market-intelligence-x4rsxl3qrjhi6rhpp9ls5m.streamlit.app/)**
+**[Open Live App →](https://laboriq-v20-pap77tsgkbeqgnfrjmpjsx.streamlit.app/)**
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://python.org)
 [![DuckDB](https://img.shields.io/badge/Analytics-DuckDB-FFC832?logo=duckdb&logoColor=black)](https://duckdb.org)
 [![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![SciPy](https://img.shields.io/badge/Statistics-SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-6366F1)](https://laboriq-labor-market-intelligence-x4rsxl3qrjhi6rhpp9ls5m.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-6366F1)](https://laboriq-v20-pap77tsgkbeqgnfrjmpjsx.streamlit.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Praveen_Raj-0F172A)](https://praveenraj9623-sketch.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/praveenraj9623-sketch/laboriq-labor-market-intelligence)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/praveenraj9623-sketch/laboriq-v2.0)
 
 ---
 
 ## Demo Preview
 
-<p align="center">
-  <img src="assets/laboriq-demo.gif" alt="LaborIQ Streamlit dashboard demo" width="900">
-</p>
+> Demo GIF placeholder: add the new walkthrough GIF here soon.
+>
+> Suggested path: `assets/laboriq-v2-demo.gif`
 
 ---
 
@@ -50,44 +54,28 @@ The project uses Python, SQL/DuckDB, NLP, SciPy, scikit-learn, Plotly, Streamlit
 
 ## System Architecture
 
-The platform is organized as four connected analytical modules forming an end-to-end data science pipeline:
+The platform is organized as an end-to-end labor-market intelligence workflow:
 
-```text
-[Raw Job Postings]  ←  Adzuna API / Static CSV / Sample Data
-         │
-         ▼
-┌─────────────────────────────────────────┐
-│  MODULE 1 — Data Ingestion & Cleaning   │
-│  Pandas · NumPy · DuckDB                │
-│  → Clean data · Source tracking         │
-└────────────────────┬────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────┐
-│  MODULE 2 — NLP Skill Extraction &      │
-│  Occupation / Role Mapping              │
-│  Taxonomy · Alias matching · TF-IDF     │
-│  → Standardized skills · Role labels    │
-└────────────────────┬────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────┐
-│  MODULE 3 — ML Modeling & Forecasting   │
-│  Logistic Regression · Ridge Regression │
-│  → Role classifier · Salary baseline    │
-│  → Directional skill-demand signals     │
-└────────────────────┬────────────────────┘
-                     │
-                     ▼
-┌─────────────────────────────────────────┐
-│  MODULE 4 — Statistical Validation      │
-│  SciPy tests · Cosine similarity        │
-│  → Validated salary and skill patterns  │
-└────────────────────┬────────────────────┘
-                     │
-                     ▼
-        [Streamlit Dashboard + Report CSVs]
+```mermaid
+flowchart TD
+    A["Job Posting Sources<br/>Adzuna API, CSV datasets, sample data"] --> B["Data Ingestion<br/>source tracking, schema alignment, deduplication"]
+    B --> C["Data Cleaning<br/>salary normalization, experience parsing, text preparation"]
+    C --> D["NLP Skill Extraction<br/>controlled taxonomy and alias matching"]
+    C --> E["Occupation Mapping<br/>role-family labels and confidence scores"]
+    D --> F["Analytics Layer<br/>role demand, skill demand, location, salary, company insights"]
+    E --> F
+    F --> G["Modeling<br/>TF-IDF role classifier and Ridge salary baseline"]
+    F --> H["Forecasting + SciPy<br/>trend signals, statistical validation, role similarity"]
+    G --> I["MLflow Tracking<br/>runs, metrics, artifacts, local model registry"]
+    G --> J["FastAPI Service<br/>health, role prediction, salary prediction, top skills"]
+    F --> K["Reports + Models<br/>CSV, JSON, joblib artifacts"]
+    H --> K
+    I --> K
+    J --> L["Portfolio Delivery<br/>Streamlit app, API layer, Docker workflow"]
+    K --> L
 ```
+
+This flow shows the full upgrade: raw jobs become cleaned analytical datasets, standardized skills, mapped role families, trained ML models, tracked experiments, API endpoints, and a Streamlit portfolio dashboard.
 
 ---
 
@@ -314,8 +302,8 @@ Then visit `http://localhost:5000` in your browser. `MLFLOW_ALLOW_FILE_STORE=tru
 ### 1. Clone and enter the repository
 
 ```bash
-git clone https://github.com/praveenraj9623-sketch/laboriq-labor-market-intelligence.git
-cd laboriq-labor-market-intelligence
+git clone https://github.com/praveenraj9623-sketch/laboriq-v2.0.git
+cd laboriq-v2.0
 ```
 
 ### 2. Create and activate a virtual environment
@@ -365,7 +353,7 @@ http://localhost:8501
 ## Project Structure
 
 ```text
-laboriq-labor-market-intelligence/
+laboriq-v2.0/
 |
 |-- app.py
 |-- Dockerfile
@@ -472,4 +460,5 @@ Built by **Praveen Raj A**
 - Portfolio: https://praveenraj9623-sketch.github.io/
 - LinkedIn: https://www.linkedin.com/in/praveen-raj-a-b05abb2a3/
 - GitHub: https://github.com/praveenraj9623-sketch
-- Live App: https://laboriq-labor-market-intelligence-x4rsxl3qrjhi6rhpp9ls5m.streamlit.app/
+- Repository: https://github.com/praveenraj9623-sketch/laboriq-v2.0
+- Live App: https://laboriq-v20-pap77tsgkbeqgnfrjmpjsx.streamlit.app/
