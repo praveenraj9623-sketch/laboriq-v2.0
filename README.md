@@ -21,9 +21,7 @@
 
 ## Demo Preview
 
-> Demo GIF placeholder: add the new walkthrough GIF here soon.
->
-> Suggested path: `assets/laboriq-v2-demo.gif`
+![LaborIQ Portfolio demo](assets/laboriq-portfolio-demo.gif)
 
 ---
 
